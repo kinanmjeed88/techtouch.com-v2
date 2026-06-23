@@ -1,0 +1,3755 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+        xmlns:atom="http://www.w3.org/2005/Atom"
+        xmlns:content="http://purl.org/rss/1.0/modules/content/"
+        xmlns:media="http://search.yahoo.com/mrss/"
+        xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+  <title>TechTouch</title>
+  <link>https://kinantouch.com</link>
+  <description>المصدر العربي الأول للمقالات التقنية، مراجعات الهواتف، والتطبيقات.</description>
+  <language>ar</language>
+  <lastBuildDate>Tue, 23 Jun 2026 13:18:26 GMT</lastBuildDate>
+  <ttl>60</ttl>
+  <atom:link href="https://kinantouch.com/feed.xml" rel="self" type="application/rss+xml" />
+
+  <item>
+    <title><![CDATA[حاسبة الطاقة الشمسية الاحترافية | تصميم منظومات الطاقة بدقة]]></title>
+    <link>https://kinantouch.com/article-hasbh-altaqh-alshmsy</link>
+    <guid isPermaLink="true">https://kinantouch.com/article-hasbh-altaqh-alshmsy</guid>
+    <pubDate>Sat, 20 Jun 2026 02:22:00 GMT</pubDate>
+    <dc:creator><![CDATA[كنان الصائغ]]></dc:creator>
+    <category>APP_Ai</category>
+    <description><![CDATA[التطبيق الهندسي الأول لتصميم منظومات الطاقة الشمسية. احسب عدد الألواح، سعة البطاريات، وأحجام القواطع بدقة معايير NEC العالمية مع استخراج تقارير PDF فنية.]]></description>
+    <content:encoded><![CDATA[<script>!function(){if(document.querySelector('script[src*="cdn.tailwindcss"]'))return;var t=document.createElement('script');t.src='https://cdn.tailwindcss.com';t.onload=function(){if(window.tailwind)tailwind.config={darkMode:'class',theme:{extend:{fontFamily:{sans:['Tajawal','sans-serif']}}}};};document.head.appendChild(t);}();</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700;900&display=swap" rel="stylesheet">
+
+<div dir="rtl">
+
+    <p>
+        <span>#تحديث</span> تطبيق المساعد الشخصي لتصميم منظومة الطاقة الشمسية. دليلك الشامل والهندسي الأول الذي يغنيك عن التخمين، صمم نظامك بالكامل بدقة علمية مطابقة لمعايير (NEC) العالمية.
+    </p>
+
+    <div>
+        <div></div>
+        <div>
+            <div>
+                <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path></svg>
+                <h3>تصميم وبرمجة حصرية</h3>
+            </div>
+            <p>
+                التطبيق من <strong>فكرتي وتصميمي الهندسي</strong>، وتمت برمجة النواة الحسابية الخاصة به كلياً وبشكل احترافي من خلال <span>الذكاء الاصطناعي (AI)</span> لضمان الخلو من الأخطاء ودقة المعادلات.
+            </p>
+        </div>
+    </div>
+
+    <div>
+        <div>
+            <svg fill="currentColor" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M256 0a256 256 0 1 1 0 512A256 256 0 1 1 256 0zM135.2 267.4c-9.5-6.5-22.6-4.1-29.1 5.5s-4.1 22.6 5.5 29.1l80 54.9c7.2 4.9 16.6 4.9 23.8 0l160-109.7c9.5-6.5 11.9-19.6 5.4-29.1s-19.6-11.9-29.1-5.4L208 311 135.2 267.4z"/></svg>
+        </div>
+    </div>
+
+    <section>
+        <h3>مرونة في الحساب وتقارير هندسية</h3>
+        <div>
+            يوفر التطبيق طريقتين للحساب: إما <strong>التفصيلي حسب عدد الأجهزة</strong> أو الحساب المباشر <strong>حسب الأمبير وساعات التشغيل</strong>. مع ميزة تصدير كافة التفاصيل بضغطة زر إلى ملف PDF احترافي وجاهز.
+        </div>
+    </section>
+
+    <section>
+        <div>
+            <span>
+                <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-6 9l2 2 4-4"></path></svg>
+            </span>
+            <h3>يسمح لك بتصميم المنظومة بالكامل:</h3>
+        </div>
+
+        <div>
+            <ul>
+                <li><span>•</span> حساب الأحمال (واط/أمبير/طن)</li>
+                <li><span>•</span> حجم بنك البطاريات والألواح</li>
+                <li><span>•</span> توصيات الإنفرتر الذكية</li>
+                <li><span>•</span> التكاليف التقريبية للمنظومة</li>
+            </ul>
+        </div>
+
+        <div>
+            <strong>مميزات استثنائية وحالات مخصصة:</strong>
+            <ul>
+                <li>
+                    <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg>
+                    أمان مطابق لمعايير (NEC) العالمية للأسلاك والقواطع
+                </li>
+                <li>
+                    <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg>
+                    دعم الحساب بدون بطاريات أو بدون ألواح (UPS)
+                </li>
+                <li>
+                    <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg>
+                    الحساب حسب أوقات تواجد وإطفاء الكهرباء الوطنية
+                </li>
+            </ul>
+        </div>
+    </section>
+
+    <section>
+        <h3>روابط التحميل المباشرة للتطبيق</h3>
+
+        <div>
+            <a href="https://www.mediafire.com/file/nf3ddhfvrenno6j/solar_calculator_64-v8.apk/file" target="_blank" rel="noopener noreferrer"
+              >
+                <svg fill="currentColor" viewBox="0 0 384 512"><path d="M318.7 268.7c-.2-36.7 15.6-64.1 39.6-79.6-18.6-26.1-45.8-30.5-55.7-31-25.4-2.6-48.1 15.1-61 15.1-13.2 0-32-14.9-52.5-14.5-26.8.5-51.4 15.6-65.2 39.6-27.9 48.3-7.2 119.3 19.9 158.3 13.3 19.1 29.2 40.6 50 39.8 20-.7 27.6-12.8 51.8-12.8 24.1 0 31 12.8 52.1 12.4 21.7-.3 34.9-19.5 48.2-39.1 15.2-22.1 21.5-43.5 21.8-44.5-.5-.2-42.3-16.2-42.6-63.2zM281.9 103.9c11.4-13.7 19-32.8 16.9-51.9-16.3.7-36.1 10.9-47.8 24.5-10.5 12.1-19.7 31.6-17.2 50.3 18.2 1.4 36.6-9.1 48.1-22.9z"></path></svg>
+                <span>تنزيل للهواتف الحديثة (64-bit)</span>
+            </a>
+            <a href="https://www.mediafire.com/file/izd8m2orrhvkr77/solar_calculator_32-v7a.apk/file" target="_blank" rel="noopener noreferrer"
+              >
+                <svg fill="currentColor" viewBox="0 0 384 512"><path d="M318.7 268.7c-.2-36.7 15.6-64.1 39.6-79.6-18.6-26.1-45.8-30.5-55.7-31-25.4-2.6-48.1 15.1-61 15.1-13.2 0-32-14.9-52.5-14.5-26.8.5-51.4 15.6-65.2 39.6-27.9 48.3-7.2 119.3 19.9 158.3 13.3 19.1 29.2 40.6 50 39.8 20-.7 27.6-12.8 51.8-12.8 24.1 0 31 12.8 52.1 12.4 21.7-.3 34.9-19.5 48.2-39.1 15.2-22.1 21.5-43.5 21.8-44.5-.5-.2-42.3-16.2-42.6-63.2zM281.9 103.9c11.4-13.7 19-32.8 16.9-51.9-16.3.7-36.1 10.9-47.8 24.5-10.5 12.1-19.7 31.6-17.2 50.3 18.2 1.4 36.6-9.1 48.1-22.9z"></path></svg>
+                <span>تنزيل للهواتف القديمة (32-bit)</span>
+            </a>
+        </div>
+    </section>
+
+    <section>
+        <a href="https://t.me/techtouch7/5548?single" target="_blank" rel="noopener noreferrer"
+          >
+            <svg fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.64 6.8c-.15 1.58-.8 5.42-1.13 7.19-.14.75-.42 1-.68 1.03-.58.05-1.02-.38-1.58-.75-.88-.58-1.38-.94-2.23-1.5-.99-.65-.35-1.01.22-1.59.15-.15 2.71-2.48 2.76-2.69.01-.03.01-.14-.07-.19-.08-.05-.19-.02-.27 0-.12.03-1.96 1.25-5.54 3.67-.52.36-.99.53-1.41.52-.46-.01-1.35-.26-2.01-.48-.81-.27-1.46-.42-1.4-.88.03-.24.34-.49.94-.76 3.68-1.6 6.13-2.66 7.35-3.16 3.49-1.45 4.22-1.7 4.7-1.71.11 0 .34.03.47.14.11.09.14.22.15.34-.01.05-.01.16-.02.22z"/></svg>
+            <div>
+                <span>تحميل التطبيق للاندرويد </span>
+                <span>عبر قناتنا على تيليجرام</span>
+            </div>
+        </a>
+    </section>
+</div>
+]]></content:encoded>
+    <media:content url="https://kinantouch.com/assets/images/1781922403728_photoi.webp" type="image/webp" medium="image" />
+    <enclosure url="https://kinantouch.com/assets/images/1781922403728_photoi.webp" type="image/webp" />
+  </item>
+  <item>
+    <title><![CDATA[تحميل تطبيق الذاكرين: أضخم مكتبة إسلامية شاملة بدون إعلانات]]></title>
+    <link>https://kinantouch.com/article-thmyl-ttbyq-althakry</link>
+    <guid isPermaLink="true">https://kinantouch.com/article-thmyl-ttbyq-althakry</guid>
+    <pubDate>Sat, 20 Jun 2026 00:39:00 GMT</pubDate>
+    <dc:creator><![CDATA[كنان الصائغ]]></dc:creator>
+    <category>APP_Ai</category>
+    <description><![CDATA[حمل تطبيق الذاكرين، مكتبتك الإسلامية الشاملة التي تضم أكثر من 38 ألف نص ديني من القرآن الكريم والأدعية. تطبيق سريع، خالي تماماً من الإعلانات، ويدعم التحديث الهوائي!]]></description>
+    <content:encoded><![CDATA[<script>!function(){if(document.querySelector('script[src*="cdn.tailwindcss"]'))return;var t=document.createElement('script');t.src='https://cdn.tailwindcss.com';t.onload=function(){if(window.tailwind)tailwind.config={darkMode:'class',theme:{extend:{fontFamily:{sans:['Tajawal','sans-serif']}}}};};document.head.appendChild(t);}();</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+<div dir="rtl">
+
+    <!-- العنوان الرئيسي -->
+    <h1>
+        تطبيق الذاكرين: المكتبة الإسلامية الشاملة في جيبك
+    </h1>
+
+    <p>
+        تطبيق إسلامي متكامل صُمم بعناية ليكون زادك الروحي اليومي. يجمع لك آلاف النصوص الدينية الموثقة في واجهة عصرية، ببرمجة شخصية بالكامل باستخدام تقنيات الذكاء الاصطناعي (AI)، وبدون أي إعلانات مزعجة.
+    </p>
+
+    <!-- صندوق الإحصائيات والمميزات الأساسية -->
+    <section>
+        <div></div>
+        <div>
+            <span><i></i></span>
+            <h3>أرقام وإمكانيات التطبيق</h3>
+        </div>
+        <p>تم بناء التطبيق وبرمجته ليوفر لك تجربة غنية وسلسة تلبي كافة احتياجاتك الدينية:</p>
+
+        <div>
+            <div>
+                <span><i></i> إجمالي المحتوى:</span>
+                <span>38,505</span>
+            </div>
+            <div>
+                <span><i></i> الإعلانات:</span>
+                <span>خالي تماماً ✅</span>
+            </div>
+        </div>
+    </section>
+
+    <!-- شبكة المحتويات والمميزات -->
+    <div>
+
+        <!-- قسم المحتويات -->
+        <section>
+            <h3>ماذا يضم تطبيق الذاكرين؟</h3>
+            <ul>
+                <li><i></i> <span><strong>القرآن الكريم والأدعية:</strong> القرآن الكريم، الزيارات، الصحيفة السجادية، الأذكار، ومفاتيح الجنان بالكامل مع مقتطفات.</span></li>
+                <li><i></i> <span><strong>الفقه والاستفتاءات:</strong> استفتاءات سماحة السيد السيستاني، والشهيدين الصدرين، وأحكام الحج.</span></li>
+                <li><i></i> <span><strong>موسوعات وقصص:</strong> موسوعة الإمام علي (ع)، الأحاديث النبوية، أسماء الله الحسنى، قصص الأنبياء، وتفسير الأحلام.</span></li>
+            </ul>
+        </section>
+
+        <!-- قسم الخصائص التقنية -->
+        <section>
+            <h3>مميزات التحديث الجديد</h3>
+            <ul>
+                <li><i></i> <span><strong>أداء فائق وحجم أقل:</strong> تم تقليل حجم التطبيق وتخصيصه للعمل بكفاءة على معالجات 64-بت فقط.</span></li>
+                <li><i></i> <span><strong>تحديث هوائي (OTA):</strong> استقبال التحديثات المستقبلية مباشرة داخل التطبيق دون الحاجة للبحث عنه مجدداً.</span></li>
+                <li><i></i> <span><strong>إضافات متطورة:</strong> تحديث دقيق للتقويم الهجري، مع توفير إعدادات متقدمة للتحكم الكامل بالتطبيق ومظهره.</span></li>
+            </ul>
+        </section>
+    </div>
+
+    <!-- قسم التحميل -->
+    <div>
+        <h3><i></i>روابط التحميل المباشرة</h3>
+        <p>ملاحظة: سيتم تجديد التحديثات مستقبلاً بنفس الصفحة.</p>
+
+        <div>
+
+            <!-- Mediafire -->
+            <a href="https://www.mediafire.com/file/61p5chfc4ms8348/الذاكرين.apk/file" target="_blank" rel="noopener noreferrer">
+                <i></i>
+                <div>
+                    <span>تحميل مباشر بصيغة APK</span>
+                    <span>تنزيل عبر Mediafire</span>
+                </div>
+            </a>
+
+            <!-- Telegram -->
+            <a href="https://t.me/techtouch7/5377" target="_blank" rel="noopener noreferrer">
+                <svg fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.64 6.8c-.15 1.58-.8 5.42-1.13 7.19-.14.75-.42 1-.68 1.03-.58.05-1.02-.38-1.58-.75-.88-.58-1.38-.94-2.23-1.5-.99-.65-.35-1.01.22-1.59.15-.15 2.71-2.48 2.76-2.69.01-.03.01-.14-.07-.19-.08-.05-.19-.02-.27 0-.12.03-1.96 1.25-5.54 3.67-.52.36-.99.53-1.41.52-.46-.01-1.35-.26-2.01-.48-.81-.27-1.46-.42-1.4-.88.03-.24.34-.49.94-.76 3.68-1.6 6.13-2.66 7.35-3.16 3.49-1.45 4.22-1.7 4.7-1.71.11 0 .34.03.47.14.11.09.14.22.15.34-.01.05-.01.16-.02.22z"/></svg>
+                <div>
+                    <span>القناة الرسمية</span>
+                    <span>تنزيل عبر تيليكرام</span>
+                </div>
+            </a>
+
+        </div>
+    </div>
+
+</div>
+]]></content:encoded>
+    <media:content url="https://kinantouch.com/assets/images/1781916373041_20260620_034554.webp" type="image/webp" medium="image" />
+    <enclosure url="https://kinantouch.com/assets/images/1781916373041_20260620_034554.webp" type="image/webp" />
+  </item>
+  <item>
+    <title><![CDATA[حسابات أكستريم:  (Xtream IPTV) مجانية ومحدثة]]></title>
+    <link>https://kinantouch.com/article-extreme-accounts-iptv</link>
+    <guid isPermaLink="true">https://kinantouch.com/article-extreme-accounts-iptv</guid>
+    <pubDate>Fri, 05 Jun 2026 13:00:00 GMT</pubDate>
+    <dc:creator><![CDATA[كنان الصائغ]]></dc:creator>
+    <category>sports</category>
+    <description><![CDATA[تحميل أفضل مشغل IPTV بدون إعلانات مع شرح إضافة الأكواد. يتضمن حسابات اكستريم]]></description>
+    <content:encoded><![CDATA[<div dir="rtl">
+
+    <p>
+        <span>#تحديث</span> مشغل ملفات IPTV اكستريم و M3U. دليلك الشامل لتشغيل وإدارة الملفات عبر تطبيق التشغيل الأفضل، مع توفير حسابات اكستريم (Xtream) مجانية متجددة، وروابط تحميل لكافة المنصات.
+    </p>
+
+    <div>
+        <div></div>
+        <div>
+            <div>
+                <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"></path></svg>
+                <h3>ملاحظة هامة جداً للمستخدمين</h3>
+            </div>
+            <p>
+                يتوفر الآن <strong>كود داونلودر عملاق</strong> حصري يحتوي على أكثر من <span>133 تطبيقاً</span> مخصصاً للهواتف والشاشات الذكية (Android TV).
+            </p>
+            <div>
+                <div onclick="copyToClipboard('6000654', 'تم نسخ كود داونلودر')">
+                    <span>الكود (انقر للنسخ):</span>
+                    <span>6000654</span>
+                </div>
+                <a href="https://kinantouch.com/article-downloader-code" target="_blank" rel="noopener noreferrer">
+                    <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path></svg>
+                    تصفح التطبيقات في الكود
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div>
+        <div>
+            <img src="https://store-images.s-microsoft.com/image/apps.16279.13585032091773240.4bccec73-8553-4cf4-9cd6-1461f6ab35d9.36817858-a9fd-4617-af4e-7dd2aca3c698?h=307" alt="تطبيق IPTV Smarters" />
+        </div>
+    </div>
+
+    <section>
+        <h3>طريقة إضافة كود اكستريم (Xtream) للتطبيق</h3>
+        <div>
+            شاهد الشرح السريع والدقيق التالي لمعرفة كيفية إدخال بيانات السيرفر (URL, Username, Password) بشكل صحيح لتشغيل القنوات بدون أخطاء على مختلف الأجهزة.
+        </div>
+
+        <div>
+            <div>
+                <iframe
+
+                    src="https://www.youtube.com/embed/9SYHAGKzXg0"
+                    title="طريقة اضافة حساب أكستريم"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen>
+                </iframe>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <div>
+            <span>
+                <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-6 9l2 2 4-4"></path></svg>
+            </span>
+            <h3>يسمح لك بمشاهدة المحتوى حسب الطلب (VOD):</h3>
+        </div>
+
+        <div>
+            <ul>
+                <li><span>•</span> رياضه بث مباشر</li>
+                <li><span>•</span> آلاف القنوات العالمية</li>
+                <li><span>•</span> أحدث الافلام</li>
+                <li><span>•</span> مكتبة مسلسلات ضخمة</li>
+            </ul>
+        </div>
+
+        <div>
+            <strong>مميزات النسخة المعدلة:</strong>
+            <ul>
+                <li>
+                    <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg>
+                    جميع الميزات المدفوعة مفتوحة مجاناً
+                </li>
+                <li>
+                    <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg>
+                    تجربة خالية تماماً من الاعلانات المزعجة
+                </li>
+                <li>
+                    <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg>
+                    تدعم إضافة الأكواد بصيغة Xtream وروابط M3U
+                </li>
+            </ul>
+        </div>
+    </section>
+
+    <section>
+        <div>
+            <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 11V7a4 4 0 118 0m-4 8v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2z"></path></svg>
+            <h3>حسابات أكستريم (Xtream IPTV) المجانية والجديدة</h3>
+        </div>
+        <p>ملاحظة: انقر على أي قيمة (الدومين، اليوزر، الباسورد) لنسخها فوراً.</p>
+
+        <!-- Dynamic Accounts List -->
+        <div id="accounts-container">
+
+            <!-- Account 1 -->
+            <div dir="ltr">
+                <div>
+                    <div>
+                        <span>Account | Expires: 2026-05-30</span>
+                        <span>Expired</span>
+                    </div>
+                    <div>
+                        <pre>
+URL: <span onclick="copyToClipboard('http://526125398533.elg-26.com:80', 'تم نسخ الدومين')">http://526125398533.elg-26.com:80</span>
+Username: <span onclick="copyToClipboard('584qyo9h82', 'تم نسخ اليوزر')">584qyo9h82</span>
+Password: <span onclick="copyToClipboard('axnx2tqirj', 'تم نسخ الباسورد')">axnx2tqirj</span>
+M3U: <span onclick="copyToClipboard('http://526125398533.elg-26.com:80/get.php?username=584qyo9h82&password=axnx2tqirj&type=m3u_plus', 'تم نسخ الرابط')">Click to Copy M3U</span></pre>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Account 2 -->
+            <div dir="ltr">
+                <div>
+                    <div>
+                        <span>Account | Expires: 2026-11-16</span>
+                        <span>Active</span>
+                    </div>
+                    <div>
+                        <pre>
+URL: <span onclick="copyToClipboard('http://hsc.tryv24.cfd:80', 'تم نسخ الدومين')">http://hsc.tryv24.cfd:80</span>
+Username: <span onclick="copyToClipboard('hsc24_975492', 'تم نسخ اليوزر')">hsc24_975492</span>
+Password: <span onclick="copyToClipboard('AMPopciF', 'تم نسخ الباسورد')">AMPopciF</span>
+M3U: <span onclick="copyToClipboard('http://hsc.tryv24.cfd:80/get.php?username=hsc24_975492&password=AMPopciF&type=m3u_plus', 'تم نسخ الرابط')">Click to Copy M3U</span></pre>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Account 3 -->
+            <div dir="ltr">
+                <div>
+                    <div>
+                        <span>Account | Expires: 2026-08-22</span>
+                        <span>Active</span>
+                    </div>
+                    <div>
+                        <pre>
+URL: <span onclick="copyToClipboard('http://my.atrupo4k.com:80', 'تم نسخ الدومين')">http://my.atrupo4k.com:80</span>
+Username: <span onclick="copyToClipboard('TrgAzyh21', 'تم نسخ اليوزر')">TrgAzyh21</span>
+Password: <span onclick="copyToClipboard('gojghV2xz8OaCOT', 'تم نسخ الباسورد')">gojghV2xz8OaCOT</span>
+M3U: <span onclick="copyToClipboard('http://my.atrupo4k.com:80/get.php?username=TrgAzyh21&password=gojghV2xz8OaCOT&type=m3u_plus', 'تم نسخ الرابط')">Click to Copy M3U</span></pre>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Account 4 -->
+            <div dir="ltr">
+                <div>
+                    <div>
+                        <span>Account | Expires: 2026-06-14</span>
+                        <span>Active</span>
+                    </div>
+                    <div>
+                        <pre>
+URL: <span onclick="copyToClipboard('http://abtvab@var8k.com:8080', 'تم نسخ الدومين')">http://abtvab@var8k.com:8080</span>
+Username: <span onclick="copyToClipboard('999111', 'تم نسخ اليوزر')">999111</span>
+Password: <span onclick="copyToClipboard('111999', 'تم نسخ الباسورد')">111999</span>
+M3U: <span onclick="copyToClipboard('http://abtvab@var8k.com:8080/get.php?username=999111&password=111999&type=m3u_plus', 'تم نسخ الرابط')">Click to Copy M3U</span></pre>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Account 5 -->
+            <div dir="ltr">
+                <div>
+                    <div>
+                        <span>Account | Expires: 2026-10-19</span>
+                        <span>Active</span>
+                    </div>
+                    <div>
+                        <pre>
+URL: <span onclick="copyToClipboard('http://abtvab3@asmr4k.pro:8080', 'تم نسخ الدومين')">http://abtvab3@asmr4k.pro:8080</span>
+Username: <span onclick="copyToClipboard('67389201934', 'تم نسخ اليوزر')">67389201934</span>
+Password: <span onclick="copyToClipboard('0572884955', 'تم نسخ الباسورد')">0572884955</span>
+M3U: <span onclick="copyToClipboard('http://abtvab3@asmr4k.pro:8080/get.php?username=67389201934&password=0572884955&type=m3u_plus', 'تم نسخ الرابط')">Click to Copy M3U</span></pre>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Account 6 -->
+            <div dir="ltr">
+                <div>
+                    <div>
+                        <span>Account | Expires: 2026-12-01</span>
+                        <span>Active</span>
+                    </div>
+                    <div>
+                        <pre>
+URL: <span onclick="copyToClipboard('http://abtvab@stb.iphd.tv:80', 'تم نسخ الدومين')">http://abtvab@stb.iphd.tv:80</span>
+Username: <span onclick="copyToClipboard('27687571', 'تم نسخ اليوزر')">27687571</span>
+Password: <span onclick="copyToClipboard('aeH33FEHuo', 'تم نسخ الباسورد')">aeH33FEHuo</span>
+M3U: <span onclick="copyToClipboard('http://abtvab@stb.iphd.tv:80/get.php?username=27687571&password=aeH33FEHuo&type=m3u_plus', 'تم نسخ الرابط')">Click to Copy M3U</span></pre>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Account 7 -->
+            <div dir="ltr">
+                <div>
+                    <div>
+                        <span>Account | Expires: 2026-07-13</span>
+                        <span>Active</span>
+                    </div>
+                    <div>
+                        <pre>
+URL: <span onclick="copyToClipboard('http://abtvab6@tvigate.com:2095', 'تم نسخ الدومين')">http://abtvab6@tvigate.com:2095</span>
+Username: <span onclick="copyToClipboard('daniaxsaleh2', 'تم نسخ اليوزر')">daniaxsaleh2</span>
+Password: <span onclick="copyToClipboard('CeHkkiG6I0', 'تم نسخ الباسورد')">CeHkkiG6I0</span>
+M3U: <span onclick="copyToClipboard('http://abtvab6@tvigate.com:2095/get.php?username=daniaxsaleh2&password=CeHkkiG6I0&type=m3u_plus', 'تم نسخ الرابط')">Click to Copy M3U</span></pre>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Account 8 -->
+            <div dir="ltr">
+                <div>
+                    <div>
+                        <span>Account | Expires: 2026-08-19</span>
+                        <span>Active</span>
+                    </div>
+                    <div>
+                        <pre>
+URL: <span onclick="copyToClipboard('http://abtvab@smart.cwdn.cx:80', 'تم نسخ الدومين')">http://abtvab@smart.cwdn.cx:80</span>
+Username: <span onclick="copyToClipboard('5sxdiau6up', 'تم نسخ اليوزر')">5sxdiau6up</span>
+Password: <span onclick="copyToClipboard('br0grnixi6', 'تم نسخ الباسورد')">br0grnixi6</span>
+M3U: <span onclick="copyToClipboard('http://abtvab@smart.cwdn.cx:80/get.php?username=5sxdiau6up&password=br0grnixi6&type=m3u_plus', 'تم نسخ الرابط')">Click to Copy M3U</span></pre>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Account 9 -->
+            <div dir="ltr">
+                <div>
+                    <div>
+                        <span>Account | Expires: 2026-06-08</span>
+                        <span>Active</span>
+                    </div>
+                    <div>
+                        <pre>
+URL: <span onclick="copyToClipboard('http://abtvab@iplay4k.ottc.pro', 'تم نسخ الدومين')">http://abtvab@iplay4k.ottc.pro</span>
+Username: <span onclick="copyToClipboard('HVESSXZMKC', 'تم نسخ اليوزر')">HVESSXZMKC</span>
+Password: <span onclick="copyToClipboard('HFSQJUDDDH', 'تم نسخ الباسورد')">HFSQJUDDDH</span>
+M3U: <span onclick="copyToClipboard('http://abtvab@iplay4k.ottc.pro/get.php?username=HVESSXZMKC&password=HFSQJUDDDH&type=m3u_plus', 'تم نسخ الرابط')">Click to Copy M3U</span></pre>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Account 10 -->
+            <div dir="ltr">
+                <div>
+                    <div>
+                        <span>Account | Expires: 2027-01-07</span>
+                        <span>Active</span>
+                    </div>
+                    <div>
+                        <pre>
+URL: <span onclick="copyToClipboard('http://abtvab@kosamo.xyz', 'تم نسخ الدومين')">http://abtvab@kosamo.xyz</span>
+Username: <span onclick="copyToClipboard('661831', 'تم نسخ اليوزر')">661831</span>
+Password: <span onclick="copyToClipboard('edtUBEr', 'تم نسخ الباسورد')">edtUBEr</span>
+M3U: <span onclick="copyToClipboard('http://abtvab@kosamo.xyz/get.php?username=661831&password=edtUBEr&type=m3u_plus', 'تم نسخ الرابط')">Click to Copy M3U</span></pre>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Account 11 -->
+            <div dir="ltr">
+                <div>
+                    <div>
+                        <span>Account | Expires: 2027-05-13</span>
+                        <span>Active</span>
+                    </div>
+                    <div>
+                        <pre>
+URL: <span onclick="copyToClipboard('http://abtvab@xtvip.net:80', 'تم نسخ الدومين')">http://abtvab@xtvip.net:80</span>
+Username: <span onclick="copyToClipboard('xiptv250', 'تم نسخ اليوزر')">xiptv250</span>
+Password: <span onclick="copyToClipboard('mohab2020', 'تم نسخ الباسورد')">mohab2020</span>
+M3U: <span onclick="copyToClipboard('http://abtvab@xtvip.net:80/get.php?username=xiptv250&password=mohab2020&type=m3u_plus', 'تم نسخ الرابط')">Click to Copy M3U</span></pre>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Account 12 -->
+            <div dir="ltr">
+                <div>
+                    <div>
+                        <span>Account | Expires: 2026-12-03</span>
+                        <span>Active</span>
+                    </div>
+                    <div>
+                        <pre>
+URL: <span onclick="copyToClipboard('http://abtvab@xtvip.net:80', 'تم نسخ الدومين')">http://abtvab@xtvip.net:80</span>
+Username: <span onclick="copyToClipboard('tune5348', 'تم نسخ اليوزر')">tune5348</span>
+Password: <span onclick="copyToClipboard('539449366', 'تم نسخ الباسورد')">539449366</span>
+M3U: <span onclick="copyToClipboard('http://abtvab@xtvip.net:80/get.php?username=tune5348&password=539449366&type=m3u_plus', 'تم نسخ الرابط')">Click to Copy M3U</span></pre>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Account 13 -->
+            <div dir="ltr">
+                <div>
+                    <div>
+                        <span>Account | Expires: 2026-06-03</span>
+                        <span>Active</span>
+                    </div>
+                    <div>
+                        <pre>
+URL: <span onclick="copyToClipboard('http://abtvab@katgj.aldocecelia.org:80', 'تم نسخ الدومين')">http://abtvab@katgj.aldocecelia.org:80</span>
+Username: <span onclick="copyToClipboard('5CLW8L6', 'تم نسخ اليوزر')">5CLW8L6</span>
+Password: <span onclick="copyToClipboard('GMP123T', 'تم نسخ الباسورد')">GMP123T</span>
+M3U: <span onclick="copyToClipboard('http://abtvab@katgj.aldocecelia.org:80/get.php?username=5CLW8L6&password=GMP123T&type=m3u_plus', 'تم نسخ الرابط')">Click to Copy M3U</span></pre>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Account 14 -->
+            <div dir="ltr">
+                <div>
+                    <div>
+                        <span>Account | Expires: Unknown</span>
+                        <span>Active</span>
+                    </div>
+                    <div>
+                        <pre>
+URL: <span onclick="copyToClipboard('http://prorev-titan.com:2052', 'تم نسخ الدومين')">http://prorev-titan.com:2052</span>
+Username: <span onclick="copyToClipboard('642890143', 'تم نسخ اليوزر')">642890143</span>
+Password: <span onclick="copyToClipboard('782314548', 'تم نسخ الباسورد')">782314548</span>
+M3U: <span onclick="copyToClipboard('http://prorev-titan.com:2052/get.php?username=642890143&password=782314548&type=m3u_plus', 'تم نسخ الرابط')">Click to Copy M3U</span></pre>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Account 15 -->
+            <div dir="ltr">
+                <div>
+                    <div>
+                        <span>Account | Expires: Unknown</span>
+                        <span>Active</span>
+                    </div>
+                    <div>
+                        <pre>
+URL: <span onclick="copyToClipboard('http://asmr4k.pro:8080', 'تم نسخ الدومين')">http://asmr4k.pro:8080</span>
+Username: <span onclick="copyToClipboard('05347247405', 'تم نسخ اليوزر')">05347247405</span>
+Password: <span onclick="copyToClipboard('3100934708', 'تم نسخ الباسورد')">3100934708</span>
+M3U: <span onclick="copyToClipboard('http://asmr4k.pro:8080/get.php?username=05347247405&password=3100934708&type=m3u_plus', 'تم نسخ الرابط')">Click to Copy M3U</span></pre>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <section>
+        <h3>روابط التحميل المباشرة للتطبيقات المشغلة</h3>
+
+        <div>
+            <div>
+                <h4>للشاشات الذكية وأجهزة الـ TV Box</h4>
+                <p>استخدم تطبيق Downloader الشهير وأدخل الكود التالي للتحميل المباشر لنسخة TV:</p>
+            </div>
+            <div onclick="copyToClipboard('8152914', 'تم نسخ كود تحميل التطبيق')">
+                <span>8152914</span>
+            </div>
+        </div>
+
+        <div>
+            <a href="https://apps.apple.com/us/app/smarters-player-lite/id1628995509" target="_blank" rel="noopener noreferrer"
+              >
+                <svg fill="currentColor" viewBox="0 0 384 512"><path d="M318.7 268.7c-.2-36.7 15.6-64.1 39.6-79.6-18.6-26.1-45.8-30.5-55.7-31-25.4-2.6-48.1 15.1-61 15.1-13.2 0-32-14.9-52.5-14.5-26.8.5-51.4 15.6-65.2 39.6-27.9 48.3-7.2 119.3 19.9 158.3 13.3 19.1 29.2 40.6 50 39.8 20-.7 27.6-12.8 51.8-12.8 24.1 0 31 12.8 52.1 12.4 21.7-.3 34.9-19.5 48.2-39.1 15.2-22.1 21.5-43.5 21.8-44.5-.5-.2-42.3-16.2-42.6-63.2zM281.9 103.9c11.4-13.7 19-32.8 16.9-51.9-16.3.7-36.1 10.9-47.8 24.5-10.5 12.1-19.7 31.6-17.2 50.3 18.2 1.4 36.6-9.1 48.1-22.9z"></path></svg>
+                <span>تحميل للايفون والآيباد (Smarters Lite)</span>
+            </a>
+            <a href="https://t.me/techtouch7/995" target="_blank" rel="noopener noreferrer"
+              >
+                <svg fill="currentColor" viewBox="0 0 448 512"><path d="M0 93.7l183.6-25.3v177.4H0V93.7zm183.6 172.1L183.6 443.6 0 418.3V265.8h183.6zM203.2 65.1l244.8-33.7v234.4H203.2V65.1zm244.8 200.7v212.5L203.2 444.6V265.8h244.8z"></path></svg>
+                <span>تحميل لنسخة الكمبيوتر (Windows)</span>
+            </a>
+        </div>
+    </section>
+
+    <section>
+        <a href="https://t.me/techtouch7/1830?single" target="_blank" rel="noopener noreferrer"
+          >
+            <svg fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.64 6.8c-.15 1.58-.8 5.42-1.13 7.19-.14.75-.42 1-.68 1.03-.58.05-1.02-.38-1.58-.75-.88-.58-1.38-.94-2.23-1.5-.99-.65-.35-1.01.22-1.59.15-.15 2.71-2.48 2.76-2.69.01-.03.01-.14-.07-.19-.08-.05-.19-.02-.27 0-.12.03-1.96 1.25-5.54 3.67-.52.36-.99.53-1.41.52-.46-.01-1.35-.26-2.01-.48-.81-.27-1.46-.42-1.4-.88.03-.24.34-.49.94-.76 3.68-1.6 6.13-2.66 7.35-3.16 3.49-1.45 4.22-1.7 4.7-1.71.11 0 .34.03.47.14.11.09.14.22.15.34-.01.05-.01.16-.02.22z"/></svg>
+            <div>
+                <span>تحميل التطبيق للاندرويد </span>
+                <span>عبر قناتنا على تيليجرام</span>
+            </div>
+        </a>
+    </section>
+</div>
+
+<script>
+function copyToClipboard(text, message) {
+    navigator.clipboard.writeText(text).then(function() {
+        const toast = document.createElement('div');
+        toast.textContent = message;
+        toast.style.cssText = `
+            position: fixed;
+            bottom: 20px;
+            left: 50%;
+            transform: translateX(-50%);
+            background-color: #2d2d2d;
+            color: #4ade80;
+            padding: 10px 20px;
+            border-radius: 10px;
+            border: 1px solid #166534;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+            z-index: 10000;
+            font-family: Tajawal, sans-serif;
+            font-size: 14px;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        `;
+        document.body.appendChild(toast);
+        setTimeout(() => toast.style.opacity = '1', 10);
+        setTimeout(() => {
+            toast.style.opacity = '0';
+            setTimeout(() => document.body.removeChild(toast), 300);
+        }, 2000);
+    });
+}
+</script>
+]]></content:encoded>
+    <media:content url="https://kinantouch.com/assets/images/1774270463586_20260323_155405.webp" type="image/webp" medium="image" />
+    <enclosure url="https://kinantouch.com/assets/images/1774270463586_20260323_155405.webp" type="image/webp" />
+  </item>
+  <item>
+    <title><![CDATA[تحميل تطبيق Reezn TV لمشاهدة القنوات والأفلام (للهواتف والشاشات)]]></title>
+    <link>https://kinantouch.com/article-download-reezn-tv</link>
+    <guid isPermaLink="true">https://kinantouch.com/article-download-reezn-tv</guid>
+    <pubDate>Wed, 03 Jun 2026 17:15:00 GMT</pubDate>
+    <dc:creator><![CDATA[كنان الصائغ]]></dc:creator>
+    <category>apps</category>
+    <description><![CDATA[تمتع بمشاهدة القنوات العربية والأجنبية، وأحدث الأفلام والمسلسلات للهواتف وشاشات التلفاز الذكية."]]></description>
+    <content:encoded><![CDATA[<script>!function(){if(document.querySelector('script[src*="cdn.tailwindcss"]'))return;var t=document.createElement('script');t.src='https://cdn.tailwindcss.com';t.onload=function(){if(window.tailwind)tailwind.config={darkMode:'class',theme:{extend:{fontFamily:{sans:['Tajawal','sans-serif']}}}};};document.head.appendChild(t);}();</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+<div dir="rtl">
+
+    <h1>
+        تطبيق Reezn TV: عملاق المشاهدة الحية للقنوات والأفلام بدون تقطيع
+    </h1>
+
+    <p>
+        إذا كنت من عشاق السينما والبث الرياضي المباشر، فإن تطبيق <strong>Reezn</strong> هو خيارك الأفضل! تطبيق أثبت كفاءته في توفير قنوات عربية وأجنبية بجميع الجودات وبثبات فائق، مع مكتبة ضخمة جداً لأحدث الأفلام والمسلسلات.
+    </p>
+
+    <section>
+        <div></div>
+        <div>
+            <span><i></i></span>
+            <h3>التحميل المباشر للشاشات (Android TV / Fire TV)</h3>
+        </div>
+        <p>استخدم تطبيق <span>Downloader</span> في شاشتك الذكية وأدخل الأكواد التالية للحصول على التطبيق فوراً:</p>
+
+        <div>
+            <div onclick="navigator.clipboard.writeText('4142603'); alert('تم نسخ كود تطبيق Reezn');">
+                <span>كود تطبيق Reezn:</span>
+                <span>7347617</span>
+            </div>
+            <div onclick="navigator.clipboard.writeText('6000654'); alert('تم نسخ كود مكتبة التطبيقات');">
+                <span>مكتبة تطبيقات الشاشة:</span>
+                <span>6000654</span>
+            </div>
+        </div>
+    </section>
+
+    <div>
+        <section>
+            <h3>ماذا يضم تطبيق Reezn؟</h3>
+            <ul>
+                <li><i></i> <span><strong>قنوات البث المباشر (Live TV):</strong> تشمل باقات الرياضة، الأخبار، والقنوات الترفيهية العربية والأجنبية.</span></li>
+                <li><i></i> <span><strong>مكتبة الأفلام (VOD):</strong> أضخم واحدث الأفلام بجودات متعددة تناسب شاشتك.</span></li>
+                <li><i></i> <span><strong>قسم المسلسلات:</strong> تحديث يومي لأحدث حلقات المسلسلات العالمية والتركية والعربية.</span></li>
+            </ul>
+        </section>
+
+        <section>
+            <h3>خصائص Reezn التقنية</h3>
+            <ul>
+                <li><i></i> <span><strong>داعم للإنترنت الضعيف:</strong> يعمل بثبات عالي وبدون تقطيع حتى مع السرعات المتوسطة.</span></li>
+                <li><i></i> <span><strong>دعم كامل للترجمة:</strong> دمج تلقائي وسهل لترجمات الأفلام بجميع اللغات.</span></li>
+                <li><i></i> <span><strong>توافق مثالي:</strong> واجهة سهلة متوافقة مع كل أجهزة الأندرويد (هواتف، TV Box، وشاشات).</span></li>
+            </ul>
+        </section>
+    </div>
+
+    <div>
+        <div>
+            <h3>انضم لمجتمعنا التقني</h3>
+            <p>تابع أحدث التحديثات، واطلب تطبيقاتك المفضلة عبر البوت الرسمي.</p>
+        </div>
+        <a href="https://kinantouch.com/tools-sites" target="_blank">
+            <i></i> مجلد القنوات والأدوات
+        </a>
+    </div>
+
+    <div>
+        <h3><i></i>روابط تحميل Reezn المباشرة</h3>
+        <div>
+
+            <a href="https://t.me/techtouch7/5003" target="_blank" rel="noopener noreferrer">
+                <svg fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.64 6.8c-.15 1.58-.8 5.42-1.13 7.19-.14.75-.42 1-.68 1.03-.58.05-1.02-.38-1.58-.75-.88-.58-1.38-.94-2.23-1.5-.99-.65-.35-1.01.22-1.59.15-.15 2.71-2.48 2.76-2.69.01-.03.01-.14-.07-.19-.08-.05-.19-.02-.27 0-.12.03-1.96 1.25-5.54 3.67-.52.36-.99.53-1.41.52-.46-.01-1.35-.26-2.01-.48-.81-.27-1.46-.42-1.4-.88.03-.24.34-.49.94-.76 3.68-1.6 6.13-2.66 7.35-3.16 3.49-1.45 4.22-1.7 4.7-1.71.11 0 .34.03.47.14.11.09.14.22.15.34-.01.05-.01.16-.02.22z"/></svg>
+                <div>
+                    <span>تحميل مباشر APK</span>
+                    <span>تنزيل Reezn للهاتف</span>
+                </div>
+            </a>
+
+            <a href="https://t.me/techtouchAI_bot" target="_blank" rel="noopener noreferrer">
+                <i></i>
+                <span>الدعم وبوت الطلبات</span>
+            </a>
+
+        </div>
+    </div>
+
+</div>
+]]></content:encoded>
+    <media:content url="https://kinantouch.com/assets/images/1776362291260_Reezn-TV.webp" type="image/webp" medium="image" />
+    <enclosure url="https://kinantouch.com/assets/images/1776362291260_Reezn-TV.webp" type="image/webp" />
+  </item>
+  <item>
+    <title><![CDATA[Netfly TV: للاندرويد – نسخة VIP + كود التفعيل للشاشات]]></title>
+    <link>https://kinantouch.com/article-vip-netfly</link>
+    <guid isPermaLink="true">https://kinantouch.com/article-vip-netfly</guid>
+    <pubDate>Sat, 23 May 2026 18:45:00 GMT</pubDate>
+    <dc:creator><![CDATA[كنان الصائغ]]></dc:creator>
+    <category>sports</category>
+    <description><![CDATA[تقديم محتوى ترفيهي ورياضي شامل، مصمم ليعمل بمرونة فائقة على جميع الأجهزة.]]></description>
+    <content:encoded><![CDATA[<div>
+
+  <section>
+    <h2>نظرة عامة على تطبيق NETFLY Tv</h2>
+    <p>
+      تطبيق <strong>Netfly</strong> هو منصة بث شاملة تجمع بين خدمات الفيديو حسب الطلب (VOD) والبث التلفزيوني المباشر (Live TV). يركز التطبيق على توفير محتوى ترفيهي ورياضي متكامل، مصمم ليعمل بمرونة عالية على مختلف الأجهزة الذكية.
+    </p>
+  </section>
+
+  <section>
+    <div>
+      <span>🎬</span>
+      <h3>محتويات التطبيق والميزات</h3>
+    </div>
+
+    <ul>
+      <li>
+        <strong>قنوات الأفلام والمسلسلات:</strong> باقات مخصصة لبث أحدث الإصدارات السينمائية والأعمال الدرامية على مدار الساعة.
+      </li>
+      <li>
+        <strong>قنوات الرياضة والباقات العالمية:</strong> تغطية شاملة للأحداث الرياضية عبر قنوات متخصصة، بالإضافة إلى باقات تلفزيونية عالمية متنوعة.
+      </li>
+      <li>
+        <strong>توافق شامل:</strong> يعمل بكفاءة على الشاشات الذكية (Smart TVs)، أجهزة (TV Box)، الهواتف المحمولة، والأجهزة اللوحية.
+      </li>
+      <li>
+        <strong>نسخة الهواتف (VIP):</strong> نسخة معدلة ومفتوحة الصلاحيات (Premium) توفر وصولاً كاملاً للمحتوى المدفوع للهواتف المحمولة.
+      </li>
+    </ul>
+  </section>
+
+  <section>
+    <div>
+      <span>
+          <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.75 17L9 20l-1 1h8l-1-1-.75-3M3 13h18M5 17h14a2 2 0 002-2V5a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path></svg>
+      </span>
+      <h3>كود التحميل للشاشات الذكية (Downloader)</h3>
+    </div>
+
+    <div dir="ltr">
+      <div>
+          <div>
+              <div>
+                  <span></span>
+                  <span></span>
+                  <span></span>
+              </div>
+              <span>TV Downloader Code</span>
+          </div>
+          <div>
+              <pre><code>📺 كود تطبيق NETFLY Tv:
+<span>3517486</span></code></pre>
+          </div>
+      </div>
+    </div>
+
+    <div>
+      <div>
+        <span>⚠️</span>
+        <div>
+          <span>ملاحظة هامة:</span>
+          <span>نسخة الشاشات الذكية المحملة عبر هذا الكود النسخة معدلة VIP).</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <a href="https://t.me/techtouch7/3797" target="_blank" rel="noopener noreferrer"
+      >
+      <svg fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.64 6.8c-.15 1.58-.8 5.42-1.13 7.19-.14.75-.42 1-.68 1.03-.58.05-1.02-.38-1.58-.75-.88-.58-1.38-.94-2.23-1.5-.99-.65-.35-1.01.22-1.59.15-.15 2.71-2.48 2.76-2.69.01-.03.01-.14-.07-.19-.08-.05-.19-.02-.27 0-.12.03-1.96 1.25-5.54 3.67-.52.36-.99.53-1.41.52-.46-.01-1.35-.26-2.01-.48-.81-.27-1.46-.42-1.4-.88.03-.24.34-.49.94-.76 3.68-1.6 6.13-2.66 7.35-3.16 3.49-1.45 4.22-1.7 4.7-1.71.11 0 .34.03.47.14.11.09.14.22.15.34-.01.05-.01.16-.02.22z"/></svg>
+      <div>
+          <span>⬇️ رابط تحميل تطبيق من Telegram </span>
+          <span> تحميل NETFLY Tv Telegram</span>
+      </div>
+    </a>
+  </section>
+
+</div>
+]]></content:encoded>
+    <media:content url="https://kinantouch.com/assets/images/1772013254030_٢٠٢٦٠٢٢٥_١٢٣٤٠٣.webp" type="image/webp" medium="image" />
+    <enclosure url="https://kinantouch.com/assets/images/1772013254030_٢٠٢٦٠٢٢٥_١٢٣٤٠٣.webp" type="image/webp" />
+  </item>
+  <item>
+    <title><![CDATA[نشر روابط البث المباشر        متجدد]]></title>
+    <link>https://kinantouch.com/article-nshr-rwabt-albth-alm</link>
+    <guid isPermaLink="true">https://kinantouch.com/article-nshr-rwabt-albth-alm</guid>
+    <pubDate>Sun, 17 May 2026 05:00:00 GMT</pubDate>
+    <dc:creator><![CDATA[كنان الصائغ]]></dc:creator>
+    <category>sports</category>
+    <description><![CDATA[يتعلق الأمر بتوزيع الروابط الخاصة بالبث المباشر للمحتوى. الهدف هو تسهيل الوصول إلى المشاهدين.]]></description>
+    <content:encoded><![CDATA[<div>
+
+<div>
+  <img src="https://www.almutanabi.shop/images/Live1.gif" loading="lazy" alt="صورة المقال" onerror="this.setAttribute('data-error','1'); this.classList.add('border-red-400', 'bg-red-50'); this.title='تعذّر تحميل الصورة — تحقق من الرابط';" />
+</div>
+
+<div>
+<div>
+
+  <div>
+    <p>
+      ⚠️ يتم تحديث الروابط باستمرار في نفس المقال.
+    </p>
+  </div>
+
+  <div>
+    <span>
+      <span></span> بث مباشر
+    </span>
+  </div>
+
+  <div>
+
+    <figure>
+      <div>
+        <img src="https://upload.wikimedia.org/wikipedia/ar/5/56/Real_Madrid_CF.svg" loading="lazy" alt="ريال مدريد" onerror="this.setAttribute('data-error','1'); this.classList.add('border-red-400', 'bg-red-50'); this.title='تعذّر تحميل الصورة — تحقق من الرابط';" />
+      </div>
+      <figcaption>
+        ريال مدريد
+      </figcaption>
+    </figure>
+
+    <div>
+      <span>VS</span>
+    </div>
+
+    <figure>
+      <div>
+        <img src="https://upload.wikimedia.org/wikipedia/ar/3/3b/Sevilla_FC_logo.svg" loading="lazy" alt="أشبيلية" onerror="this.setAttribute('data-error','1'); this.classList.add('border-red-400', 'bg-red-50'); this.title='تعذّر تحميل الصورة — تحقق من الرابط';" />
+      </div>
+      <figcaption>
+        أشبيلية
+      </figcaption>
+    </figure>
+
+  </div>
+
+
+      <div>
+         <div>
+
+            <span><span>📺</span> beIN Sports 2</span>
+            <span><span>🎙️</span> جارية الان</span>
+
+         </div>
+      </div>
+
+  <div>
+    <div>
+      <span>اختر سيرفر المشاهدة</span>
+    </div>
+    <div>
+<a href="https://www.facebook.com/share/v/1BYCHBcC9d/" target="_blank" rel="noopener noreferrer"
+     >
+      <svg fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM9.555 7.168A1 1 0 008 8v4a1 1 0 001.555.832l3-2a1 1 0 000-1.664l-3-2z" clip-rule="evenodd"></path></svg> سيرفر المشاهدة (1)
+      </a>
+<a href="https://www.facebook.com/share/v/1BSbiUTsFs/" target="_blank" rel="noopener noreferrer"
+     >
+      <svg fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM9.555 7.168A1 1 0 008 8v4a1 1 0 001.555.832l3-2a1 1 0 000-1.664l-3-2z" clip-rule="evenodd"></path></svg> سيرفر المشاهدة (2)
+      </a>
+<a href="https://www.facebook.com/share/v/1CrHwyLpRc/" target="_blank" rel="noopener noreferrer"
+     >
+      <svg fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM9.555 7.168A1 1 0 008 8v4a1 1 0 001.555.832l3-2a1 1 0 000-1.664l-3-2z" clip-rule="evenodd"></path></svg> سيرفر المشاهدة (3)
+      </a>
+<a href="https://www.facebook.com/share/v/1KspRTx8vd/" target="_blank" rel="noopener noreferrer"
+     >
+      <svg fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM9.555 7.168A1 1 0 008 8v4a1 1 0 001.555.832l3-2a1 1 0 000-1.664l-3-2z" clip-rule="evenodd"></path></svg> سيرفر المشاهدة (4)
+      </a>
+<a href="https://www.facebook.com/share/v/18qLyNhvVM/" target="_blank" rel="noopener noreferrer"
+     >
+      <svg fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM9.555 7.168A1 1 0 008 8v4a1 1 0 001.555.832l3-2a1 1 0 000-1.664l-3-2z" clip-rule="evenodd"></path></svg> سيرفر المشاهدة (5)
+      </a>
+<a href="https://www.facebook.com/share/v/18D3rVZLMr/" target="_blank" rel="noopener noreferrer"
+     >
+      <svg fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM9.555 7.168A1 1 0 008 8v4a1 1 0 001.555.832l3-2a1 1 0 000-1.664l-3-2z" clip-rule="evenodd"></path></svg> سيرفر المشاهدة (6)
+      </a>
+    </div>
+    <div>
+      <p>هل تواجه مشكلة؟</p>
+      <a href="https://t.me/techtouchAI_bot" target="_blank">
+        <svg fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.64 6.8c-.15 1.58-.8 5.42-1.13 7.19-.14.75-.42 1-.68 1.03-.58.05-1.02-.38-1.58-.75-.88-.58-1.38-.94-2.23-1.5-.99-.65-.35-1.01.22-1.59.15-.15 2.71-2.48 2.76-2.69.01-.03.01-.14-.07-.19-.08-.05-.19-.02-.27 0-.12.03-1.96 1.25-5.54 3.67-.52.36-.99.53-1.41.52-.46-.01-1.35-.26-2.01-.48-.81-.27-1.46-.42-1.4-.88.03-.24.34-.49.94-.76 3.68-1.6 6.13-2.66 7.35-3.16 3.49-1.45 4.22-1.7 4.7-1.71.11 0 .34.03.47.14.11.09.14.22.15.34-.01.05-.01.16-.02.22z"/></svg> تواصل مع الدعم
+      </a>
+    </div>
+  </div>
+</div>
+
+<div></div>
+</div>
+
+</div>]]></content:encoded>
+    <media:content url="https://kinantouch.com/assets/images/1770940566987_file_000000004e90720a8791e6fdb9905420_(1).webp" type="image/webp" medium="image" />
+    <enclosure url="https://kinantouch.com/assets/images/1770940566987_file_000000004e90720a8791e6fdb9905420_(1).webp" type="image/webp" />
+  </item>
+  <item>
+    <title><![CDATA[تطبيق Aura Cine Play للأفلام وغرف المشاهدة الجماعية]]></title>
+    <link>https://kinantouch.com/article-ttbyq-aura-cine-play</link>
+    <guid isPermaLink="true">https://kinantouch.com/article-ttbyq-aura-cine-play</guid>
+    <pubDate>Fri, 08 May 2026 21:02:00 GMT</pubDate>
+    <dc:creator><![CDATA[كنان الصائغ]]></dc:creator>
+    <category>apps</category>
+    <description><![CDATA[اكتشف تطبيق Aura Cine Play لتجربة سينمائية واجتماعية فريدة! مكتبة أفلام ومسلسلات متجددة، غرف مشاهدة جماعية مع الأصدقاء، واقتراحات ذكية تناسب ذوقك. حمل الآن!]]></description>
+    <content:encoded><![CDATA[<div dir="rtl">
+
+    <header>
+        <div>
+            <span>تطبيق حصري وجديد</span>
+            <span>🔥 ترند</span>
+        </div>
+        <h1>
+            <span>Aura Cine Play</span>: تجربة سينمائية واجتماعية لم تعشها من قبل!
+        </h1>
+        <p>
+            اكتشف عالمًا جديدًا من الترفيه الرقمي، حيث لا تتوقف الإثارة أبدًا. نضع بين يديك منصة متكاملة للأفلام والمسلسلات، تتميز بمكتبة ضخمة يتم تحديثها وإغناؤها بالمحتوى الجديد على مدار الساعة، لضمان تجربة مشاهدة متجددة ولا مِثيل لها.
+        </p>
+    </header>
+
+    <div>
+        <div>💬</div>
+        <div>
+            <p>
+                هل تعبت من مشاهدة الأفلام لوحدك؟ حان الوقت لتعيش تجربة مختلفة كليًا 🔥
+                <br>
+                <span>
+                    تطبيق عراقي جديد يجمع بين مشاهدة الأفلام والتواصل الاجتماعي بطريقة ذكية وممتعة.
+                </span>
+            </p>
+        </div>
+    </div>
+
+    <section>
+        <h3>✨ أهم مميزات التطبيق</h3>
+
+        <div>
+            <div>
+                <div>
+                    <div>🎥</div>
+                    <h4>مكتبة ضخمة ومتجددة</h4>
+                </div>
+                <ul>
+                    <li>أفلام حصرية يتم تحديثها باستمرار.</li>
+                    <li><span>قريباً:</span> إضافة مسلسلات حصرية.</li>
+                    <li>قسم "الأكثر مشاهدة" لمعرفة الترند أول بأول.</li>
+                </ul>
+            </div>
+
+            <div>
+                <div>
+                    <div>🤖</div>
+                    <h4>ذكاء اصطناعي مخصص</h4>
+                </div>
+                <p>
+                    لا تحتار في اختيار فيلمك القادم! نظام الذكاء الاصطناعي يقترح لك أعمالاً تناسب مزاجك واهتماماتك بدقة.
+                </p>
+            </div>
+
+            <div>
+                <div>
+                    <div>👥</div>
+                    <h4>غرف مشاهدة جماعية</h4>
+                </div>
+                <ul>
+                    <li>شاهد أي فيلم مع أصدقائك (حتى 5 أشخاص).</li>
+                    <li>دردشة مباشرة داخل الغرفة للتفاعل.</li>
+                    <li>إحساس سينما حقيقي وأنتم سوياً.</li>
+                </ul>
+            </div>
+
+            <div>
+                <div>
+                    <div>💬</div>
+                    <h4>تواصل اجتماعي متكامل</h4>
+                </div>
+                <ul>
+                    <li>رسائل خاصة بين الأعضاء.</li>
+                    <li>إضافة أصدقاء وبناء مجتمعك.</li>
+                    <li>تعليقات، لايكات، وتفاعل حقيقي على كل فيلم.</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <h3>🚀 ليش هذا التطبيق مختلف؟</h3>
+        <p>
+            مو مجرد منصة أفلام… هذا مجتمع ترفيهي متكامل يجمع بين المتعة والتواصل والتقنية الحديثة.
+        </p>
+        <div>
+            🎯 إذا تحب الأفلام + التواصل + تجربة جديدة.. هذا التطبيق معمول إلك!
+        </div>
+    </section>
+
+    <section>
+        <h3>روابط الوصول والتحميل المباشرة</h3>
+
+        <div>
+            <a href="https://aura-cine-play.vercel.app/" target="_blank" rel="noopener noreferrer">
+                <div>
+                    <i></i>
+                    <i></i>
+                </div>
+                <span>موقع الويب<br><span>(للايفون والشاشات الذكية)</span></span>
+            </a>
+
+            <a href="https://t.me/techtouch7/5303" target="_blank" rel="noopener noreferrer">
+                <div>
+                    <i></i>
+                    <i></i>
+                </div>
+                <span>تطبيق الأندرويد<br><span>(تحميل مباشر من تيليجرام)</span></span>
+            </a>
+        </div>
+
+        <div onclick="copyToClipboard('https://aura-cine-play.vercel.app/', 'تم نسخ رابط الموقع بنجاح!')">
+            <div>
+                <span>انسخ رابط الموقع للمشاركة (انقر للنسخ):</span>
+                <span>https://aura-cine-play.vercel.app/</span>
+            </div>
+            <div>
+                <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z"></path></svg>
+            </div>
+        </div>
+    </section>
+
+</div>
+
+<script>
+function copyToClipboard(text, message) {
+    navigator.clipboard.writeText(text).then(function() {
+        const toast = document.createElement('div');
+        toast.textContent = message;
+        toast.style.cssText = `
+            position: fixed;
+            bottom: 20px;
+            left: 50%;
+            transform: translateX(-50%);
+            background-color: #111827;
+            color: #4ade80;
+            padding: 12px 24px;
+            border-radius: 12px;
+            border: 1px solid #166534;
+            box-shadow: 0 10px 15px -3px rgba(0,0,0,0.5);
+            z-index: 10000;
+            font-family: Tajawal, sans-serif;
+            font-size: 15px;
+            font-weight: bold;
+            opacity: 0;
+            transition: opacity 0.3s ease, bottom 0.3s ease;
+        `;
+        document.body.appendChild(toast);
+
+        setTimeout(() => {
+            toast.style.opacity = '1';
+            toast.style.bottom = '30px';
+        }, 10);
+
+        setTimeout(() => {
+            toast.style.opacity = '0';
+            toast.style.bottom = '20px';
+            setTimeout(() => document.body.removeChild(toast), 300);
+        }, 2500);
+    }).catch(function(err) {
+        console.error('Could not copy text: ', err);
+    });
+}
+</script>
+]]></content:encoded>
+    <media:content url="https://kinantouch.com/assets/images/1778275365004_20260509_122202.webp" type="image/webp" medium="image" />
+    <enclosure url="https://kinantouch.com/assets/images/1778275365004_20260509_122202.webp" type="image/webp" />
+  </item>
+  <item>
+    <title><![CDATA[​"DeepSeek-V4: نموذج الذكاء الاصطناعي الأقوى والأسرع يضاهي النماذج العالمية-!"]]></title>
+    <link>https://kinantouch.com/article-deepseek-v4-update</link>
+    <guid isPermaLink="true">https://kinantouch.com/article-deepseek-v4-update</guid>
+    <pubDate>Fri, 24 Apr 2026 11:35:00 GMT</pubDate>
+    <dc:creator><![CDATA[كنان الصائغ]]></dc:creator>
+    <category>AI</category>
+    <description><![CDATA[الجيل الجديد من الذكاء الاصطناعي بقدرات مذهلة! اختر بين DeepSeek-V4 Pro للأداء الفائق و 100K سياق رمزي، أو DeepSeek-V4 Flash للسرعة الخارقة (أسرع 30 مرة). مع ميزات اخرى.]]></description>
+    <content:encoded><![CDATA[<script>!function(){if(document.querySelector('script[src*="cdn.tailwindcss"]'))return;var t=document.createElement('script');t.src='https://cdn.tailwindcss.com';t.onload=function(){if(window.tailwind)tailwind.config={darkMode:'class',theme:{extend:{fontFamily:{sans:['Tajawal','sans-serif']}}}};};document.head.appendChild(t);}();</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+<style> html { scroll-behavior: smooth; } </style>
+
+<div dir="rtl">
+
+    <h1>
+        الإعلان رسمياً عن DeepSeek-V4: ثورة الذكاء الاصطناعي التي تكسر كل القواعد!
+    </h1>
+
+    <p>
+        أعلنت شركة DeepSeek رسمياً عن إطلاق الإصدار التجريبي المفتوح المصدر لنموذجها الأحدث <strong>DeepSeek-V4</strong>. هذا الإصدار لا يمثل مجرد ترقية عادية، بل قفزة تقنية هائلة تدشن حقبة "السياق المليوني بتكلفة اقتصادية"، مع أداء يضاهي بل ويتفوق على أعتى النماذج المغلقة في العالم!
+    </p>
+
+    <div>
+        <h2>
+            <i></i> محتويات التحديث الرسمي:
+        </h2>
+        <ul>
+            <li><a href="#models-specs"><i></i> 1. المعاملات والإصدارات (Pro vs Flash)</a></li>
+            <li><a href="#tech-innovations"><i></i> 2. الابتكار الهيكلي: نافذة 1M وتقنية DSA</a></li>
+            <li><a href="#performance"><i></i> 3. نتائج الأداء والتقييمات الرسمية</a></li>
+            <li><a href="#agentic-ai"><i></i> 4. التخصيص الكامل لوكلاء الذكاء الاصطناعي (Agents)</a></li>
+            <li><a href="#how-to-use"><i></i> 5. أنماط الاستخدام وكيفية التجربة</a></li>
+        </ul>
+    </div>
+
+    <section id="models-specs">
+        <h3>
+            1. تفاصيل المعاملات والإصدارات المتاحة
+        </h3>
+        <p>تم تدريب كلا الإصدارين مسبقاً على كمية بيانات مهولة بلغت <strong>32 تريليون رمز (Token)</strong> لضمان أقصى درجات الفهم والمعرفة. ويتوفر النموذج في إصدارين رئيسيين:</p>
+
+        <div>
+            <div>
+                <div>الإصدار الأقوى</div>
+                <h4>DeepSeek-V4-Pro</h4>
+                <ul>
+                    <li><i></i> إجمالي المعاملات: <strong>1.6 تريليون معامل</strong></li>
+                    <li><i></i> المعاملات النشطة: <strong>49 مليار معامل</strong></li>
+                    <li><i></i> يقدم أداءً يضاهي أفضل النماذج المغلقة في العالم.</li>
+                </ul>
+            </div>
+
+            <div>
+                <div>الإصدار الأسرع</div>
+                <h4>DeepSeek-V4-Flash</h4>
+                <ul>
+                    <li><i></i> إجمالي المعاملات: <strong>284 مليار معامل</strong></li>
+                    <li><i></i> المعاملات النشطة: <strong>13 مليار معامل</strong></li>
+                    <li><i></i> خيارك الأمثل للسرعة الفائقة والتكلفة الاقتصادية مع أداء منطقي مقارب للـ Pro.</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <section id="tech-innovations">
+        <h3>
+            2. الابتكار الهيكلي: نافذة المليون رمز!
+        </h3>
+        <p>السر الحقيقي وراء كفاءة V4 ليس فقط في حجم البيانات، بل في بنية الانتباه (Attention) الجديدة كلياً التي تختلف جذرياً عن الأساليب التقليدية:</p>
+
+        <ul>
+            <li>
+                <i></i>
+                <div>
+                    <strong>تقنية DSA الجديدة:</strong>
+                    تم استخدام آلية "ضغط الرموز" (Token-wise compression) مدمجة مع تقنية الانتباه المتناثر لـ DeepSeek (DSA). هذه التقنية أسهمت في تقليل متطلبات الحوسبة واستهلاك الذاكرة (Memory/Compute Costs) بشكل غير مسبوق!
+                </div>
+            </li>
+            <li>
+                <i></i>
+                <div>
+                    <strong>معيار 1M القياسي:</strong>
+                    بفضل هذه الهندسة، أصبح التعامل مع سياق يبلغ <strong>مليون رمز (1M Context)</strong> هو المعيار الافتراضي في خدمات DeepSeek الرسمية، دون أي تضحية بالسرعة.
+                </div>
+            </li>
+        </ul>
+    </section>
+
+    <section id="performance">
+        <h3>
+            3. نتائج الأداء: منافسة شرسة للكبار
+        </h3>
+        <p>
+            وفقاً للبيانات الرسمية، حقق النموذج تطوراً ملحوظاً في مستوى <strong>المعرفة العامة (World Knowledge)</strong>، حيث يتصدر حالياً كافة النماذج مفتوحة المصدر، ولا يتأخر سوى عن الإصدارات المغلقة الكبرى مثل Gemini 3.1 Pro. كما حقق نتائج تقييم في المنطق الرياضي والبرمجي (Reasoning) تضاهي نماذج رائدة مثل <strong>Claude Opus 4.6</strong>.
+        </p>
+    </section>
+
+    <div id="agentic-ai">
+        <div>
+            <span><i></i></span>
+            <h3>4. تحسينات مخصصة لثورة "الوكلاء الذاتيين" (Agents)</h3>
+        </div>
+        <p>
+            لم يركز V4 على المحادثة فقط، بل تم هندسته ليكون العقل المدبر لـ Agentic AI:
+        </p>
+        <ul>
+            <li>يندمج النموذج الجديد بسلاسة تامة مع وكلاء الذكاء الاصطناعي الرائدة مثل <strong>Claude Code</strong>، و <strong>OpenClaw</strong>، و <strong>OpenCode</strong>.</li>
+            <li>يُشغل فعلياً نظام <em>البرمجة الوكيلية الداخلية (In-house agentic coding)</em> الخاص بمهندسي شركة DeepSeek أنفسهم، مما يثبت كفاءته في بيئات الإنتاج الحقيقية.</li>
+        </ul>
+    </div>
+
+    <div id="how-to-use">
+        <div>
+            <span><i></i></span>
+            <h3>5. أنماط الاستخدام وكيفية التجربة الآن!</h3>
+        </div>
+
+        <p>
+            التطبيق والويب متاحان الآن للمستخدمين بنمطين أساسيين لتناسب جميع الاحتياجات:
+        </p>
+
+        <div>
+            <div>
+                <i></i>
+                <div>
+                    <strong>وضع الخبير (Expert Mode)</strong>
+                    <span>يعتمد على القوة الجبارة لإصدار V4-Pro للمهام المعقدة.</span>
+                </div>
+            </div>
+            <div>
+                <i></i>
+                <div>
+                    <strong>الوضع الفوري (Instant/Speed Mode)</strong>
+                    <span>يعتمد على سرعة واقتصادية إصدار V4-Flash.</span>
+                </div>
+            </div>
+        </div>
+
+        <div>
+            <p>* واجهة برمجة التطبيقات (API) تم تحديثها وهي متاحة رسمياً للمطورين اليوم!</p>
+            <a href="https://chat.deepseek.com" target="_blank" rel="noopener noreferrer">
+                جرب DeepSeek V4 الآن <i></i>
+            </a>
+        </div>
+    </div>
+
+</div>]]></content:encoded>
+    <media:content url="https://kinantouch.com/assets/images/1777032119895_20260424_150133.webp" type="image/webp" medium="image" />
+    <enclosure url="https://kinantouch.com/assets/images/1777032119895_20260424_150133.webp" type="image/webp" />
+  </item>
+  <item>
+    <title><![CDATA[أقوى 5 تطبيقات VPN مدفوعة لفتح المواقع المحجوبة]]></title>
+    <link>https://kinantouch.com/article-aqwa-4-ttbyqat-vpn-m</link>
+    <guid isPermaLink="true">https://kinantouch.com/article-aqwa-4-ttbyqat-vpn-m</guid>
+    <pubDate>Fri, 17 Apr 2026 10:44:00 GMT</pubDate>
+    <dc:creator><![CDATA[كنان الصائغ]]></dc:creator>
+    <category>apps</category>
+    <description><![CDATA[حمل الآن أفضل تطبيقات VPN المعدلة (Panda, Psiphon, 1.1.1.1, VPNify) بنسخ بريميوم مدفوعة مجاناً. تجاوز الحجب.]]></description>
+    <content:encoded><![CDATA[<div dir="rtl">
+
+    <div>
+        <h1>
+            <span>حصرياً:</span>
+            <span>أفضل تطبيقات الـ VPN المعدلة (نسخ البريميوم)</span>
+        </h1>
+        <p>
+            مجموعة مختارة من أقوى تطبيقات الـ VPN لفتح المواقع المحجوبة، حماية الخصوصية، وتسريع الإنترنت. جميع النسخ معدلة بخصائص مدفوعة مفتوحة بالكامل.
+        </p>
+    </div>
+
+    <div>
+        <h3>
+            <i></i> فهرس الوصول السريع:
+        </h3>
+        <div>
+            <a href="#panda-vpn">
+                🐼 Panda VPN
+            </a>
+            <a href="#warp-vpn">
+                ⚡ 1.1.1.1 + WARP
+            </a>
+            <a href="#vpnify">
+                🛡️ VPNify (Pro)
+            </a>
+            <a href="#psiphon">
+                🌐 Psiphon Pro
+            </a>
+            <a href="#usa-vpn">
+                🇺🇸 USA VPN
+            </a>
+        </div>
+    </div>
+
+    <section id="panda-vpn">
+
+        <div>
+            <h2>
+                <span>🐼</span> تطبيق Panda VPN (Premium)
+            </h2>
+        </div>
+
+        <div>
+            <h3>الميزات الرسمية وخصائص التعديل:</h3>
+            <ul>
+                <li>
+                    <span><i></i></span>
+                    <div>
+                        <strong>تشفير عسكري:</strong> حماية بياناتك باستخدام أعلى بروتوكولات التشفير (ECC) لضمان الخصوصية المطلقة.
+                    </div>
+                </li>
+                <li>
+                    <span><i></i></span>
+                    <div>
+                        <strong>نسخة جاهزة:</strong> لا حاجة لتسجيل الدخول أو إنشاء حساب (النسخة مفعلة مسبقاً).
+                    </div>
+                </li>
+                <li>
+                    <span><i></i></span>
+                    <div>
+                        <strong>توافق شامل:</strong> جميع الخوادم (Servers) والأجهزة تعمل بكفاءة عالية دون قيود.
+                    </div>
+                </li>
+            </ul>
+        </div>
+
+        <div>
+            <h4>
+                <i></i> ملاحظة هامة عند التوقف:
+            </h4>
+            <ul>
+                <li>
+                    <span></span>
+                    <div>إذا ظهرت لك رسالة تطلب الاشتراك (Premium).</div>
+                </li>
+                <li>
+                    <span></span>
+                    <div>الحل البسيط: قم بالذهاب لإعدادات الهاتف واعمل "مسح بيانات" للتطبيق.</div>
+                </li>
+                <li>
+                    <span></span>
+                    <div>أعد الدخول للتطبيق وسيعمل معك كأنه جديد بجميع الصلاحيات.</div>
+                </li>
+            </ul>
+        </div>
+
+        <div>
+            <a href="https://t.me/techtouch7/3671" target="_blank" rel="noopener noreferrer">
+                <div>
+                    <span>رابط تحميل التطبيق (Panda VPN)</span>
+                </div>
+                <i></i>
+            </a>
+        </div>
+    </section>
+
+    <section id="warp-vpn">
+
+        <div>
+            <h2>
+                <span>⚡</span> تطبيق 1.1.1.1 + WARP
+            </h2>
+        </div>
+
+        <div>
+            <h3>الميزات الرسمية للتطبيق:</h3>
+            <ul>
+                <li>
+                    <span><i></i></span>
+                    <div>
+                        <strong>سرعة غير محدودة:</strong> مدعوم بشبكة Cloudflare العالمية، مما يجعله أحد أسرع تطبيقات الـ VPN استجابة.
+                    </div>
+                </li>
+                <li>
+                    <span><i></i></span>
+                    <div>
+                        <strong>خصوصية فائقة:</strong> يقوم بتشفير استعلامات DNS الخاصة بك لمنع مزود الخدمة من تتبع المواقع التي تزورها.
+                    </div>
+                </li>
+                <li>
+                    <span><i></i></span>
+                    <div>
+                        <strong>اتصال بنقرة واحدة:</strong> واجهة بسيطة جداً لا تتطلب أي إعدادات معقدة.
+                    </div>
+                </li>
+            </ul>
+        </div>
+
+        <div>
+            <a href="https://t.me/techtouch7/889" target="_blank" rel="noopener noreferrer">
+                <div>
+                    <span>رابط تحميل التطبيق (1.1.1.1)</span>
+                </div>
+                <i></i>
+            </a>
+        </div>
+    </section>
+
+    <section id="vpnify">
+
+        <div>
+            <h2>
+                <span>🛡️</span> تطبيق VPNify (Pro)
+            </h2>
+        </div>
+
+        <div>
+            <h3>الميزات الرسمية وخصائص التعديل:</h3>
+            <ul>
+                <li>
+                    <span><i></i></span>
+                    <div>
+                        <strong>نسخة مفتوحة الميزات:</strong> جميع الخوادم السريعة (VIP) والخصائص المدفوعة متاحة مجاناً.
+                    </div>
+                </li>
+                <li>
+                    <span><i></i></span>
+                    <div>
+                        <strong>تجاوز القيود:</strong> ممتاز لفتح تطبيقات المراسلة والألعاب المحظورة في بعض الدول.
+                    </div>
+                </li>
+            </ul>
+        </div>
+
+        <div>
+            <h4>
+                <i></i> ميزة التخصيص (Split Tunneling):
+            </h4>
+            <ul>
+                <li>
+                    <span>✓</span>
+                    <div>هل تريد تشغيل الـ VPN على تطبيق "تيليجرام" فقط؟</div>
+                </li>
+                <li>
+                    <span>✓</span>
+                    <div>يتيح لك التطبيق عزل بقية الهاتف وجعل الإنترنت العادي يعمل بدون VPN باستثناء التطبيقات التي تحددها.</div>
+                </li>
+            </ul>
+        </div>
+
+        <div>
+            <a href="https://t.me/techtouch7/5170" target="_blank" rel="noopener noreferrer">
+                <div>
+                    <span>رابط تحميل التطبيق (VPNify)</span>
+                </div>
+                <i></i>
+            </a>
+
+            <a href="https://vm.tiktok.com/ZTkhG714e/" target="_blank" rel="noopener noreferrer">
+                <div>
+                    <span>شرح التشغيل للتيليجرام فقط</span>
+                </div>
+                <i></i>
+            </a>
+        </div>
+    </section>
+
+    <section id="psiphon">
+
+        <div>
+            <h2>
+                <span>🌐</span> تطبيق Psiphon Pro (Premium)
+            </h2>
+        </div>
+
+        <div>
+            <h3>الميزات الرسمية وخصائص التعديل (v458):</h3>
+            <ul>
+                <li>
+                    <span><i></i></span>
+                    <div>
+                        <strong>شبكة خوادم عالمية:</strong> يمتلك شبكة ضخمة تضم آلاف الخوادم ونقاط الدخول المتنوعة، مما يضمن بقاءك متصلاً في جميع الأوقات وتجاوز أعقد أنظمة الرقابة.
+                    </div>
+                </li>
+                <li>
+                    <span><i></i></span>
+                    <div>
+                        <strong>الاشتراك المدفوع مفتوح:</strong> نسخة كاملة تمنحك إمكانية تصفح الإنترنت بسرعة غير محدودة (بدون قيود السرعة الموجودة في النسخة العادية).
+                    </div>
+                </li>
+                <li>
+                    <span><i></i></span>
+                    <div>
+                        <strong>وصول فوري بدون قيود:</strong> يعتمد تقنيات VPN و SSH و HTTP Proxy. لا يلزم التسجيل مطلقاً، فقط قم بالتنزيل والاتصال مجاناً.
+                    </div>
+                </li>
+            </ul>
+        </div>
+
+        <div>
+            <h4>
+                <i></i> معلومات إضافية (مفتوح المصدر):
+            </h4>
+            <p>
+                يعتبر "سايفون" أداة تجاوز الرقابة الأكثر موثوقية، وهو مشروع مفتوح المصدر يوفر إحصائيات دقيقة لاستخدام البيانات داخل التطبيق ليمكنك من تتبع استهلاكك بشفافية عالية.
+            </p>
+        </div>
+
+        <div>
+            <a href="https://t.me/techtouch7/5243" target="_blank" rel="noopener noreferrer">
+                <div>
+                    <span>رابط تحميل التطبيق (Psiphon Pro)</span>
+                </div>
+                <i></i>
+            </a>
+        </div>
+    </section>
+
+    <section id="usa-vpn">
+
+        <div>
+            <h2>
+                <span>🇺🇸</span> تطبيق USA VPN (Premium)
+            </h2>
+        </div>
+
+        <div>
+            <h3>الميزات الرسمية وخصائص التعديل:</h3>
+            <ul>
+                <li>
+                    <span><i></i></span>
+                    <div>
+                        <strong>سيرفرات أمريكية مخصصة:</strong> يتيح لك تغيير موقعك الجغرافي إلى الولايات المتحدة بسهولة للوصول إلى المحتوى والخدمات الحصرية.
+                    </div>
+                </li>
+                <li>
+                    <span><i></i></span>
+                    <div>
+                        <strong>تصفح آمن ومخفي:</strong> يوفر لك بيئة تصفح آمنة تماماً ومخفية عن التتبع للحفاظ على هويتك وخصوصيتك الرقمية.
+                    </div>
+                </li>
+                <li>
+                    <span><i></i></span>
+                    <div>
+                        <strong>النسخة المعدلة (Premium):</strong> تم فتح جميع الميزات والخصائص المدفوعة لتستمتع باتصال سريع ومستقر وبدون إعلانات.
+                    </div>
+                </li>
+            </ul>
+        </div>
+
+        <div>
+            <a href="https://t.me/techtouch7/5244" target="_blank" rel="noopener noreferrer">
+                <div>
+                    <span>رابط تحميل التطبيق (USA VPN)</span>
+                </div>
+                <i></i>
+            </a>
+        </div>
+    </section>
+
+    <div>
+        <div></div>
+
+        <div>
+            <span>
+                <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path></svg>
+            </span>
+            <h3>تطبيق Downloader للشاشات الذكية</h3>
+            <p>لتحميل جميع التطبيقات الضرورية بضغطة زر واحدة على شاشتك الذكية (Android TV / TV Box).</p>
+
+            <div>
+                <span>كود التحميل السريع</span>
+                <span dir="ltr">5033352</span>
+            </div>
+        </div>
+    </div>
+
+    <div>
+        <div>
+            <h4>هل تواجه أي مشكلة في التحميل أو التثبيت؟</h4>
+            <p>فريق الدعم الفني جاهز لمساعدتك وحل أي مشكلة تواجهك فوراً.</p>
+
+            <a href="https://t.me/techtouchAI_bot" target="_blank" rel="noopener noreferrer">
+                <svg fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.64 6.8c-.15 1.58-.8 5.42-1.13 7.19-.14.75-.42 1-.68 1.03-.58.05-1.02-.38-1.58-.75-.88-.58-1.38-.94-2.23-1.5-.99-.65-.35-1.01.22-1.59.15-.15 2.71-2.48 2.76-2.69.01-.03.01-.14-.07-.19-.08-.05-.19-.02-.27 0-.12.03-1.96 1.25-5.54 3.67-.52.36-.99.53-1.41.52-.46-.01-1.35-.26-2.01-.48-.81-.27-1.46-.42-1.4-.88.03-.24.34-.49.94-.76 3.68-1.6 6.13-2.66 7.35-3.16 3.49-1.45 4.22-1.7 4.7-1.71.11 0 .34.03.47.14.11.09.14.22.15.34-.01.05-.01.16-.02.22z"/></svg>
+                تواصل مع الدعم الفني (@techtouchAI_bot)
+            </a>
+        </div>
+    </div>
+
+</div>]]></content:encoded>
+    <media:content url="https://kinantouch.com/assets/images/1776430787154_20260417_035917.webp" type="image/webp" medium="image" />
+    <enclosure url="https://kinantouch.com/assets/images/1776430787154_20260417_035917.webp" type="image/webp" />
+  </item>
+  <item>
+    <title><![CDATA[حول هاتفك لمساعد ذكي بدون إنترنت مع تطبيق Google AI Edge Gallery]]></title>
+    <link>https://kinantouch.com/article-googleai-edge-gallery</link>
+    <guid isPermaLink="true">https://kinantouch.com/article-googleai-edge-gallery</guid>
+    <pubDate>Thu, 09 Apr 2026 06:54:00 GMT</pubDate>
+    <dc:creator><![CDATA[كنان الصائغ]]></dc:creator>
+    <category>apps</category>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[<script>!function(){if(document.querySelector('script[src*="cdn.tailwindcss"]'))return;var t=document.createElement('script');t.src='https://cdn.tailwindcss.com';t.onload=function(){if(window.tailwind)tailwind.config={darkMode:'class',theme:{extend:{fontFamily:{sans:['Tajawal','sans-serif']}}}};};document.head.appendChild(t);}();</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+<div dir="rtl">
+
+    <h1>
+        تطبيق عملاق من جوجل بين يديك! 📱✨
+    </h1>
+
+    <p>
+        تخيل أن تمتلك قوة الذكاء الاصطناعي التوليدي بالكامل داخل هاتفك، بدون الحاجة لأي اتصال بالإنترنت، وبخصوصية تامة! هذا بالضبط ما يقدمه تطبيق <strong>Google AI Edge Gallery</strong> من جوجل. إليك كل ما تحتاج معرفته عن هذا التطبيق الثوري:
+    </p>
+
+    <section>
+        <h3>
+            أولاً: ما هي فائدة التطبيق؟
+        </h3>
+        <p>
+            تطبيق AI Edge Gallery هو أداة متطورة تتيح لك تشغيل نماذج الذكاء الاصطناعي اللغوية مفتوحة المصدر (مثل نماذج عائلة <strong>Gemma</strong>) مباشرة على معالج هاتفك الداخلي. الفائدة الكبرى هي تحويل جهازك إلى مساعد ذكي قادر على معالجة النصوص، تحليل الصور، وإنشاء الأفكار بسرعة فائقة، دون إرسال أي بيانات لخوادم خارجية، مما يضمن أماناً وخصوصية تامة لمعلوماتك.
+        </p>
+    </section>
+
+    <section>
+        <h3>
+            ثانياً: الذكاء الاصطناعي داخل التطبيق وكيف تختار النموذج المناسب لهاتفك؟ 🧠⚙️
+        </h3>
+        <p>التطبيق لا يفرض عليك نموذجاً واحداً، بل يتيح لك مكتبة من النماذج لتختار منها ما يناسب قدرات هاتفك للحصول على أفضل أداء (بدون تقطيع أو استنزاف للبطارية):</p>
+        <ul>
+            <li>
+                <i></i>
+                <span><strong>للهواتف الرائدة والممتازة (رام 8 جيجابايت فأكثر مع معالج قوي):</strong> يمكنك اختيار النماذج الأكبر حجماً والأكثر تعقيداً. هذه النماذج توفر دقة أعلى في الإجابات وقدرة أعمق على تحليل الصور والنصوص الطويلة.</span>
+            </li>
+            <li>
+                <i></i>
+                <span><strong>للهواتف المتوسطة والاقتصادية (رام 4 إلى 6 جيجابايت):</strong> يُفضل جداً اختيار النماذج الأصغر (مثل النماذج التي تنتهي برمز 2B). هذه النماذج مُحسّنة لتكون خفيفة وسريعة، وتؤدي المهام اليومية بكفاءة عالية دون التسبب في بطء الجهاز.</span>
+            </li>
+            <li>
+                <i></i>
+                <span><strong>نصيحة للمستخدم:</strong> التطبيق سيوضح لك حجم كل نموذج قبل تنزيله. ابدأ بتنزيل نموذج صغير لاختبار سرعة استجابة هاتفك، وإذا كان الأداء سلساً، يمكنك تجربة النماذج الأكبر!</span>
+            </li>
+        </ul>
+    </section>
+
+    <div>
+        <div>
+            <span>
+              <span></span>
+              <span></span>
+            </span>
+            <h3>ثالثاً: طريقة استخدام التطبيق "أوفلاين" (بدون إنترنت) 📶❌</h3>
+        </div>
+        <p>لاستخدام التطبيق بالكامل بدون إنترنت، ستحتاج للاتصال بالشبكة لمرة واحدة فقط لتهيئة التطبيق:</p>
+        <ol>
+            <li>افتح التطبيق وتوجه إلى قسم النماذج (Models) من القائمة.</li>
+            <li>اختر النموذج الذكي الذي تريده (حسب مواصفات هاتفك كما وضحنا) واضغط على "تنزيل".</li>
+            <li>بمجرد اكتمال التنزيل، قم بإيقاف الإنترنت (Wi-Fi أو بيانات الهاتف) تماماً.</li>
+            <li>ارجع إلى الشاشة الرئيسية، اختر النموذج الذي حملته، وابدأ في إجراء المحادثات أو تحليل الصور براحة تامة وبدون أي باقة إنترنت!</li>
+        </ol>
+    </div>
+
+    <section>
+        <div>
+            <span><i></i></span>
+            <h3>رابعاً: الميزات الخرافية داخل التطبيق 🚀</h3>
+        </div>
+        <ul>
+            <li><strong>محادثات ذكية متقدمة:</strong> إجراء محادثات طبيعية للحصول على إجابات، تلخيص المقالات، كتابة الأكواد، أو العصف الذهني.</li>
+            <li><strong>تحليل الصور الذكي:</strong> يمكنك رفع أي صورة وسؤال التطبيق عنها (سواء لوصفها، التعرف على الأشياء بداخلها، أو قراءة النصوص منها).</li>
+            <li><strong>تحويل الصوت إلى نص (Audio Scribe):</strong> سجل مقطعاً صوتياً أو ارفع ملفاً، وسيقوم التطبيق بتحويله إلى نص مكتوب بدقة عالية.</li>
+            <li><strong>وضع التفكير (Thinking Mode):</strong> ميزة شفافة تتيح لك رؤية كيف يحلل الذكاء الاصطناعي سؤالك خطوة بخطوة قبل إعطائك الإجابة النهائية.</li>
+            <li><strong>مهارات الوكيل (Agent Skills):</strong> قدرة التطبيق على استخدام أدوات إضافية مثل عرض الخرائط التفاعلية أو البحث داخل ويكيبيديا (هذه الميزة قد تتطلب إنترنت جزئياً لجلب البيانات الخارجية).</li>
+            <li><strong>خصوصية 100%:</strong> كل شيء يتم معالجته داخلياً على "هاردوير" هاتفك ولا يغادره أبداً.</li>
+        </ul>
+    </section>
+
+    <div>
+        <h3><i></i>خامساً: رابط التحميل الرسمي من المتجر</h3>
+        <div>
+            <a href="https://play.google.com/store/apps/details?id=com.google.ai.edge.gallery&utm_source=chatgpt.com" target="_blank" rel="noopener noreferrer">
+                <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M3.141 2.502c-.114.12-.188.293-.188.514v18.064c0 .22.074.394.188.514l.02.017 10.158-10.159v-.036L3.16 2.485l-.02.017z" fill="#00A2E8"/><path d="M17.373 13.578l-4.053-4.053v.036l4.053-4.053.023.013 4.808 2.735c1.373.78 1.373 2.057 0 2.838l-4.808 2.735-.023.014z" fill="#FFC90E"/><path d="M13.32 9.525l-10.16-10.16C2.607-.942 1.631-.419 1.631.547v.035l11.689 8.943z" fill="#ED1C24"/><path d="M13.32 14.571L1.631 23.514v.036c0 .967.976 1.488 1.529 1.181l10.16-10.16z" fill="#22B14C"/></svg>
+                <div>
+                    <span>تحميل آمن ومباشر من</span>
+                    <span>Google Play</span>
+                </div>
+            </a>
+        </div>
+    </div>
+
+</div>]]></content:encoded>
+    <media:content url="https://kinantouch.com/assets/images/1775717711397_FB_IMG_1775715766061.webp" type="image/webp" medium="image" />
+    <enclosure url="https://kinantouch.com/assets/images/1775717711397_FB_IMG_1775715766061.webp" type="image/webp" />
+  </item>
+  <item>
+    <title><![CDATA[التغير المناخي بعدسات الأقمار الصناعية: بيانات رسمية من ناسا]]></title>
+    <link>https://kinantouch.com/article-nasa-earth-space</link>
+    <guid isPermaLink="true">https://kinantouch.com/article-nasa-earth-space</guid>
+    <pubDate>Sat, 04 Apr 2026 20:47:00 GMT</pubDate>
+    <dc:creator><![CDATA[كنان الصائغ]]></dc:creator>
+    <category>articles</category>
+    <description><![CDATA[​"اكتشف كيف تبدو التغيرات المناخية من الفضاء عبر الأقمار الصناعية. تعرف على تأثير ذوبان الجليد، إزالة الغابات، وتوسع المدن على مستقبل الأرض ببيانات رسمية."]]></description>
+    <content:encoded><![CDATA[<script>!function(){if(document.querySelector('script[src*="cdn.tailwindcss"]'))return;var t=document.createElement('script');t.src='https://cdn.tailwindcss.com';t.onload=function(){if(window.tailwind)tailwind.config={darkMode:'class',theme:{extend:{fontFamily:{sans:['Tajawal','sans-serif']}}}};};document.head.appendChild(t);}();</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+<style> html { scroll-behavior: smooth; } </style>
+
+<div dir="rtl">
+
+    <h1>
+        كيف تبدو التغيرات المناخية من الفضاء حالياً، وماذا تعني للمستقبل؟
+    </h1>
+
+    <p>
+        إليك كيف تبدو هذه التغيرات من الفضاء حالياً، وماذا تعني للمستقبل:
+    </p>
+
+    <div>
+        <h2>
+            <i></i> دليل العناوين:
+        </h2>
+        <ul>
+            <li><a href="#ice-melting"><i></i> 1. ذوبان الجليد (Ice Melting)</a></li>
+            <li><a href="#deforestation"><i></i> 2. إزالة الغابات (Deforestation)</a></li>
+            <li><a href="#urban-expansion"><i></i> 3. توسع المدن (Urban Expansion)</a></li>
+            <li><a href="#ocean-changes"><i></i> 4. تغيّرات في البحار والمحيطات (Ocean Changes)</a></li>
+            <li><a href="#whats-next"><i></i> 5. وماذا بعد؟ (What's Next)</a></li>
+        </ul>
+    </div>
+
+    <section id="ice-melting">
+        <h3>
+            1. ذوبان الجليد (Ice Melting)
+        </h3>
+        
+        <p>من الفضاء، يُعد تراجع الجليد من أكثر التغيرات دراماتيكية. الأقمار الصناعية (مثل برنامج ICESat التابع لناسا) مجهزة بتقنيات ليزر ورادار تقيس سُمك الجليد ومساحته بدقة بالغة.</p>
+        <p>
+            <strong>ما يُرصد حالياً:</strong> صور الأقمار الصناعية تقارن بين مساحات الجليد البحري في القطب الشمالي وتظهر تقلصاً هائلاً في فصل الصيف مقارنة بالعقود السابقة. كما يُرصد فقدان مليارات الأطنان من الكتلة الجليدية سنوياً في جرينلاند وأنتاركتيكا والأنهار الجليدية الجبلية.
+        </p>
+        
+        <div>
+            <a href="https://climate.nasa.gov/vital-signs/ice-sheets/" target="_blank" rel="noopener noreferrer">
+                <i></i> المصدر الرسمي (NASA Climate)
+            </a>
+        </div>
+    </section>
+
+    <section id="deforestation">
+        <h3>
+            2. إزالة الغابات (Deforestation)
+        </h3>
+        
+        <p>لا تحتاج الأقمار الصناعية للانتظار طويلاً لرؤية تأثير البشر على الرئتين الخضراوين للأرض.</p>
+        <p>
+            <strong>ما يُرصد حالياً:</strong> تظهر الغابات الاستوائية في الأمازون، وحوض الكونغو، وجنوب شرق آسيا مليئة بـ "الندوب". الكاميرات الفضائية تلتقط حرائق الغابات (سواء الطبيعية أو المفتعلة للزراعة) وأعمدة الدخان الناتجة عنها، وتوثق تحول مساحات شاسعة من الغابات الكثيفة إلى أراضٍ زراعية مجردة أو مناطق رعوية.
+        </p>
+        
+        <div>
+            <a href="https://earthobservatory.nasa.gov/features/Deforestation" target="_blank" rel="noopener noreferrer">
+                <i></i> المصدر الرسمي (NASA Earth Observatory)
+            </a>
+        </div>
+    </section>
+
+    <section id="urban-expansion">
+        <h3>
+            3. توسع المدن (Urban Expansion)
+        </h3>
+
+        <p>الزحف العمراني واضح جداً لرواد الفضاء، بل إنه يُعتبر من أكثر البصمات البشرية وضوحاً.</p>
+        <p>
+            <strong>ما يُرصد حالياً:</strong> بالنظر إلى الأرض في النهار، يمكن رؤية الكتل الخرسانية الرمادية وهي تبتلع الأراضي الزراعية والمساحات الخضراء المحيطة بالمدن الكبرى. أما في الليل، فإن التوسع يظهر جلياً من خلال أضواء المدن؛ حيث تتسع شبكات الإضاءة الاصطناعية وتندمج المدن المتقاربة لتشكل مناطق حضرية عملاقة (Megalopolis).
+        </p>
+
+        <div>
+            <a href="https://earthobservatory.nasa.gov/features/UrbanGrowth" target="_blank" rel="noopener noreferrer">
+                <i></i> المصدر الرسمي (NASA Earth Observatory)
+            </a>
+        </div>
+    </section>
+
+    <section id="ocean-changes">
+        <h3>
+            4. تغيّرات في البحار والمحيطات (Ocean Changes)
+        </h3>
+
+        <p>المحيطات تغطي أكثر من 70% من الكوكب، ومراقبتها من الفضاء تكشف تغيرات مقلقة.</p>
+        <p>
+            <strong>ما يُرصد حالياً:</strong> تقيس الأقمار الصناعية ارتفاع مستوى سطح البحر (بمعدل يبلغ حوالي 3.4 مليمتر سنوياً) نتيجة ذوبان الجليد وتمدد المياه بسبب ارتفاع حرارتها. كما تلتقط الأقمار تغيرات في ألوان المحيطات تشير إلى تكاثر غير طبيعي للطحالب الخانقة، أو ترصد ظاهرة "ابيضاض المرجان" الناتجة عن موجات الحر البحرية.
+        </p>
+
+        <div>
+            <a href="https://climate.nasa.gov/vital-signs/sea-level/" target="_blank" rel="noopener noreferrer">
+                <i></i> المصدر الرسمي (NASA Sea Level)
+            </a>
+        </div>
+    </section>
+
+    <div id="whats-next">
+        <div>
+            <span><i></i></span>
+            <h3>وماذا بعد؟ (What's Next)</h3>
+        </div>
+
+        <p>
+            الرحلات الفضائية والأقمار الصناعية الحالية لم تعد تقتصر وظيفتها على "اكتشاف الفضاء"، بل أصبحت نظام إنذار مبكر ومراقبة حيوية لكوكبنا. وبناءً على هذه البيانات الدقيقة، يشير العلماء إلى ما يلي:
+        </p>
+        
+        <ul>
+            <li>
+                <i></i>
+                <div>
+                    <strong>تسارع التداعيات:</strong> 
+                    <span>إذا استمرت وتيرة التغيرات (الاحتباس الحراري)، سنشهد المزيد من الظواهر الجوية المتطرفة (موجات جفاف أطول، أعاصير أقوى، فيضانات مدمرة).</span>
+                </div>
+            </li>
+            <li>
+                <i></i>
+                <div>
+                    <strong>تهديد السواحل:</strong> 
+                    <span>استمرار ذوبان الجليد يعني أن العديد من المدن الساحلية والجزر المنخفضة ستواجه تهديدات وجودية بسبب ارتفاع منسوب البحار في العقود القادمة.</span>
+                </div>
+            </li>
+            <li>
+                <i></i>
+                <div>
+                    <strong>توجيه الحلول:</strong> 
+                    <span>"ماذا بعد" يعتمد علينا. تُستخدم البيانات الفضائية حالياً لبناء نماذج مناخية دقيقة تُساعد الحكومات في وضع خطط لإدارة الكوارث، حماية الغابات المتبقية، تحسين كفاءة الزراعة، والانتقال إلى مصادر طاقة نظيفة للحد من تفاقم هذه التغيرات.</span>
+                </div>
+            </li>
+        </ul>
+
+        <div>
+            <a href="https://climate.nasa.gov/" target="_blank" rel="noopener noreferrer">
+                <i></i> المرجع العام: NASA Global Climate Change
+            </a>
+        </div>
+    </div>
+
+</div>
+]]></content:encoded>
+    <media:content url="https://kinantouch.com/assets/images/1775336668848_20260405_120404.webp" type="image/webp" medium="image" />
+    <enclosure url="https://kinantouch.com/assets/images/1775336668848_20260405_120404.webp" type="image/webp" />
+  </item>
+  <item>
+    <title><![CDATA[أفضل متاجر التطبيقات للشاشات الذكية .]]></title>
+    <link>https://kinantouch.com/article-smart-tv-dawnlwdr</link>
+    <guid isPermaLink="true">https://kinantouch.com/article-smart-tv-dawnlwdr</guid>
+    <pubDate>Thu, 02 Apr 2026 21:00:00 GMT</pubDate>
+    <dc:creator><![CDATA[كنان الصائغ]]></dc:creator>
+    <category>TVscreen</category>
+    <description><![CDATA[دليلك الشامل والموثوق لتحميل تطبيقات Smart TV عبر الكود 6000654 الطريقة الأسرع .]]></description>
+    <content:encoded><![CDATA[<div dir="rtl">
+
+    <div>
+        <div>
+            <div></div>
+            <img src="https://downloadertv.com/%D8%B5%D9%88%D8%B1/%D9%88%D8%A7%D8%AC%D9%87%D8%A9%20%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%20Downloader%20%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9%20%D8%B9%D9%84%D9%89%20%D8%B4%D8%A7%D8%B4%D8%A9%20%D8%AA%D9%84%D9%81%D8%A7%D8%B2%20Smart%20TV.webp" alt="Downloader App" loading="lazy" />
+        </div>
+    </div>
+
+    <div>
+        <a href="https://pixeldrain.com/l/z1jHgDtr" target="_self">
+            <div>
+                <div>
+                    <div></div>
+                    <div>
+                        <i></i>
+                    </div>
+                </div>
+                <h3>متجر kinantouch0</h3>
+                <p>اكثر من ١٣٠ تطبيق</p>
+            </div>
+        </a>
+        <a href="https://iraqapps.github.io/tvapps/" target="_self">
+            <div>
+                <div>
+                    <div></div>
+                    <div>
+                        <i></i>
+                    </div>
+                </div>
+                <h3>متجر AppsX</h3>
+                <p>مجموعة تطبيقات</p>
+            </div>
+        </a>
+        <a href="https://www.mediafire.com/folder/amb4fbbteyvgl/techtouch" target="_self">
+            <div>
+                <div>
+                    <div></div>
+                    <div>
+                        <i></i>
+                    </div>
+                </div>
+                <h3>متجر techtouch</h3>
+                <p>تطبيقات للشاشات</p>
+            </div>
+        </a>
+    </div>
+
+    <div>
+        <div>
+            <span>
+                <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.75 17L9 20l-1 1h8l-1-1-.75-3M3 13h18M5 17h14a2 2 0 002-2V5a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path></svg>
+            </span>
+            <h2>طريقة التنزيل على الشاشات الذكية</h2>
+        </div>
+        <p>
+            يجب تنزيل تطبيق <strong>داونلودر (Downloader)</strong> في الشاشة عن طريق متجر الشاشة الرسمي، أو نقل التطبيق عبر "فلاش ميموري" وتثبيته.
+        </p>
+        <p>
+            وعند تشغيل تطبيق الداونلودر، قم بكتابة الكود الخاص بنا داخل المستطيل المخصص للبحث، ستظهر لك قائمة بالتطبيقات، اختر منها ما تحتاج لتثبيته مباشرة.<br>
+            <button onclick="document.getElementById('downloaderSection').scrollIntoView({ behavior: 'smooth' })">(تطبيق الداونلودر والكود المخصص  متوفران في نهاية هذا المنشور - اضغط هنا للانتقال الى التحميل).</button>
+        </p>
+    </div>
+
+    <div>
+        <h2>مكتبة التطبيقات المباشرة</h2>
+        
+        <div>
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+                </svg>
+            </div>
+            <input
+           
+            type="text"
+            id="appSearch"
+            placeholder="بحث سريع (اكتب اسم التطبيق)..."
+            oninput="liveSearchApp()" />
+        </div>
+    </div>
+
+    <div id="appsContainer">
+    </div>
+
+    <div id="noResultsMsg">
+        <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"></path></svg>
+        <h3>لم يتم العثور على تطبيق بهذا الاسم!</h3>
+        <p>يرجى التأكد من كتابة الاسم بشكل صحيح.</p>
+    </div>
+
+    <div id="downloaderSection">
+        <div></div>
+        
+        <div>
+            <span>
+                <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path></svg>
+            </span>
+            <h3>تطبيق Downloader للشاشة</h3>
+            <p>لتحميل جميع التطبيقات أعلاه بضغطة زر واحدة على شاشتك الذكية.</p>
+            
+            <div>
+                <span>كود التحميل السريع</span>
+                <span>6000654</span>
+            </div>
+            
+            <div>
+                <a href="https://downloader-tv.com/" target="_blank" rel="noopener noreferrer">
+                    <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"></path></svg>
+                    تنزيل تطبيق داونلودر للشاشة
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // قائمة التطبيقات الكاملة (132 تطبيق)
+        const appsData = [
+            { name: "سينمانا الاسود Cinemana X", url: "https://pixeldrain.com/u/WqriY6PS", icon: "assets/images/1775628693053_Screenshot_2026-04-07-20-10-34-02_55bef12f624c2b805189a6aa783c400d.webp" },
+            { name: "سينمانا الرسمي Cinemana", url: "https://pixeldrain.com/u/s4GPxgCf", icon: "assets/images/1775681836201_unnamed.webp" },
+            { name: "سينمانا لينباك Cinemana", url: "https://pixeldrain.com/u/z8P6if7B", icon: "https://raw.githubusercontent.com/iraqapps/tvapps/main/img/cinemana.png" },
+            { name: "سينمانا Cinemana 5.3.3", url: "https://pixeldrain.com/u/amVaGGAc", icon: "https://raw.githubusercontent.com/iraqapps/tvapps/main/img/cinemana.png" },
+            { name: "سينمانا بلس Cinemana Plus", url: "https://pixeldrain.com/u/p98i7kRa", icon: "https://raw.githubusercontent.com/iraqapps/tvapps/main/img/cinemanaplus.png" },
+            { name: "Smart Tube+stable+v 28.66+armeabi V 7a", url: "https://pixeldrain.com/u/1tLvinoA" },
+            { name: "You Tube Mobile 28.66 Arm 64", url: "https://pixeldrain.com/u/Drg9EBMp" },
+            { name: "Tizen Tube V 1.08", url: "https://pixeldrain.com/u/UAJa6cUD" },
+            { name: "Smarttube Beta 610", url: "https://pixeldrain.com/u/TbTtJTi8", icon: "assets/images/1775682102562_images_(38).webp" },
+            { name: "Smarttube Stable", url: "https://pixeldrain.com/u/srC7pQfr", icon: "assets/images/1775682119554_تنزيل_(1).webp" },
+            { name: "شبكتي 4.4.2", url: "https://pixeldrain.com/u/zXkVMGXC", icon: "https://raw.githubusercontent.com/iraqapps/tvapps/main/img/shabakaty_tv.png" },
+            { name: "شبكتي 1.6.5", url: "https://pixeldrain.com/u/9DqVp4KV", icon: "https://raw.githubusercontent.com/iraqapps/tvapps/main/img/shabakaty_tv.png" },
+            { name: "شبكتي برو", url: "https://pixeldrain.com/u/4BqNtGSR", icon: "https://raw.githubusercontent.com/iraqapps/tvapps/main/img/shabakatypro.png" },
+            { name: "URL Player V 1.2.5", url: "https://pixeldrain.com/u/VqhzdSCt", icon: "https://raw.githubusercontent.com/iraqapps/tvapps/main/img/castplayer.png" },
+            { name: "Url Player + 1", url: "https://pixeldrain.com/u/S4xbiEs4", icon: "https://raw.githubusercontent.com/iraqapps/tvapps/main/img/castplayer.png" },
+            { name: "IPTV Smarters Pro", url: "https://pixeldrain.com/u/PffmGmMz", icon: "https://raw.githubusercontent.com/iraqapps/tvapps/main/img/iptv.png" },
+            { name: "Iptv Smarters 5.0", url: "https://pixeldrain.com/u/oKcShvx1", icon: "https://raw.githubusercontent.com/iraqapps/tvapps/main/img/iptv.png" },
+            { name: "GTV PLAYER 1.0", url: "https://pixeldrain.com/u/mut7QhFC", icon: "https://raw.githubusercontent.com/iraqapps/tvapps/main/img/gtvplayer.png" },
+            { name: "X Pola Player 7.0", url: "https://pixeldrain.com/u/qnZHK9ZH", icon: "assets/images/1775682191611_images_(39).webp" },
+            { name: "Player Pro 1.6 Apks", url: "https://pixeldrain.com/u/ruHfU6Ur", icon: "https://raw.githubusercontent.com/iraqapps/tvapps/main/img/castplayer.png" },
+            { name: "Send File To TV", url: "https://pixeldrain.com/u/cRrDK23d", icon: "https://raw.githubusercontent.com/iraqapps/tvapps/main/img/sendfiletotv.png" },
+            { name: "Televizo", url: "https://pixeldrain.com/u/bzTB7Z57", icon: "https://raw.githubusercontent.com/iraqapps/tvapps/main/img/televizo.png" },
+            { name: "FX File Explorer Pro", url: "https://pixeldrain.com/u/2ogmYoDa", icon: "https://raw.githubusercontent.com/iraqapps/tvapps/main/img/fxfile.png" },
+            { name: "DNS Changer", url: "https://pixeldrain.com/u/mpsigN1C", icon: "https://raw.githubusercontent.com/iraqapps/tvapps/main/img/dnschanger.png" },
+            { name: "ADS Player 4.3.6", url: "https://pixeldrain.com/u/LsZ9RF7M", icon: "https://raw.githubusercontent.com/iraqapps/tvapps/main/img/adsplayer.png" },
+            { name: "Apps Manager", url: "https://pixeldrain.com/u/XXzVkGXf", icon: "https://raw.githubusercontent.com/iraqapps/tvapps/main/img/appsmanager.png" },
+            { name: "Open Browser Lite", url: "https://pixeldrain.com/u/NFXcLU7S", icon: "https://raw.githubusercontent.com/iraqapps/tvapps/main/img/openbroserlite.png" },
+            { name: "Open Browser", url: "https://pixeldrain.com/u/uUAjnZVw", icon: "https://raw.githubusercontent.com/iraqapps/tvapps/main/img/openbrowser.png" },
+            { name: "Web Video Caster Receiver", url: "https://pixeldrain.com/u/3xWR7fiq", icon: "https://raw.githubusercontent.com/iraqapps/tvapps/main/img/webcaster.png" },
+            { name: "IPTV Pro", url: "https://pixeldrain.com/u/8WBZ4gCF", icon: "https://raw.githubusercontent.com/iraqapps/tvapps/main/img/iptv.png" },
+            { name: "Control Screen Orientation", url: "https://pixeldrain.com/u/dKbucyj4", icon: "https://raw.githubusercontent.com/iraqapps/tvapps/main/img/controlscreen.png" },
+            { name: "Almanasa Classic", url: "https://pixeldrain.com/u/LbWWpKxG", icon: "https://raw.githubusercontent.com/iraqapps/tvapps/main/img/almanasa.png" },
+            { name: "Almanasa New", url: "https://pixeldrain.com/u/LbWWpKxG", icon: "https://raw.githubusercontent.com/iraqapps/tvapps/main/img/almanasa_new.png" },
+            { name: "SmartTube ( CBOX )", url: "https://pixeldrain.com/u/srC7pQfr", icon: "assets/images/1775682324107_images_(38).webp" },
+            { name: "Cinema Box Android TV", url: "https://pixeldrain.com/u/RucCMPR3", icon: "https://raw.githubusercontent.com/iraqapps/tvapps/main/img/Cinema Box Android TV_icon.png" },
+            { name: "TV Leanback", url: "https://pixeldrain.com/u/gHWz8wTq", icon: "https://raw.githubusercontent.com/iraqapps/tvapps/main/img/tvleanback.png" },
+            { name: "Shabakaty TV", url: "https://pixeldrain.com/u/zXkVMGXC", icon: "https://raw.githubusercontent.com/iraqapps/tvapps/main/img/shabakaty_tv.png" },
+            { name: "Vodu TV القديم", url: "https://pixeldrain.com/u/azFu1pcA", icon: "https://raw.githubusercontent.com/iraqapps/tvapps/main/img/vodu.png" },
+            { name: "Vodu TV الحديث", url: "https://pixeldrain.com/u/bvjZHgRd", icon: "https://raw.githubusercontent.com/iraqapps/tvapps/main/img/vodu.png" },
+            { name: "Shabakaty Pro Premuim", url: "https://pixeldrain.com/u/4BqNtGSR", icon: "https://raw.githubusercontent.com/iraqapps/tvapps/main/img/shabakaty_tv.png" },
+            { name: "FX File Explorer", url: "https://pixeldrain.com/u/2gNyexoR", icon: "https://raw.githubusercontent.com/iraqapps/tvapps/main/img/fxfile.png" },
+            { name: "IPTV", url: "https://pixeldrain.com/u/8WBZ4gCF", icon: "https://raw.githubusercontent.com/iraqapps/tvapps/main/img/iptv.png" },
+            { name: "افلامي - Aflaame", url: "https://pixeldrain.com/u/KsbtxmJ9", icon: "https://raw.githubusercontent.com/iraqapps/tvapps/main/img/aflaametv.png" },
+            { name: "1IRAQ TV V4.0", url: "https://github.com/techtouchAI/techtouchAI/blob/main/public/data/app/1IRAQ%20TV.apk", icon: "assets/images/1782083469235_1_iraq_tv.webp" }
+        ];
+
+        const container = document.getElementById('appsContainer');
+        const noResultsMsg = document.getElementById('noResultsMsg');
+
+        function renderApps(appsList) {
+            container.innerHTML = ''; 
+            
+            if(appsList.length === 0) {
+                noResultsMsg.classList.remove('hidden');
+                return;
+            } else {
+                noResultsMsg.classList.add('hidden');
+            }
+
+            let html = '';
+            appsList.forEach(app => {
+                html += `
+                <div>
+                    <div>${app.icon ? 
+                        `<div>
+                            <img src="${app.icon}" alt="${app.name}" onerror="this.onerror=null;this.parentElement.innerHTML='<svg class=\'w-6 h-6 text-emerald-500\' fill=\'none\' stroke=\'currentColor\' viewBox=\'0 0 24 24\'><path stroke-linecap=\'round\' stroke-linejoin=\'round\' stroke-width=\'2\' d=\'M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4\'></path></svg>'">
+                        </div>` : 
+                        `<div>
+                            <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"></path></svg>
+                        </div>`
+                        }
+                        <h3 dir="ltr">${app.name}</h3>
+                    </div>
+                    <a href="${app.url}" target="_blank" rel="noopener noreferrer">
+                        تحميل التطبيق
+                    </a>
+                </div>
+                `;
+            });
+            container.innerHTML = html;
+        }
+
+        renderApps(appsData);
+
+        function liveSearchApp() {
+            const query = document.getElementById('appSearch').value.toLowerCase().trim();
+            const allCards = document.querySelectorAll('.app-card');
+            let hasResults = false;
+
+            allCards.forEach(card => {
+                const appName = card.querySelector('.app-title').innerText.toLowerCase();
+                if (appName.includes(query)) {
+                    card.style.display = 'flex';
+                    hasResults = true;
+                    if(query.length > 0) {
+                        card.classList.add('ring-2', 'ring-blue-400', 'dark:ring-blue-500');
+                    } else {
+                        card.classList.remove('ring-2', 'ring-blue-400', 'dark:ring-blue-500');
+                    }
+                } else {
+                    card.style.display = 'none';
+                    card.classList.remove('ring-2', 'ring-blue-400', 'dark:ring-blue-500');
+                }
+            });
+
+            if (hasResults) {
+                noResultsMsg.classList.add('hidden');
+            } else {
+                noResultsMsg.classList.remove('hidden');
+            }
+        }
+    </script>
+
+</div>
+]]></content:encoded>
+    <media:content url="https://kinantouch.com/assets/images/1775246858793_20260403_230720.webp" type="image/webp" medium="image" />
+    <enclosure url="https://kinantouch.com/assets/images/1775246858793_20260403_230720.webp" type="image/webp" />
+  </item>
+  <item>
+    <title><![CDATA[أفضل راوترات في العراق 2026: مقارنة شاملة لفئة 85-100 ألف دينار]]></title>
+    <link>https://kinantouch.com/article-game-home-router</link>
+    <guid isPermaLink="true">https://kinantouch.com/article-game-home-router</guid>
+    <pubDate>Tue, 31 Mar 2026 07:20:00 GMT</pubDate>
+    <dc:creator><![CDATA[كنان الصائغ]]></dc:creator>
+    <category>articles</category>
+    <description><![CDATA[دليل شراء احترافي يقارن أفضل راوترات الإنترنت في السوق العراقي لعام 2026 بسعر يتراوح بين 85 و100 ألف دينار.]]></description>
+    <content:encoded><![CDATA[<!-- [1] زر القفز السريع -->
+<div>
+    <a href="#user-summary">
+        <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 14l-7 7m0 0l-7-7m7 7V3"/>
+        </svg>
+        لقراءة الخلاصة اضغط هنا
+    </a>
+</div>
+
+<!-- [2] الفقرة التمهيدية -->
+<p>
+    اختيار جهاز الراوتر المناسب في السوق العراقي يتطلب فهماً عميقاً لاحتياجات شبكتك، نوع المبنى، عدد الأجهزة المتزامنة، وحالات الاستخدام. هذا الدليل يغطي تسعة موديلات مختارة بين 55,000 و 100,000 دينار عراقي، مع مقارنة عملية لكل طراز بناءً على سبعة معايير: المعالج، اختراق الجدران، مقاومة التشويش، استقرار الألعاب، السرعة الإجمالية، والميزات الحصرية.
+</p>
+
+<!-- [3] قسم البطاقات الشبكية - المنتجات الرئيسية -->
+<h2>
+    أجهزة الراوتر المختارة
+</h2>
+
+<div dir="rtl">
+
+    <!-- البطاقة 1: TP-Link Archer AX55 -->
+    <div>
+        <div>
+            <img src="https://i.rtings.com/assets/products/Cd6YLb0l/tp-link-archer-ax55/design-medium.jpg?format=auto" alt="TP-Link Archer AX55">
+            <span>TP-LINK</span>
+        </div>
+        <div>
+            <div>
+                <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8.111 16.332a7 7 0 001.57 1.428m5.32-12.774a7 7 0 010 9.914m0 0a7 7 0 11-9.914-9.914"/>
+                </svg>
+            </div>
+            <h3>1. TP-Link Archer AX55</h3>
+        </div>
+        <div>
+            <div>
+                <span>⭐ USB 3.0</span>
+            </div>
+            <div>
+                <span>★ الاستقرار</span>
+            </div>
+        </div>
+        <p>معالج Qualcomm ثنائي النواة — الأكثر استقراراً حرارياً. USB 3.0 وحيد في فئته. السعر: 95,000 د.ع</p>
+    </div>
+
+    <!-- البطاقة 2: TP-Link Archer AX53 -->
+    <div>
+        <div>
+            <img src="https://www.wajidiraq.com/wp-content/uploads/2023/03/Overview_AX53_01_normal_20211209063330g.jpg" alt="TP-Link Archer AX53">
+            <span>TP-LINK</span>
+        </div>
+        <div>
+            <div>
+                <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8.111 16.332a7 7 0 001.57 1.428m5.32-12.774a7 7 0 010 9.914m0 0a7 7 0 11-9.914-9.914"/>
+                </svg>
+            </div>
+            <h3>2. TP-Link Archer AX53</h3>
+        </div>
+        <div>
+            <div>
+                <span>⭐ HomeShield</span>
+            </div>
+            <div>
+                <span>▼ المعالج</span>
+            </div>
+        </div>
+        <p>معالج Dual-Core 1.0GHz. نظام HomeShield لحماية الشبكة. السعر: 85,000 د.ع</p>
+    </div>
+
+    <!-- البطاقة 3: Ruijie EW3000GX PRO -->
+    <div>
+        <div>
+            <img src="https://cdn.salla.sa/wKAOB/20c85b61-b437-44be-b2a7-35d7aec2ca2b-1000x1000-2TTesaMAErSvnoleepIo2q6NN7r0qQ9nXolgyI2E.jpg" alt="Ruijie EW3000GX PRO">
+            <span>RUIJIE</span>
+        </div>
+        <div>
+            <div>
+                <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/>
+                </svg>
+            </div>
+            <h3>3. Ruijie EW3000GX PRO</h3>
+        </div>
+        <div>
+            <div>
+                <span>★ التغطية</span>
+            </div>
+            <div>
+                <span>★ التشويش</span>
+            </div>
+        </div>
+        <p>5 مضخمات FEM حقيقية — الأقوى في اختراق الجدران. السعر: 100,000 د.ع</p>
+    </div>
+
+    <!-- البطاقة 4: Ruijie EW1800GX PRO -->
+    <div>
+        <div>
+            <img src="https://mikrotik.co.id/images/produk/1025/besar2.jpg" alt="Ruijie EW1800GX PRO">
+            <span>RUIJIE</span>
+        </div>
+        <div>
+            <div>
+                <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/>
+                </svg>
+            </div>
+            <h3>4. Ruijie EW1800GX PRO</h3>
+        </div>
+        <div>
+            <div>
+                <span>★ Mesh سريع</span>
+            </div>
+            <div>
+                <span>▼ السرعة</span>
+            </div>
+        </div>
+        <p>مضخمات إشارة مستقلة. Mesh بلمسة واحدة. السعر: 85,000 د.ع</p>
+    </div>
+
+    <!-- البطاقة 5: Huawei AX3 Quad-Core -->
+    <div>
+        <div>
+            <img src="https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/common/mkt/list-image/routers/ax3-quad-core/ax3_pro.png" alt="Huawei AX3 Quad-Core">
+            <span>HUAWEI</span>
+        </div>
+        <div>
+            <div>
+                <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/>
+                </svg>
+            </div>
+            <h3>5. Huawei AX3 Quad-Core</h3>
+        </div>
+        <div>
+            <div>
+                <span>★ المعالج</span>
+            </div>
+            <div>
+                <span>▼ التشويش</span>
+            </div>
+        </div>
+        <p>معالج GigaHome رباعي الأنوية — الأقوى معالجياً. السعر: 85,000 د.ع</p>
+    </div>
+
+    <!-- البطاقة 6: Huawei AX2S -->
+    <div>
+        <div>
+            <img src="https://www.flytec.com.py/produtos/78480.JPG" alt="Huawei AX2S">
+            <span>HUAWEI</span>
+        </div>
+        <div>
+            <div>
+                <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/>
+                </svg>
+            </div>
+            <h3>6. Huawei AX2S</h3>
+        </div>
+        <div>
+            <div>
+                <span>💰 الأوفر</span>
+            </div>
+            <div>
+                <span>▼ السرعة</span>
+            </div>
+        </div>
+        <p>الأوفر اقتصادياً — معالج ثنائي النواة. السعر: 55,000 د.ع</p>
+    </div>
+
+    <!-- البطاقة 7: Xiaomi AX3200 -->
+    <div>
+        <div>
+            <img src="https://i01.appmifile.com/webfile/globalimg/songxinyu/product/xiaomi-router-ax3200.png" alt="Xiaomi AX3200">
+            <span>XIAOMI</span>
+        </div>
+        <div>
+            <div>
+                <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/>
+                </svg>
+            </div>
+            <h3>7. Xiaomi AX3200</h3>
+        </div>
+        <div>
+            <div>
+                <span>★ السرعة</span>
+            </div>
+            <div>
+                <span>★ الأجهزة</span>
+            </div>
+        </div>
+        <p>أعلى سرعة خام 3200 Mbps. يدعم 128 جهازاً. السعر: 90,000 د.ع</p>
+    </div>
+
+    <!-- البطاقة 8: Xiaomi AX3000T -->
+    <div>
+        <div>
+            <img src="https://m.media-amazon.com/images/I/71V+lYvyvKL.AC_UF1000,1000_QL80.jpg" alt="Xiaomi AX3000T">
+            <span>XIAOMI</span>
+        </div>
+        <div>
+            <div>
+                <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12a9 9 0 11-18 0 9 9 0 0118 0m-9 5h.01"/>
+                </svg>
+            </div>
+            <h3>8. Xiaomi AX3000T</h3>
+        </div>
+        <div>
+            <div>
+                <span>💰 الأفضل قيمة</span>
+            </div>
+            <div>
+                <span>★ BSS Color</span>
+            </div>
+        </div>
+        <p>تقنية BSS Color الفريدة. أفضل قيمة مقابل السعر. السعر: 65,000 د.ع</p>
+    </div>
+
+    <!-- البطاقة 9: ASUS RT-AX53U -->
+    <div>
+        <div>
+            <img src="https://btgcom.id/wp-content/uploads/2023/10/05832-2.jpg" alt="ASUS RT-AX53U">
+            <span>ASUS</span>
+        </div>
+        <div>
+            <div>
+                <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14.828 14.828a4 4 0 01-5.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/>
+                </svg>
+            </div>
+            <h3>9. ASUS RT-AX53U</h3>
+        </div>
+        <div>
+            <div>
+                <span>★ QoS ألعاب</span>
+            </div>
+            <div>
+                <span>▼ السرعة</span>
+            </div>
+        </div>
+        <p>نظام Adaptive QoS للألعاب. AiProtection مجانية. السعر: 95,000 د.ع</p>
+    </div>
+
+</div>
+
+<!-- [4] قسم البطاقات العمودية -->
+<h2>
+    دليل الاختيار حسب احتياجاتك
+</h2>
+
+<div dir="rtl">
+    <div>
+        <h4>جدران خرسانية صعبة</h4>
+        <p><strong>Ruijie EW3000GX PRO</strong> — 5 مضخمات FEM حقيقية + ذكاء اصطناعي</p>
+    </div>
+    <div>
+        <h4>عائلة كبيرة وأجهزة متعددة</h4>
+        <p><strong>Huawei AX3 Quad-Core</strong> — معالج رباعي الأنوية قوي</p>
+    </div>
+    <div>
+        <h4>ألعاب أونلاين و Ping منخفض</h4>
+        <p><strong>ASUS RT-AX53U</strong> — QoS ذكي للألعاب</p>
+    </div>
+    <div>
+        <h4>عمل من المنزل واستقرار 24/7</h4>
+        <p><strong>TP-Link Archer AX55</strong> — معالج Qualcomm + USB 3.0</p>
+    </div>
+    <div>
+        <h4>بث 4K وسرعة خام عالية</h4>
+        <p><strong>Xiaomi AX3200</strong> — 3200 Mbps + 128 جهاز</p>
+    </div>
+    <div>
+        <h4>أفضل قيمة مقابل السعر</h4>
+        <p><strong>Xiaomi AX3000T</strong> — BSS Color + 65,000 د.ع</p>
+    </div>
+</div>
+
+<!-- [5] كتلة الخلاصة -->
+<div id="user-summary" dir="rtl">
+    <div>
+        <span>
+            <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/>
+            </svg>
+        </span>
+        <h2>الخلاصة</h2>
+    </div>
+    <p>أفضل الخيارات حسب احتياجاتك:</p>
+    <ul>
+        <li><strong>🏆 الأول:</strong> Ruijie EW3000GX PRO — 100,000 د.ع</li>
+        <li><strong>🥈 الثاني:</strong> TP-Link Archer AX55 — 95,000 د.ع</li>
+        <li><strong>🎮 الألعاب:</strong> ASUS RT-AX53U — 95,000 د.ع</li>
+        <li><strong>💰 الأوفر:</strong> Xiaomi AX3000T — 65,000 د.ع</li>
+    </ul>
+</div>
+
+<!-- [6] كتلة المصادر -->
+<div dir="rtl">
+    <h3>
+        <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13.828 10.172a4 4 0 00-5.656 0l-4.243 4.243m5.656 0l4.243-4.243m0 5.656l-4.243 4.243M9.172 9.172L5.929 5.929m3.243 3.243L9.172 9.172"/>
+        </svg>
+        المصادر الرسمية
+    </h3>
+    <ul>
+        <li><a href="https://www.tp-link.com/en/home-networking/wifi-router/archer-ax55/" target="_blank" rel="noopener noreferrer" dir="ltr">TP-Link Archer AX55 →</a></li>
+        <li><a href="https://www.ruijienetworks.com/products/home-networking/EW3000GX-PRO" target="_blank" rel="noopener noreferrer" dir="ltr">Ruijie EW3000GX PRO →</a></li>
+        <li><a href="https://consumer.huawei.com/en/routers/ax3-quad-core/" target="_blank" rel="noopener noreferrer" dir="ltr">Huawei AX3 Quad-Core →</a></li>
+        <li><a href="https://www.mi.com/global/product/mi-router-ax3200" target="_blank" rel="noopener noreferrer" dir="ltr">Xiaomi AX3200 →</a></li>
+        <li><a href="https://www.asus.com/networking-iot-servers/wifi-routers/asus-wifi-routers/rt-ax53u/" target="_blank" rel="noopener noreferrer" dir="ltr">ASUS RT-AX53U →</a></li>
+    </ul>
+</div>
+
+<!-- Footer -->
+<div>
+    <p>★ أزرق = الأفضل  |  ▼ أحمر = الأضعف</p>
+    <div>
+        آخر تحديث — أبريل 2026
+    </div>
+</div>
+]]></content:encoded>
+    <media:content url="https://kinantouch.com/assets/images/1775038008366_20260401_130620.webp" type="image/webp" medium="image" />
+    <enclosure url="https://kinantouch.com/assets/images/1775038008366_20260401_130620.webp" type="image/webp" />
+  </item>
+  <item>
+    <title><![CDATA[تحديث الأسطورة 2026: استقرار فائق، بدون إعلانات، وإضافة قنوات رياضية حصرية.]]></title>
+    <link>https://kinantouch.com/article-al-shoura-tv-2026</link>
+    <guid isPermaLink="true">https://kinantouch.com/article-al-shoura-tv-2026</guid>
+    <pubDate>Mon, 30 Mar 2026 17:05:00 GMT</pubDate>
+    <dc:creator><![CDATA[كنان الصائغ]]></dc:creator>
+    <category>sports</category>
+    <description><![CDATA[حمل التحديث الأحدث لتطبيق الأسطورة للشاشات والهواتف، واستمتع بمشاهدة جميع القنوات الرياضية والترفيهية بجودة عالية وخالية من الإعلانات.]]></description>
+    <content:encoded><![CDATA[<div dir="rtl">
+
+    <h1>
+        تحديث الأسطورة 2026: استقرار فائق، بدون إعلانات، وإضافة قنوات رياضية حصرية.
+    </h1>
+
+    <p>
+        <span>#تحديث_جديد</span> لتطبيق <strong>الأسطورة للشاشات</strong>، يتضمن حلولاً لأغلب المشاكل التقنية السابقة مع تحسينات شاملة في الأداء.
+    </p>
+
+    <div>
+        <div>
+            <span>
+              <span></span>
+              <span></span>
+            </span>
+            <h3>تنويه هام</h3>
+        </div>
+        <ul>
+            <li>تم إضافة قنوات ألوان الرياضية.</li>
+            <li>تم إضافة قنوات ثمانية الرياضية.</li>
+        </ul>
+    </div>
+
+    <section>
+        <div>
+            <h3>ميزات التطبيق</h3>
+            <ul>
+                <li>قنوات رياضية متكاملة.</li>
+                <li>محتوى ترفيهي ضخم.</li>
+                <li>بث بجودة عالية ومستقرة.</li>
+            </ul>
+        </div>
+        <div>
+            <h3>التعديلات الإضافية ✦</h3>
+            <ul>
+                <li>تم إيقاف الإعلانات المزعجة بالكامل.</li>
+            </ul>
+        </div>
+    </section>
+
+    <section>
+        <h3>الباقات والقنوات المتوفرة</h3>
+        <div>
+            <div>قنوات الأخبار</div>
+            <div>قنوات الرياضة المصرية</div>
+            <div>بي ان سبورت Auto H265</div>
+            <div>بي ان سبورت FHD H265</div>
+            <div>بي ان سبورت HD H265</div>
+            <div>بي ان سبورت SD H265</div>
+            <div>بي ان سبورت LOW H265</div>
+            <div>بي ان سبورت HD / SD</div>
+            <div>ألوان الرياضية</div>
+            <div>ثمانية الرياضية</div>
+            <div>SHAHID SPORTS</div>
+            <div>ستارز بلاي سبورت</div>
+            <div>أبو ظبي الرياضية</div>
+            <div>LIVE FOOTBALL</div>
+            <div>مشاهد</div>
+            <div>Falcon Eye HD</div>
+            <div>STC TV / SPORTS</div>
+            <div>بی ان سبورت تركي</div>
+            <div>السعودية الرياضية</div>
+            <div>الكأس الرياضية</div>
+            <div>FOX / FOX SPORTS</div>
+            <div>BT SPORT</div>
+            <div>RMC Sport</div>
+            <div>TSN</div>
+            <div>قنوات الرياضة العربية</div>
+            <div>قنوات المصارعة</div>
+            <div>ART</div>
+            <div>قنوات دبي</div>
+            <div>شاهد mbc</div>
+            <div>روتانا / میلودی</div>
+            <div>وياك / مسرح مصر</div>
+            <div>أفلام النجوم</div>
+            <div>الاسطورة أفلام / VIP</div>
+            <div>شو تايم أفلام</div>
+            <div>شاهد VIP</div>
+            <div>بي ان الترفيهية</div>
+            <div>باقة OSN</div>
+            <div>Netflix / NETFLIX 2</div>
+            <div>ماجيستك</div>
+            <div>باقة شاهد</div>
+            <div>قنوات الفجر</div>
+            <div>القنوات المصرية</div>
+            <div>القنوات المغربية</div>
+            <div>القنوات الجزائرية</div>
+            <div>القنوات السورية</div>
+            <div>القنوات السودانية</div>
+            <div>ام بی سي / MBC جودة متوسطة</div>
+            <div>قنوات الأطفال</div>
+        </div>
+    </section>
+
+    <section>
+        <h3>أكواد التحميل للشاشات (عبر تطبيق Downloader)</h3>
+        <p>اضغط على الكود لنسخه مباشرة (يرجى إدخال المشغل المطلوب عند طلب التطبيق):</p>
+
+        <div>
+            <div onclick="navigator.clipboard.writeText('6180485'); alert('تم نسخ كود الأسطورة');">
+                <span>الأسطورة</span>
+                <span>6180485</span>
+            </div>
+
+            <div onclick="navigator.clipboard.writeText('9928180'); alert('تم نسخ كود المشغل الأول');">
+                <span>المشغل الاول</span>
+                <span>9928180</span>
+            </div>
+
+            <div onclick="navigator.clipboard.writeText('6180347'); alert('تم نسخ كود المشغل الثاني');">
+                <span>المشغل الثاني</span>
+                <span>6180347</span>
+            </div>
+        </div>
+    </section>
+
+    <div>
+        <h4>لتحميل تطبيق Downloader (نقل التطبيق عن طريق فلاش ميموري ونقله للشاشة ومن ثم التثبيت واستخدم اكواد داونلودر)</h4>
+        <div>
+            <a href="https://t.me/techtouch7/2021" target="_blank" rel="noopener noreferrer">
+                تنزيل التطبيق للشاشة (عبر USB)
+            </a>
+            <a href="https://t.me/techtouch7/4734?comment=86357" target="_blank" rel="noopener noreferrer">
+                تنزيل التطبيق للهاتف
+            </a>
+        </div>
+    </div>
+
+</div>
+]]></content:encoded>
+    <media:content url="https://kinantouch.com/assets/images/1774894672307_20260330_211731.webp" type="image/webp" medium="image" />
+    <enclosure url="https://kinantouch.com/assets/images/1774894672307_20260330_211731.webp" type="image/webp" />
+  </item>
+  <item>
+    <title><![CDATA[DLTA 4K: تحميل تطبيق للشاشات والهواتف مع كود التفعيل (قنوات رياضية)]]></title>
+    <link>https://kinantouch.com/article-dlta-4k-sport</link>
+    <guid isPermaLink="true">https://kinantouch.com/article-dlta-4k-sport</guid>
+    <pubDate>Wed, 25 Mar 2026 01:31:00 GMT</pubDate>
+    <dc:creator><![CDATA[كنان الصائغ]]></dc:creator>
+    <category>sports</category>
+    <description><![CDATA[حمل تطبيق DLTA 4K لمشاهدة القنوات الرياضية والعالمية مجاناً. يتضمن كود تفعيل جاهز، وكود مباشر (5463741) للتحميل السريع على الشاشات والهواتف.]]></description>
+    <content:encoded><![CDATA[<div dir="rtl">
+
+    <p>
+        تطبيق <strong>DLTA 4K</strong> المميز لمشاهدة القنوات الرياضية والعالمية بجودة عالية. نوفر لك بيانات تفعيل جاهزة، بالإضافة إلى كود تحميل مباشر للشاشات الذكية ورابط للهواتف.
+    </p>
+
+    <div>
+        <div></div>
+        <div>
+            <span>
+                <i></i>
+            </span>
+            <div>
+                <h3>DLTA 4K</h3>
+                <p>قنوات رياضية وعالمية</p>
+            </div>
+        </div>
+        <div>
+            <i></i> كود جديد (New Code)
+        </div>
+    </div>
+
+    <div>
+        <div>
+            <i></i> بيانات التفعيل
+        </div>
+        
+        <p>اضغط مرة واحدة على النص لنسخ الكود مباشرة</p>
+
+        <div dir="ltr">
+            
+            <div onclick="copyActivationData('Adghrrhh', this)">
+                <span>Username</span>
+                <div>
+                    <span>Adghrrhh</span>
+                    <i></i>
+                </div>
+            </div>
+
+            <div onclick="copyActivationData('rBBQ9d2EB2', this)">
+                <span>Password</span>
+                <div>
+                    <span>rBBQ9d2EB2</span>
+                    <i></i>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <h2>روابط التحميل المباشرة</h2>
+    
+    <div>
+        <div>
+            <i></i>
+            <h4>للشاشات الذكية (Downloader)</h4>
+            <p>أدخل كود التحميل السريع التالي:</p>
+            <div>
+                <span>5463741</span>
+            </div>
+        </div>
+
+        <div>
+            <i></i>
+            <h4>للهواتف الذكية</h4>
+            <p>حمل التطبيق مباشرة عبر قناتنا على تيليجرام:</p>
+            <a href="https://t.me/techtouch7/3376" target="_blank" rel="noopener noreferrer">
+                <i></i>
+                تنزيل التطبيق
+            </a>
+        </div>
+    </div>
+
+    <script>
+        function copyActivationData(text, element) {
+            navigator.clipboard.writeText(text).then(() => {
+                const icon = element.querySelector('.copy-icon');
+                const originalClass = icon.className;
+                
+                // تغيير الأيقونة للدلالة على نجاح النسخ
+                icon.className = 'fas fa-check text-green-400 copy-icon';
+                element.classList.add('ring-2', 'ring-green-500');
+                
+                // إعادة الزر لحالته الطبيعية
+                setTimeout(() => {
+                    icon.className = originalClass;
+                    element.classList.remove('ring-2', 'ring-green-500');
+                }, 1500);
+            }).catch(err => {
+                console.error('فشل النسخ: ', err);
+            });
+        }
+    </script>
+
+</div>
+]]></content:encoded>
+    <media:content url="https://kinantouch.com/assets/images/1774402338053_Screenshot_2026-03-25-04-16-14-82_4ccd35b013b9b2701b80fcc97a35f841.webp" type="image/webp" medium="image" />
+    <enclosure url="https://kinantouch.com/assets/images/1774402338053_Screenshot_2026-03-25-04-16-14-82_4ccd35b013b9b2701b80fcc97a35f841.webp" type="image/webp" />
+  </item>
+  <item>
+    <title><![CDATA[قيود جوجل الجديدة:: صعوبة تثبيت التطبيقات APK]]></title>
+    <link>https://kinantouch.com/article-google-new-restrictions</link>
+    <guid isPermaLink="true">https://kinantouch.com/article-google-new-restrictions</guid>
+    <pubDate>Sat, 21 Mar 2026 21:01:00 GMT</pubDate>
+    <dc:creator><![CDATA[كنان الصائغ]]></dc:creator>
+    <category>articles</category>
+    <description><![CDATA[تفاصيل قيود أندرويد الصارمة لعرقلة تثبيت تطبيقات APK من خارج متجر Play. فترات انتظار، حظر صلاحيات، وتعقيد متعمد بحجة حماية المستخدم.]]></description>
+    <content:encoded><![CDATA[<div dir="rtl">
+
+    <div>
+        <a href="#user-summary">
+            <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 14l-7 7m0 0l-7-7m7 7V3"></path></svg>
+            لقراءة الملخص السريع (تأثير القيود على المستخدم) اضغط هنا
+        </a>
+    </div>
+
+    <p>
+        لم يعد تثبيت التطبيقات بصيغة (APK) من خارج متجر Google Play عملية بسيطة بضغطة زر. تفرض جوجل الآن ترسانة من القيود الأمنية الصارمة والمتصاعدة في أنظمة أندرويد الحديثة (تحديداً من أندرويد 15 وما يليه)، بحجة حماية المستخدمين من الاحتيال المالي والبرمجيات الخبيثة. النظام يتحول تدريجياً إلى بيئة مغلقة، وإليك التفاصيل التقنية المباشرة لهذه القيود.
+    </p>
+
+    <h2>القيود الأساسية عند محاولة التثبيت (Sideloading)</h2>
+    
+    <div>
+        
+        <div>
+            <div>
+                <div>
+                    <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z"></path></svg>
+                </div>
+                <h3>1. كشف "التوجيه" (Anti-Coaching)</h3>
+            </div>
+            <p>تظهر رسالة أمنية تسألك بوضوح ما إذا كان هناك شخص يوجهك عبر الهاتف للقيام بهذه الخطوة. الهدف هو كسر أسلوب الهندسة الاجتماعية حيث يضغط المحتالون على الضحية لتعطيل الحماية.</p>
+        </div>
+
+        <div>
+            <div>
+                <div>
+                    <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"></path></svg>
+                </div>
+                <h3>2. إجبار إعادة التشغيل والمصادقة</h3>
+            </div>
+            <p>تتطلب العملية إعادة تشغيل الجهاز بالكامل وإدخال رمز المرور. هذه الخطوة تقطع فوراً أي اتصال "تحكم عن بعد" (Remote Access) أو مكالمة نشطة قد يستخدمها المخادع لمراقبة شاشتك.</p>
+        </div>
+
+        <div>
+            <div>
+                <div>
+                    <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+                </div>
+                <h3>3. حظر الـ 24 ساعة (Security Delay)</h3>
+            </div>
+            <p>بعد إعادة التشغيل، لا يمكنك تفعيل إعداد "مصادر غير معروفة" فوراً. يُفرض عليك انتظار يوم كامل. هذا يكسر "حاجز الاستعجال" الذي يعتمد عليه المحتالون لتوريط الضحية.</p>
+        </div>
+
+        <div>
+            <div>
+                <div>
+                    <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path></svg>
+                </div>
+                <h3>4. التفعيل المؤقت أو المشروط</h3>
+            </div>
+            <p>بعد انقضاء الـ 24 ساعة، يمكنك تفعيل الخيار مؤقتاً لمدة 7 أيام فقط، أو بشكل دائم (وهو خيار مدفون يقتصر على المطورين والمستخدمين المتقدمين للحد من الاستخدام العشوائي).</p>
+        </div>
+
+    </div>
+
+    <h2>القيود البرمجية العميقة المخفية في النظام</h2>
+
+    <div>
+        <div>
+            <h4>حظر الصلاحيات الحساسة (Enhanced Fraud Protection)</h4>
+            <p>إذا حاولت تثبيت تطبيق عبر متصفح أو تطبيق مراسلة، وكان هذا التطبيق يطلب صلاحية "قراءة الـ SMS" أو "الإشعارات"، سيقوم Play Protect <strong>بحظر التثبيت تماماً</strong> لمنع سرقة رموز الـ OTP.</p>
+        </div>
+
+        <div>
+            <h4>عزل صلاحية الوصول (Accessibility API Restrictions)</h4>
+            <p>التطبيقات المثبتة خارج المتجر ممنوعة نهائياً من استخدام صلاحية "إمكانية الوصول" (الأداة الأخطر للتحكم بالشاشة)، مما يعطل عمل الكثير من تطبيقات التعديل والأتمتة المستقلة.</p>
+        </div>
+
+        <div>
+            <h4>الحماية أثناء المكالمات (In-Call Scammer Protection)</h4>
+            <p>النظام يمنعك من إيقاف حماية Play Protect أو السماح بتثبيت التطبيقات الخارجية طوال فترة وجود "مكالمة هاتفية نشطة" على جهازك، لسد ثغرة الاحتيال اللحظي.</p>
+        </div>
+
+        <div>
+            <h4>واجهة نزاهة المتجر (Play Integrity API)</h4>
+            <p>تطبيقات البنوك والألعاب يمكنها الآن استخدام واجهة جوجل البرمجية لمعرفة "طريقة تثبيت التطبيق". إذا اكتشف التطبيق أنه ثُبّت يدوياً (APK) وليس من المتجر، يمكنه إغلاق نفسه أو حظر حسابك.</p>
+        </div>
+    </div>
+
+    <div id="user-summary">
+        <div>
+            <span>
+                <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+            </span>
+            <h2>الخلاصة: ما تأثير ذلك عليك كمستخدم نهائي؟</h2>
+        </div>
+        
+        <p>بكل شفافية وبدون هراء، هذه القيود تعني الآتي للمستخدم الذي يحاول تثبيت تطبيقات (APK) معدلة أو من خارج المتجر:</p>
+        
+        <ul>
+            <li>
+                <strong>الانتظار الإجباري:</strong> إذا كنت تقوم بإعداد هاتف جديد أو لم تقم بالتثبيت الخارجي من قبل، ستضطر للانتظار 24 ساعة كاملة قبل السماح لك بتثبيت أي تطبيق من المتصفح أو تليجرام.
+            </li>
+            <li>
+                <strong>تعطيل وظائف التطبيقات:</strong> التطبيقات التي تعتمد على "إمكانية الوصول" (مثل تطبيقات الترجمة الفورية للشاشة، أو أدوات النقر التلقائي Auto-Clickers) لن تعمل بكفاءة أو ستتوقف كلياً إذا ثبتها كـ APK.
+            </li>
+            <li>
+                <strong>تطبيقات سترفض العمل:</strong> بعض التطبيقات (خاصة البنكية أو ألعاب الأونلاين) سترفض العمل على جهازك بمجرد اكتشافها أنك قمت بتثبيتها أو تثبيت غيرها من خارج متجر Play الرسمي.
+            </li>
+            <li>
+                <strong>تعقيد متعمد:</strong> جوجل تجعل العملية مزعجة وطويلة (إعادة تشغيل، رسائل تحذير مخيفة، فترات انتظار) لتدفعك للعودة إلى استخدام متجر Play حصراً.
+            </li>
+        </ul>
+    </div>
+
+    <div>
+        <h3>
+            <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1"></path></svg>
+            المصادر الرسمية (Google & Android)
+        </h3>
+        <ul>
+            <li>
+                <a href="https://security.googleblog.com/2024/02/enhancing-google-play-protect-with-new-financial-fraud-protection.html" target="_blank" rel="noopener noreferrer" dir="ltr">
+                    Google Security Blog: Enhanced Fraud Protection <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path></svg>
+                </a>
+            </li>
+            <li>
+                <a href="https://developer.android.com/google/play/integrity" target="_blank" rel="noopener noreferrer" dir="ltr">
+                    Android Developers: Play Integrity API <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path></svg>
+                </a>
+            </li>
+            <li>
+                <a href="https://developer.android.com/about/versions/15/behavior-changes-all" target="_blank" rel="noopener noreferrer" dir="ltr">
+                    Android 15 Behavior Changes (Security & Privacy) <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path></svg>
+                </a>
+            </li>
+        </ul>
+    </div>
+
+</div>
+]]></content:encoded>
+    <media:content url="https://kinantouch.com/assets/images/1774126953633_IMG_20260321_234337_910.webp" type="image/webp" medium="image" />
+    <enclosure url="https://kinantouch.com/assets/images/1774126953633_IMG_20260321_234337_910.webp" type="image/webp" />
+  </item>
+  <item>
+    <title><![CDATA[كود داونلودر للشاشات::  أضخم مكتبة تطبيقات (IPTV وأفلام) بروابط مباشرة]]></title>
+    <link>https://kinantouch.com/article-downloader-code</link>
+    <guid isPermaLink="true">https://kinantouch.com/article-downloader-code</guid>
+    <pubDate>Sat, 21 Mar 2026 18:12:00 GMT</pubDate>
+    <dc:creator><![CDATA[كنان الصائغ]]></dc:creator>
+    <category>TVscreen</category>
+    <description><![CDATA[أضخم مكتبة تطبيقات للشاشات الذكية (أفلام، مسلسلات، IPTV). حملها بروابط مباشرة أو عبر كود تطبيق داونلودر (5033352) لتثبيت سريع بضغطة زر.]]></description>
+    <content:encoded><![CDATA[<div dir="rtl">
+
+    <div>
+        <div>
+            <span>
+                <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.75 17L9 20l-1 1h8l-1-1-.75-3M3 13h18M5 17h14a2 2 0 002-2V5a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path></svg>
+            </span>
+            <h2>طريقة التنزيل على الشاشات الذكية</h2>
+        </div>
+        <p>
+            يجب تنزيل تطبيق <strong>داونلودر (Downloader)</strong> في الشاشة عن طريق متجر الشاشة الرسمي، أو نقل التطبيق عبر "فلاش ميموري" وتثبيته.
+        </p>
+        <p>
+            وعند تشغيل تطبيق الداونلودر، قم بكتابة الكود الخاص بنا داخل المستطيل المخصص للبحث، ستظهر لك قائمة بالتطبيقات، اختر منها ما تحتاج لتثبيته مباشرة.<br>
+            <span>(تطبيق الداونلودر والكود المخصص متوفران في نهاية هذا المنشور).</span>
+        </p>
+    </div>
+
+    <div>
+        <h2>مكتبة التطبيقات المباشرة</h2>
+        
+        <div>
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+                </svg>
+            </div>
+            <input
+           
+            type="text"
+            id="appSearch"
+            placeholder="بحث سريع (اكتب اسم التطبيق)..."
+            oninput="liveSearchApp()" />
+            <button>
+                بحث
+            </button>
+        </div>
+    </div>
+
+    <div id="appsContainer">
+        </div>
+
+    <div id="noResultsMsg">
+        <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"></path></svg>
+        <h3>لم يتم العثور على تطبيق بهذا الاسم!</h3>
+        <p>يرجى التأكد من كتابة الاسم بشكل صحيح.</p>
+    </div>
+
+    <div>
+        <div></div>
+        
+        <div>
+            <span>
+                <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path></svg>
+            </span>
+            <h3>تطبيق Downloader للشاشة</h3>
+            <p>لتحميل جميع التطبيقات أعلاه بضغطة زر واحدة على شاشتك الذكية.</p>
+            
+            <div>
+                <span>كود التحميل السريع</span>
+                <span>5033352</span>
+            </div>
+            
+            <div>
+                <a href="https://t.me/techtouch7/2021" target="_blank" rel="noopener noreferrer">
+                    <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"></path></svg>
+                    تنزيل تطبيق داونلودر للشاشة
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // قائمة التطبيقات الكاملة (132 تطبيق)
+        const appsData = [
+            { name: "ZOON TV PRO(v2+)", url: "https://pixeldrain.com/u/mDbpAsof" },
+            { name: "ZERDA LIVE mod 1.6", url: "https://pixeldrain.com/u/LxBkTUQJ" },
+            { name: "YTV_PRO_v12.0_AdFree_[TraidMod.Net]", url: "https://pixeldrain.com/u/oWkA24Gf" },
+            { name: "Yacine TV Pro_3.1_", url: "https://pixeldrain.com/u/MeV6uxMU" },
+            { name: "URL_Player_v1.2.5", url: "https://pixeldrain.com/u/VqhzdSCt" },
+            { name: "Url Player +_1", url: "https://pixeldrain.com/u/S4xbiEs4" },
+            { name: "MovieBox v3 (VIP) (1)", url: "https://pixeldrain.com/u/a5vajRCN" },
+            { name: "KORA TV", url: "https://pixeldrain.com/u/uw9Fm1AH" },
+            { name: "IPTV Smarters Pro", url: "https://pixeldrain.com/u/PffmGmMz" },
+            { name: "Drama_Live_v13.0.3_Premium_", url: "https://pixeldrain.com/u/eXYMdSLU" },
+            { name: "BlackUltra2025", url: "https://pixeldrain.com/u/T33DBE6z" },
+            { name: "BEST TV", url: "https://pixeldrain.com/u/JJGc7RUJ" },
+            { name: "مشغل فيديوهات_3.0", url: "https://pixeldrain.com/u/PtCxnTez" },
+            { name: "الرئيس لايف", url: "https://pixeldrain.com/u/EqcBvc5y" },
+            { name: "الأسطورة للهاتف", url: "https://pixeldrain.com/u/NwMKJsTK" },
+            { name: "الاسطورة للشاشات", url: "https://pixeldrain.com/u/AjWVvN9N" },
+            { name: "ALTAEEN PLUS_5.9.9", url: "https://pixeldrain.com/u/YAuF3nNK" },
+            { name: "Buz TV (1)", url: "https://pixeldrain.com/u/B8qirPdh" },
+            { name: "SmartTube+stable+v28.66+armeabi-v7a", url: "https://pixeldrain.com/u/1tLvinoA" },
+            { name: "YouTube Mobile 28.66_Arm64", url: "https://pixeldrain.com/u/Drg9EBMp" },
+            { name: "NETFLY_2.3.0 Origin", url: "https://pixeldrain.com/u/aT5teSnn" },
+            { name: "الكتلان Tv برو_2.0.0 (1)", url: "https://pixeldrain.com/u/CGz5SGDv" },
+            { name: "OTTO TV_v1.11.6", url: "https://pixeldrain.com/u/ViWFe3fR" },
+            { name: "RBTV_v3.0.309_Tv", url: "https://pixeldrain.com/u/QhiroJSG" },
+            { name: "remo TV4.6", url: "https://pixeldrain.com/u/6R5cB5GK" },
+            { name: "Yassin TV", url: "https://pixeldrain.com/u/5PgV1YDo" },
+            { name: "Super IQ (Android TV) (1)", url: "https://pixeldrain.com/u/Pa3wJVyX" },
+            { name: "Simo Drama Tv V5.5 mobilltna", url: "https://pixeldrain.com/u/vXnDZgDY" },
+            { name: "SMARTERS TV PRO", url: "https://pixeldrain.com/u/hM5Z3ZLT" },
+            { name: "abas tv 3", url: "https://pixeldrain.com/u/uALtXRhC" },
+            { name: "TizenTube_v1.08", url: "https://pixeldrain.com/u/UAJa6cUD" },
+            { name: "Abas tv NO AD", url: "https://pixeldrain.com/u/ZcGWGURR" },
+            { name: "abdo.tv.new", url: "https://pixeldrain.com/u/F8XVXf8Q" },
+            { name: "KiraTV-v1.01", url: "https://pixeldrain.com/u/vecftyE7" },
+            { name: "TDM premium", url: "https://pixeldrain.com/u/cqia2ns1" },
+            { name: "drama ramadan premium", url: "https://pixeldrain.com/u/UHXXkDeH" },
+            { name: "iptv-smarters-5.0", url: "https://pixeldrain.com/u/oKcShvx1" },
+            { name: "1 IRAQ TV _v1", url: "https://pixeldrain.com/u/b6CmH2Po" },
+            { name: "OTF_TV_V3.2 mod", url: "https://pixeldrain.com/u/GXyeaezk" },
+            { name: "Elahmad TV.404", url: "https://pixeldrain.com/u/Qo8PWqWh" },
+            { name: "GTV PLAYER_1.0", url: "https://pixeldrain.com/u/mut7QhFC" },
+            { name: "NETFLY_v3.0.0mod", url: "https://pixeldrain.com/u/aBSnbiW7" },
+            { name: "xPola Player__7.0", url: "https://pixeldrain.com/u/qnZHK9ZH" },
+            { name: "HiTV_3.13.1(2)", url: "https://pixeldrain.com/u/h3QTmFUt" },
+            { name: "SflixFilm_1", url: "https://pixeldrain.com/u/2HM2T9my" },
+            { name: "تيليجرام_12.4.3_apks", url: "https://pixeldrain.com/u/MgcPJmCD" },
+            { name: "Shafak TV_4.3_apks", url: "https://pixeldrain.com/u/JpqXhKGM" },
+            { name: "Star10 (1)", url: "https://pixeldrain.com/u/M5QCAG7A" },
+            { name: "remo", url: "https://pixeldrain.com/u/VfxA8Gci" },
+            { name: "قرمزي_2.0.0(2)", url: "https://pixeldrain.com/u/zH5MC1Tt" },
+            { name: "Showtime_TV_3.2", url: "https://pixeldrain.com/u/tEwjZgYb" },
+            { name: "Saif TV_1.3", url: "https://pixeldrain.com/u/9vUkN3VW" },
+            { name: "Player Pro_1.6_apks", url: "https://pixeldrain.com/u/ruHfU6Ur" },
+            { name: "remo TV v4.62", url: "https://pixeldrain.com/u/q3Tat13t" },
+            { name: "Qvix_1.2.0_apks (1)", url: "https://pixeldrain.com/u/t5Bukcwr" },
+            { name: "pppp", url: "https://pixeldrain.com/u/vEXMbBuG" },
+            { name: "Reezn_1.8.0", url: "https://pixeldrain.com/u/ET6v1ioW" },
+            { name: "Shabakaty TV old 4.4.2", url: "https://pixeldrain.com/u/zXkVMGXC" },
+            { name: "Tv vod", url: "https://pixeldrain.com/u/E629bCXM" },
+            { name: "Shahid", url: "https://pixeldrain.com/u/MT9ArE2R" },
+            { name: "scenes_2.7.0", url: "https://pixeldrain.com/u/M8gfLJrv" },
+            { name: "التحكم في دوران الشاشة_4.2", url: "https://pixeldrain.com/u/Hz2F4YZ3" },
+            { name: "برايم تي في_1.3.0", url: "https://pixeldrain.com/u/4UpGVyRQ" },
+            { name: "Al Rayes TV", url: "https://pixeldrain.com/u/8aVvUc2K" },
+            { name: "cinemana 5.3.3", url: "https://pixeldrain.com/u/amVaGGAc" },
+            { name: "Cinemana Offical (New)(2)", url: "https://pixeldrain.com/u/s4GPxgCf" },
+            { name: "CinemanaPlus_0.0.3", url: "https://pixeldrain.com/u/p98i7kRa" },
+            { name: "Egybest19.1.2 (1)", url: "https://pixeldrain.com/u/yWr3KYHo" },
+            { name: "hussam tv (1)", url: "https://pixeldrain.com/u/mZivfBqV" },
+            { name: "IGames PSP_7.14.5", url: "https://pixeldrain.com/u/1ypARUgV" },
+            { name: "LEO TV_3.9", url: "https://pixeldrain.com/u/5P37pf1g" },
+            { name: "MAX TV PRO_3.9", url: "https://pixeldrain.com/u/JAn2RfuM" },
+            { name: "MixFlix_2.17_kill", url: "https://pixeldrain.com/u/uUUWBiJg" },
+            { name: "movie hussam", url: "https://pixeldrain.com/u/14CwqSWK" },
+            { name: "MovieBox (1)", url: "https://pixeldrain.com/u/EGKbd5ps" },
+            { name: "mycimavip_app_android-2", url: "https://pixeldrain.com/u/2J1xtP5C" },
+            { name: "MYHD-LION (1)", url: "https://pixeldrain.com/u/9QGPPWFB" },
+            { name: "NETFLY_3.0.0", url: "https://pixeldrain.com/u/AqAfjs8k" },
+            { name: "Play Store_1.0", url: "https://pixeldrain.com/u/L6hYiCNo" },
+            { name: "1_iraq_tv_v1", url: "https://pixeldrain.com/u/Kra7BY7E" },
+            { name: "Cinemana_Plus_0.0.4", url: "https://pixeldrain.com/u/T3LedVuy" },
+            { name: "superiqtv_v1", url: "https://pixeldrain.com/u/qyakCjaV" },
+            { name: "qitv_1_1.1.0v78", url: "https://pixeldrain.com/u/HjXvbtvS" },
+            { name: "cee_leanback_last", url: "https://pixeldrain.com/u/GTTVeJtz" },
+            { name: "veo_tv", url: "https://pixeldrain.com/u/k7tVRRon" },
+            { name: "Cinema Box Android TV_4.2.20_apks", url: "https://pixeldrain.com/u/RucCMPR3" },
+            { name: "smarttube_beta_610", url: "https://pixeldrain.com/u/TbTtJTi8" },
+            { name: "Old-release-protected.3.0.1", url: "https://pixeldrain.com/u/kUYKEEjf" },
+            { name: "New-release-protected.3.0.1", url: "https://pixeldrain.com/u/dQNi2Apm" },
+            { name: "aflaametv", url: "https://pixeldrain.com/u/KsbtxmJ9" },
+            { name: "Shabakaty_TV_1.6.5", url: "https://pixeldrain.com/u/9DqVp4KV" },
+            { name: "tv_leanback_1.6.5", url: "https://pixeldrain.com/u/gHWz8wTq" },
+            { name: "vodu_old_tv", url: "https://pixeldrain.com/u/azFu1pcA" },
+            { name: "vodu_new_tv", url: "https://pixeldrain.com/u/bvjZHgRd" },
+            { name: "GENRAL-TV-box", url: "https://pixeldrain.com/u/Ms3GUi2A" },
+            { name: "1001", url: "https://pixeldrain.com/u/bXdN7w7T" },
+            { name: "shabakaty_pro_premuim", url: "https://pixeldrain.com/u/4BqNtGSR" },
+            { name: "send_file_totv", url: "https://pixeldrain.com/u/cRrDK23d" },
+            { name: "dramalive", url: "https://pixeldrain.com/u/L9JEpFqV" },
+            { name: "televizo", url: "https://pixeldrain.com/u/bzTB7Z57" },
+            { name: "fx_file_explorer_pro", url: "https://pixeldrain.com/u/2ogmYoDa" },
+            { name: "smarttube_stable", url: "https://pixeldrain.com/u/srC7pQfr" },
+            { name: "انمي_سلاير_1.0.0", url: "https://pixeldrain.com/u/EQ1dcbf1" },
+            { name: "136999-drslayerV2.2.0", url: "https://pixeldrain.com/u/8eRaFD3B" },
+            { name: "ostora_smart_4.9", url: "https://pixeldrain.com/u/QjdKEkLC" },
+            { name: "com.aykutcevik.dnschanger_1.6.2_17", url: "https://pixeldrain.com/u/mpsigN1C" },
+            { name: "magistv_version_5.0.2", url: "https://pixeldrain.com/u/xKzaW98o" },
+            { name: "ZERDA_LIVE_1_2025", url: "https://pixeldrain.com/u/gDmKjtih" },
+            { name: "ElahmadTV", url: "https://pixeldrain.com/u/A3DTFGjZ" },
+            { name: "Loklok_latest", url: "https://pixeldrain.com/u/UDjBYWeE" },
+            { name: "Elbatal-TV.v2.9.4", url: "https://pixeldrain.com/u/xYTnPscv" },
+            { name: "manga_slayer-universal_25", url: "https://pixeldrain.com/u/mN25Uoiq" },
+            { name: "ADS_Player_4.3.6", url: "https://pixeldrain.com/u/LsZ9RF7M" },
+            { name: "Film_Plus_", url: "https://pixeldrain.com/u/re617RNe" },
+            { name: "4.6.0", url: "https://pixeldrain.com/u/dyDbPS7H" },
+            { name: "cd_app_v5_5_tv", url: "https://pixeldrain.com/u/ZLgprG7C" },
+            { name: "عالم_الدراما_", url: "https://pixeldrain.com/u/dRx7TExh" },
+            { name: "FlixVision_v3.4.0", url: "https://pixeldrain.com/u/p9iu8F4h" },
+            { name: "atv", url: "https://pixeldrain.com/u/Hnqa4JyF" },
+            { name: "onstream-mobile-1.1.7", url: "https://pixeldrain.com/u/cw3wmY9Y" },
+            { name: "Stremio_", url: "https://pixeldrain.com/u/cS91XxuD" },
+            { name: "nova", url: "https://pixeldrain.com/u/UYCFZR61" },
+            { name: "HDO_Box_TV_", url: "https://pixeldrain.com/u/nxTe5eLL" },
+            { name: "Apps_Manager_", url: "https://pixeldrain.com/u/XXzVkGXf" },
+            { name: "openbrowserlite", url: "https://pixeldrain.com/u/NFXcLU7S" },
+            { name: "openbrowser", url: "https://pixeldrain.com/u/uUAjnZVw" },
+            { name: "webcasterreceiver", url: "https://pixeldrain.com/u/3xWR7fiq" },
+            { name: "iptv_pro", url: "https://pixeldrain.com/u/8WBZ4gCF" },
+            { name: "nebula", url: "https://pixeldrain.com/u/tDY53pqo" },
+            { name: "control_screen_orientation_premium", url: "https://pixeldrain.com/u/dKbucyj4" },
+            { name: "Cinemana_Leanback v4.5.9", url: "https://pixeldrain.com/u/z8P6if7B" },
+            { name: "Cinemana X (v2)", url: "https://pixeldrain.com/u/WqriY6PS" }
+        ];
+
+        const container = document.getElementById('appsContainer');
+        const noResultsMsg = document.getElementById('noResultsMsg');
+
+        // دالة توليد البطاقات عند التحميل
+        function renderApps(appsList) {
+            container.innerHTML = ''; // تفريغ الحاوية
+            
+            if(appsList.length === 0) {
+                noResultsMsg.classList.remove('hidden');
+                return;
+            } else {
+                noResultsMsg.classList.add('hidden');
+            }
+
+            let html = '';
+            appsList.forEach(app => {
+                html += `
+                <div>
+                    <div>
+                        <div>
+                            <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"></path></svg>
+                        </div>
+                        <h3 dir="ltr">${app.name}</h3>
+                    </div>
+                    <a href="${app.url}" target="_blank" rel="noopener noreferrer">
+                        تحميل التطبيق
+                    </a>
+                </div>
+                `;
+            });
+            container.innerHTML = html;
+        }
+
+        // تشغيل التوليد الأولي للتطبيقات عند فتح الصفحة
+        renderApps(appsData);
+
+        // دالة البحث اللحظي السريع
+        function liveSearchApp() {
+            const query = document.getElementById('appSearch').value.toLowerCase().trim();
+            const allCards = document.querySelectorAll('.app-card');
+            let hasResults = false;
+
+            allCards.forEach(card => {
+                const appName = card.querySelector('.app-title').innerText.toLowerCase();
+                if (appName.includes(query)) {
+                    card.style.display = 'flex';
+                    hasResults = true;
+                    // تضليل النتيجة أثناء البحث
+                    if(query.length > 0) {
+                        card.classList.add('ring-2', 'ring-blue-400', 'dark:ring-blue-500');
+                    } else {
+                        card.classList.remove('ring-2', 'ring-blue-400', 'dark:ring-blue-500');
+                    }
+                } else {
+                    card.style.display = 'none';
+                    card.classList.remove('ring-2', 'ring-blue-400', 'dark:ring-blue-500');
+                }
+            });
+
+            if (hasResults) {
+                noResultsMsg.classList.add('hidden');
+            } else {
+                noResultsMsg.classList.remove('hidden');
+            }
+        }
+    </script>
+
+</div>
+]]></content:encoded>
+    <media:content url="https://kinantouch.com/assets/images/1774116778233_20260321_211216.webp" type="image/webp" medium="image" />
+    <enclosure url="https://kinantouch.com/assets/images/1774116778233_20260321_211216.webp" type="image/webp" />
+  </item>
+  <item>
+    <title><![CDATA[Cinemana: سينمانا شبكتي تحميل النسخة الرسمية والمعدلة]]></title>
+    <link>https://kinantouch.com/article-cinemana-update-x</link>
+    <guid isPermaLink="true">https://kinantouch.com/article-cinemana-update-x</guid>
+    <pubDate>Fri, 20 Mar 2026 19:33:00 GMT</pubDate>
+    <dc:creator><![CDATA[كنان الصائغ]]></dc:creator>
+    <category>apps</category>
+    <description><![CDATA[دليلك الشامل لتطبيق سينمانا شبكتي في العراق. استمتع بآلاف الأفلام والمسلسلات بدقة 4K]]></description>
+    <content:encoded><![CDATA[<div dir="rtl">
+
+    <p>
+        تطبيق <strong>سينمانا (Shabakaty Cinemana)</strong> هو منصة بث فيديو حسب الطلب (VOD) رائدة، تابعة لشبكة إيرثلنك (Earthlink) في العراق. يُعد التطبيق الوجهة الأولى لعشاق السينما، حيث يوفر مكتبة ضخمة ومتجددة من الأفلام والمسلسلات، معتمداً بشكل أساسي على خوادم محلية قوية لضمان أقصى سرعة بث واستقرار للمشتركين داخل الشبكة.
+    </p>
+
+    <section>
+        <div>
+            <h3>
+                مكتبة الفيديو الجبارة
+            </h3>
+            <p>يضم التطبيق آلاف العناوين من الأفلام والمسلسلات الأجنبية، العربية، والآسيوية (الكورية والتركية)، بالإضافة إلى قسم ضخم لإنتاجات الأنمي والرسوم المتحركة.</p>
+        </div>
+        <div>
+            <h3>
+                الترجمة والدبلجة
+            </h3>
+            <p>يتوفر المحتوى بشكل افتراضي بترجمة عربية احترافية مدمجة وسلسة، مع توفير خيارات الدبلجة العربية لبعض الأعمال المختارة.</p>
+        </div>
+        <div>
+            <h3>
+                جودة البث المتكيفة
+            </h3>
+            <p>يتيح التطبيق خيارات جودة متعددة تبدأ من الدقة المنخفضة (144p) لتوفير البيانات، وصولاً إلى دقة عالية الجودة (4K) لأصحاب الاشتراكات السريعة.</p>
+        </div>
+    </section>
+
+    <section>
+        <h2>أقسام التطبيق الرئيسية</h2>
+        
+        <div>
+            <div>
+                <h4>قسم الأفلام</h4>
+                <p>تصفح مريح بناءً على الفئة (أكشن، دراما، خيال علمي، كوميديا، رعب، إلخ) للوصول لفيلمك المفضل بسرعة.</p>
+            </div>
+
+            <div>
+                <h4>قسم المسلسلات</h4>
+                <p>تنظيم هيكلي يضم المواسم والحلقات بشكل متسلسل، مع ميزة تتبع الحلقات المشاهدة تلقائياً.</p>
+            </div>
+
+            <div>
+                <h4>قسم الأنمي</h4>
+                <p>قسم مخصص بالكامل لعروض الرسوم المتحركة اليابانية بمختلف تصنيفاتها الفرعية والشعبية.</p>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <div></div>
+        <div>
+            <i></i>
+            <h3>نسخة سينمـانا المعدلـة (النسخة السوداء X)</h3>
+        </div>
+
+        <ul>
+            <li>مشاهدة الأفلام والمسلسلات لجميع الشبكات (تجاوز قيد شبكة إيرثلنك).</li>
+            <li>تم حل مشكلة تحميل الترجمة بشكل نهائي.</li>
+            <li>تم حل مشكلة التوقف المفاجئ لنظام أندرويد 14.</li>
+            <li>يثبت جانبياً (Clone) بدون الحاجة لحذف التطبيق الأصلي.</li>
+            <li>دعم ميزة البث على التلفاز بشكل مستقر.</li>
+            <li>سلاسة وأداء فائق التطبيق.</li>
+            <li>دعم التحميل باستخدام بيانات الهاتف.</li>
+        </ul>
+        <div>
+            <span>✪ يعتمد الأداء على سرعة الإنترنت لديك.</span>
+            <span>✪ في حال واجهت مشكلة، قم بتشغيل تطبيق VPN (مثل 1.1.1.1).</span>
+        </div>
+    </section>
+
+    <section>
+        <div>
+            <i></i>
+            <h3>ملاحظات هامة جداً للتشغيل المستقر</h3>
+        </div>
+        <ul>
+            <li>عند استخدام <strong>النسخة الرسمية (الحمراء)</strong>، يجب إيقاف أي خدمة DNS أو تطبيق VPN لضمان الوصول للخوادم المحلية.</li>
+            <li>في حال استخدام <strong>النسخة المعدلة (السوداء)</strong> ولم تعمل بشكل صحيح، استخدم تطبيق VPN (مثل 1.1.1.1) لحل مشاكل الاتصال.</li>
+            <li><strong>انتبه ⛔ لتسجيل الدخول في سينمانا:</strong> يجب عليك أولاً الذهاب إلى موقع التطبيق الرسمي لإنشاء الحساب، ثم استخدام نفس الحساب لتسجيل الدخول داخل التطبيق.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h3>التحميل المباشر للشاشات الذكية (Smart TV)</h3>
+        
+        <div>
+            <div>
+                <p>استخدم تطبيق <strong>Downloader</strong> في شاشتك وأدخل الكود المباشر للوصول إلى مكتبة ضخمة تحتوي على أكثر من <strong>133 تطبيقاً</strong>، من أبرزها:</p>
+                
+                <ul>
+                    <li>سينمانا لينباك</li>
+                    <li>تـ CEE لينباك</li>
+                    <li>سينمانا الرسمي</li>
+                    <li>سينمانا الأسود (لكل الشبكات)</li>
+                    <li>ايجي بيست</li>
+                    <li>فاست موفي</li>
+                    <li>والكثير...</li>
+                </ul>
+            </div>
+            
+            <div>
+                <span>كود التحميل</span>
+                <span>5033352</span>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        
+        <a href="https://t.me/techtouch7/176?single" target="_blank" rel="noopener noreferrer"
+          >
+            <span>تحميل نسخة الشاشات (TV)</span>
+        </a>
+
+        <a href="https://t.me/techtouch7/5060" target="_blank" rel="noopener noreferrer"
+          >
+            <span>تحميل النسخة الحمراء الرسمية</span>
+        </a>
+
+        <a href="https://t.me/techtouch7/173" target="_blank" rel="noopener noreferrer"
+          >
+            <span>تحميل النسخة السوداء المعدلة (Clone)</span>
+        </a>
+
+        <a href="https://cinemana.shabakaty.cc/mobile;oldUrl=home" target="_blank" rel="noopener noreferrer"
+          >
+            <span>زيارة الموقع الرسمي (Web)</span>
+        </a>
+
+        <a href="https://t.me/techtouch7/889" target="_blank" rel="noopener noreferrer"
+          >
+            <span>تحميل تطبيق VPN 1.1.1.1 (للضرورة)</span>
+        </a>
+
+    </section>
+
+</div>
+]]></content:encoded>
+    <media:content url="https://kinantouch.com/assets/images/1774036212507_20260320_104947.webp" type="image/webp" medium="image" />
+    <enclosure url="https://kinantouch.com/assets/images/1774036212507_20260320_104947.webp" type="image/webp" />
+  </item>
+  <item>
+    <title><![CDATA[أدوات الذكاء الاصطناعي:  للمبرمجين في 2026: بيئات تطوير ووكلاء ذكية]]></title>
+    <link>https://kinantouch.com/article-ai-intelligence-tools</link>
+    <guid isPermaLink="true">https://kinantouch.com/article-ai-intelligence-tools</guid>
+    <pubDate>Fri, 20 Mar 2026 13:15:00 GMT</pubDate>
+    <dc:creator><![CDATA[كنان الصائغ]]></dc:creator>
+    <category>AI</category>
+    <description><![CDATA[أقوى أدوات الذكاء الاصطناعي لتسريع البرمجة في 2026. دليل شامل يغطي بيئات التطوير المتكاملة]]></description>
+    <content:encoded><![CDATA[<div dir="rtl">
+
+    <p>
+        لم يعد تطوير البرمجيات يعتمد فقط على كتابة الكود يدويًا، بل أصبح الذكاء الاصطناعي شريكًا فعليًا في بناء التطبيقات، تحليل الأكواد، وتصحيح الأخطاء. نضع بين يديك مجموعة من أهم الأدوات التي يعتمد عليها المطورون اليوم لتسريع عملية البرمجة.
+    </p>
+
+    <section>
+        <div>
+            <span>
+                <i></i>
+            </span>
+            <div>
+                <h2>🧑‍💻 بيئات تطوير متكاملة (Full IDEs)</h2>
+                <p>محررات أكواد ذكية تبني لك التطبيقات من الصفر</p>
+            </div>
+        </div>
+
+        <div>
+            
+            <div>
+                <div>
+                    <h3><i></i> Cursor</h3>
+                </div>
+                <p>محرر أكواد مدعوم بالذكاء الاصطناعي يساعد على كتابة الكود وبناء الوظائف بسرعة.</p>
+                <div>
+                    <div><i></i> إكمال تلقائي للدوال الكاملة، تكامل مع GitHub</div>
+                    <div><i></i> يحتاج خبرة برمجية، بعض الميزات مدفوعة</div>
+                </div>
+                <a href="https://cursor.sh/" target="_blank" rel="noopener noreferrer">زيارة الموقع</a>
+            </div>
+
+            <div>
+                <div>
+                    <h3><i></i> Windsurf</h3>
+                    <span>Codeium</span>
+                </div>
+                <p>بيئة تطوير حديثة تعتمد على الذكاء الاصطناعي بالكامل كوكيل برمجي مستقل.</p>
+                <div>
+                    <div><i></i> كتابة الكود وتعديله تلقائياً، مناسب للمشاريع الكبيرة</div>
+                    <div><i></i> ما زالت في تطور، تحتاج تعلم الواجهة</div>
+                </div>
+                <a href="https://codeium.com/windsurf" target="_blank" rel="noopener noreferrer">زيارة الموقع</a>
+            </div>
+
+            <div>
+                <div>
+                    <h3><i></i> Trae</h3>
+                </div>
+                <p>محرر برمجي يعتمد على الذكاء الاصطناعي لتوليد الأكواد وتحسينها.</p>
+                <div>
+                    <div><i></i> تسريع كتابة الكود، دعم لغات برمجة متعددة</div>
+                    <div><i></i> مجتمع مستخدمين صغير، بعض الخصائص مدفوعة</div>
+                </div>
+                <a href="https://trae.ai/" target="_blank" rel="noopener noreferrer">زيارة الموقع</a>
+            </div>
+
+            <div>
+                <div>
+                    <h3><i></i> Zed</h3>
+                </div>
+                <p>محرر أكواد سريع جداً مبني بلغة Rust مع دعم متزايد لقدرات الذكاء الاصطناعي.</p>
+                <div>
+                    <div><i></i> أداء سريع جداً، مناسب للمطورين المحترفين</div>
+                    <div><i></i> بعض الميزات تجريبية، أقل انتشاراً من VS Code</div>
+                </div>
+                <a href="https://zed.dev/" target="_blank" rel="noopener noreferrer">زيارة الموقع</a>
+            </div>
+
+            <div>
+                <div>
+                    <h3><i></i> JetBrains AI Assistant</h3>
+                </div>
+                <p>مساعد ذكي داخل بيئات JetBrains (مثل IntelliJ) لتوليد الكود وتحليل المشاريع.</p>
+                <div>
+                    <div><i></i> تكامل كامل مع أدوات JetBrains، تحليل ذكي</div>
+                    <div><i></i> يتطلب اشتراكاً، يعمل فقط داخل أدواتهم</div>
+                </div>
+                <a href="https://www.jetbrains.com/ai/" target="_blank" rel="noopener noreferrer">زيارة الموقع</a>
+            </div>
+
+             <div>
+                <div>
+                    <h3><i></i> VS Code مع CopilotX</h3>
+                    <span>GitHub</span>
+                </div>
+                <p>بيئة تطوير مشهورة عالمياً مع مساعد برمجي قوي جداً من مايكروسوفت.</p>
+                <div>
+                    <div><i></i> دعم لغات برمجة عديدة، مجتمع ضخم جداً</div>
+                    <div><i></i> يحتاج إعداد إضافات، بعض الميزات مدفوعة</div>
+                </div>
+                <a href="https://github.com/features/copilot" target="_blank" rel="noopener noreferrer">زيارة الموقع</a>
+            </div>
+
+        </div>
+    </section>
+
+    <div>
+        
+        <section>
+            <h3><i></i> إضافات IDE</h3>
+            <ul>
+                <li>
+                    <a href="https://github.com/features/copilot" target="_blank" rel="noopener noreferrer">GitHub Copilot</a>
+                    <p>إكمال الكود تلقائيًا واقتراح حلول برمجية ذكية.</p>
+                </li>
+                <li>
+                    <a href="https://www.tabnine.com/" target="_blank" rel="noopener noreferrer">Tabnine</a>
+                    <p>مساعد كتابة الكود يعتمد على نماذج ذكاء اصطناعي خاصة.</p>
+                </li>
+                <li>
+                    <a href="https://codeium.com/" target="_blank" rel="noopener noreferrer">Codeium</a>
+                    <p>إكمال كود مجاني وقوي يدعم العديد من المحررات.</p>
+                </li>
+                 <li>
+                    <a href="https://cline.bot/" target="_blank" rel="noopener noreferrer">Cline</a>
+                    <p>وكيل ذكي للمطورين يساعد في تنفيذ المهام البرمجية المعقدة.</p>
+                </li>
+                <li>
+                    <a href="https://continue.dev/" target="_blank" rel="noopener noreferrer">Continue</a>
+                    <p>إضافة مفتوحة المصدر لتحويل IDE الخاص بك إلى مساعد ذكي.</p>
+                </li>
+                <li>
+                    <a href="https://www.askcodi.com/" target="_blank" rel="noopener noreferrer">AskCodi</a>
+                    <p>مساعد برمجي شامل يساعد على توليد الأكواد وتصحيحها.</p>
+                </li>
+                <li>
+                    <a href="https://bito.ai/" target="_blank" rel="noopener noreferrer">Bito</a>
+                    <p>مساعد برمجي يشرح الكود ويقترح تحسينات أمنية وأداء.</p>
+                </li>
+            </ul>
+        </section>
+
+        <section>
+            <h3><i></i> تحليل الكود والتوثيق</h3>
+            <ul>
+                <li>
+                    <a href="https://coderabbit.ai/" target="_blank" rel="noopener noreferrer">CodeRabbit</a>
+                    <p>مراجعة الكود تلقائيًا (Pull Requests) واقتراح التحسينات.</p>
+                </li>
+                <li>
+                    <a href="https://mintlify.com/" target="_blank" rel="noopener noreferrer">Mintlify</a>
+                    <p>توليد وثائق الكود (Documentation) بشكل تلقائي واحترافي.</p>
+                </li>
+                <li>
+                    <a href="https://swimm.io/" target="_blank" rel="noopener noreferrer">Swimm</a>
+                    <p>توثيق المشاريع وربط الشرح بالكود مباشرة لضمان التحديث.</p>
+                </li>
+                 <li>
+                    <a href="https://qodo.ai/" target="_blank" rel="noopener noreferrer">Qodo</a>
+                    <p>تحليل جودة الكود واكتشاف الأخطاء المحتملة قبل التشغيل.</p>
+                </li>
+                <li>
+                    <a href="https://mutable.ai/" target="_blank" rel="noopener noreferrer">MutableAI</a>
+                    <p>تحسين الكود وإعادة هيكلته (Refactoring) تلقائياً.</p>
+                </li>
+            </ul>
+        </section>
+
+         <section>
+            <h3><i></i> وكلاء البرمجة (Auto Agents)</h3>
+            <ul>
+                <li>
+                    <a href="https://claude.ai/" target="_blank" rel="noopener noreferrer">Claude Code</a>
+                    <p>مساعد برمجي متكامل داخل الطرفية (Terminal) قادر على تنفيذ مهام التطوير.</p>
+                </li>
+                <li>
+                    <a href="https://opendevin.com/" target="_blank" rel="noopener noreferrer">OpenDevin</a>
+                    <p>وكيل برمجي مفتوح المصدر يعمل كمهندس برمجيات ذكي لبناء التطبيقات.</p>
+                </li>
+                <li>
+                    <a href="https://roocode.com/" target="_blank" rel="noopener noreferrer">RooCode</a>
+                    <p>مساعد برمجي متطور لتنفيذ المهام البرمجية خطوة بخطوة.</p>
+                </li>
+                 <li>
+                    <a href="https://aider.chat/" target="_blank" rel="noopener noreferrer">Aider</a>
+                    <p>أداة سطر أوامر قوية لتعديل الكود مباشرة عبر أوامر نصية بسيطة.</p>
+                </li>
+                <li>
+                    <a href="https://cognition.ai/" target="_blank" rel="noopener noreferrer">Devin</a>
+                    <p>وكيل تطوير مستقل تماماً قادر على بناء مشاريع برمجية كاملة وحل المشاكل.</p>
+                </li>
+                 <li>
+                    <a href="https://smythos.com/" target="_blank" rel="noopener noreferrer">SmythOS</a>
+                    <p>منصة لبناء ونشر وكلاء ذكاء اصطناعي مخصصين للمهام البرمجية.</p>
+                </li>
+            </ul>
+        </section>
+
+        <section>
+            <h3><i></i> البرمجة السحابية</h3>
+            <ul>
+                <li>
+                    <a href="https://github.com/features/codespaces" target="_blank" rel="noopener noreferrer">GitHub Codespaces</a>
+                    <p>بيئة تطوير سحابية متكاملة تماماً مع مشاريع GitHub.</p>
+                </li>
+                <li>
+                    <a href="https://aws.amazon.com/q/developer/" target="_blank" rel="noopener noreferrer">Amazon Q Developer</a>
+                    <p>مساعد تطوير ذكي متخصص لخدمات ومشاريع AWS.</p>
+                </li>
+                <li>
+                    <a href="https://replit.com/" target="_blank" rel="noopener noreferrer">Replit Agent</a>
+                    <p>أنشئ تطبيقات كاملة وانشرها فوراً من خلال وصف نصي بسيط.</p>
+                </li>
+                 <li>
+                    <a href="https://stackblitz.com/" target="_blank" rel="noopener noreferrer">StackBlitz</a>
+                    <p>تشغيل ومشاركة مشاريع الويب (Full Stack) مباشرة داخل المتصفح.</p>
+                </li>
+                <li>
+                    <a href="https://codesandbox.io/" target="_blank" rel="noopener noreferrer">CodeSandbox</a>
+                    <p>بيئة تطوير سحابية سريعة لبناء النماذج الأولية وتجربة الأكواد.</p>
+                </li>
+                <li>
+                    <a href="https://cursor.sh/" target="_blank" rel="noopener noreferrer">Cursor Cloud</a>
+                    <p>نسخة سحابية متكاملة من محرر الأكواد Cursor الذكي.</p>
+                </li>
+            </ul>
+        </section>
+
+        <section>
+            <h3><i></i> روبوتات البرمجة (LLM Chats)</h3>
+            
+            <div>
+                <a href="https://chatgpt.com/" target="_blank" rel="noopener noreferrer">ChatGPT</a>
+                <a href="https://claude.ai/" target="_blank" rel="noopener noreferrer">Claude</a>
+                <a href="https://gemini.google/" target="_blank" rel="noopener noreferrer">Gemini</a>
+                <a href="https://www.perplexity.ai/" target="_blank" rel="noopener noreferrer">Perplexity</a>
+                <a href="https://cody.dev/" target="_blank" rel="noopener noreferrer">Cody</a>
+                <a href="https://www.phind.com/" target="_blank" rel="noopener noreferrer">Phind</a>
+            </div>
+            <p>نماذج لغوية قوية لشرح الأكواد، تحليل المشاريع، والبحث التقني.</p>
+        </section>
+
+    </div>
+
+    <div>
+        <div></div>
+        <p>
+            هذه الأدوات أصبحت جزءًا أساسيًا من بيئة تطوير البرمجيات الحديثة، حيث يساعد الذكاء الاصطناعي المطورين على كتابة الكود أسرع، اكتشاف الأخطاء مبكرًا، وبناء منتجات كاملة في وقت قياسي. اختر الأدوات التي تناسب سير عملك وضاعف إنتاجيتك اليوم!
+        </p>
+    </div>
+
+</div>
+]]></content:encoded>
+    <media:content url="https://kinantouch.com/assets/images/1774013019847_20260320_042312.webp" type="image/webp" medium="image" />
+    <enclosure url="https://kinantouch.com/assets/images/1774013019847_20260320_042312.webp" type="image/webp" />
+  </item>
+  <item>
+    <title><![CDATA[AI دليل أفضل أدوات الذكاء الاصطناعي لإنشاء وتحرير الفيديو باحترافية]]></title>
+    <link>https://kinantouch.com/article-video-creation-ai</link>
+    <guid isPermaLink="true">https://kinantouch.com/article-video-creation-ai</guid>
+    <pubDate>Fri, 20 Mar 2026 12:03:00 GMT</pubDate>
+    <dc:creator><![CDATA[كنان الصائغ]]></dc:creator>
+    <category>AI</category>
+    <description><![CDATA[اكتشف أبرز أدوات الذكاء الاصطناعي لتوليد وتحرير الفيديوهات بسرعة وسهولة. قائمة شاملة بالمميزات والعيوب لكل أداة لصناع المحتوى.]]></description>
+    <content:encoded><![CDATA[<div dir="rtl">
+
+    <p>
+        لم يعد إنتاج الفيديو يتطلب فريقًا كاملًا من المصممين والمحررين، فبفضل أدوات الذكاء الاصطناعي أصبح بإمكانك إنشاء فيديو احترافي أو تحريره خلال دقائق. نضع بين يديك مجموعة من أبرز الأدوات التي يعتمد عليها صناع المحتوى اليوم.
+    </p>
+
+    <section>
+        <div>
+            <span>
+                <i></i>
+            </span>
+            <div>
+                <h2>🤖 أدوات توليد الفيديو بالذكاء الاصطناعي</h2>
+                <p>إنشاء مقاطع فيديو مذهلة انطلاقاً من النصوص أو الصور</p>
+            </div>
+        </div>
+
+        <div>
+            
+            <div>
+                <div>
+                    <h3>🎥 Gemini Veo 3.1</h3>
+                    <span>Google</span>
+                </div>
+                <p>نموذج متقدم لتوليد فيديوهات واقعية عالية الجودة انطلاقاً من النصوص.</p>
+                <div>
+                    <div><i></i> جودة سينمائية وفهم متقدم للحركة</div>
+                    <div><i></i> الوصول محدود، يتطلب موارد عالية</div>
+                </div>
+                <a href="https://gemini.google/overview/video" target="_blank" rel="noopener noreferrer">زيارة الموقع</a>
+            </div>
+
+            <div>
+                <div>
+                    <h3>🎬 Sora 2</h3>
+                    <span>OpenAI</span>
+                </div>
+                <p>نموذج متطور لإنشاء فيديو كامل بلقطات متنوعة من وصف نصي دقيق.</p>
+                <div>
+                    <div><i></i> فيديو طويل نسبياً وفهم دقيق للسياق</div>
+                    <div><i></i> غير متاح للجميع، يحتاج وصفاً دقيقاً</div>
+                </div>
+                <a href="https://sora.chatgpt.com/explore" target="_blank" rel="noopener noreferrer">زيارة الموقع</a>
+            </div>
+
+            <div>
+                <div>
+                    <h3>🎞️ Runway Gen-4.5</h3>
+                </div>
+                <p>منصة قوية وشاملة لتوليد وتحرير الفيديو تعتمد على تقنيات الذكاء الاصطناعي.</p>
+                <div>
+                    <div><i></i> تحويل النص لفيديو وأدوات تحرير احترافية</div>
+                    <div><i></i> الميزات المتقدمة مدفوعة، يحتاج تعلم</div>
+                </div>
+                <a href="https://runwayml.com/" target="_blank" rel="noopener noreferrer">زيارة الموقع</a>
+            </div>
+
+            <div>
+                <div>
+                    <h3>🎥 Kling AI</h3>
+                </div>
+                <p>أداة صينية متقدمة جداً لتوليد فيديوهات واقعية وحركية دقيقة من النص.</p>
+                <div>
+                    <div><i></i> حركة واقعية للشخصيات وجودة عالية</div>
+                    <div><i></i> الوصول محدود جغرافياً، يتطلب إعدادات</div>
+                </div>
+                <a href="https://app.klingai.com/global/omni" target="_blank" rel="noopener noreferrer">زيارة الموقع</a>
+            </div>
+
+            <div>
+                <div>
+                    <h3>🎬 Pika Labs</h3>
+                </div>
+                <p>أداة متميزة لإنشاء مقاطع فيديو قصيرة وحيوية من النصوص أو الصور الساكنة.</p>
+                <div>
+                    <div><i></i> سرعة التوليد، مناسب جداً للسوشال ميديا</div>
+                    <div><i></i> تحكم محدود بالمشهد، مقاطع قصيرة</div>
+                </div>
+                <a href="https://pika.art/login" target="_blank" rel="noopener noreferrer">زيارة الموقع</a>
+            </div>
+
+            <div>
+                <div>
+                    <h3>🧑‍💻 Synthesia</h3>
+                </div>
+                <p>إنشاء فيديوهات تسويقية أو تعليمية باستخدام شخصيات رقمية (أفاتار) تتحدث بطلقة.</p>
+                <div>
+                    <div><i></i> شخصيات واقعية، دعم لغات متعددة</div>
+                    <div><i></i> تخصيص محدود للمشاهد، الاشتراك إلزامي</div>
+                </div>
+                <a href="https://synthesia.io/" target="_blank" rel="noopener noreferrer">زيارة الموقع</a>
+            </div>
+
+             <div>
+                <div>
+                    <h3>🎥 Wan 2.6</h3>
+                </div>
+                <p>أداة حديثة لتوليد الفيديو تعتمد على نماذج متقدمة لتحويل النص والصور.</p>
+                <div>
+                    <div><i></i> توليد سريع، مناسب للنماذج الأولية</div>
+                    <div><i></i> نتائج غير مستقرة، قيد التطوير</div>
+                </div>
+                <a href="https://create.wan.video/generate/video" target="_blank" rel="noopener noreferrer">زيارة الموقع</a>
+            </div>
+
+        </div>
+    </section>
+
+    <section>
+        <div>
+            <span>
+                <i></i>
+            </span>
+            <div>
+                <h2>✂️ أدوات تحرير الفيديو بالذكاء الاصطناعي</h2>
+                <p>تسريع عملية المونتاج، الدبلجة، وإضافة التأثيرات ذكياً</p>
+            </div>
+        </div>
+
+        <div>
+            
+            <div>
+                <div>
+                    <h3>🎙️ Descript</h3>
+                </div>
+                <p>طريقة ثورية لتحرير الفيديو والصوت عبر تعديل النص المكتوب مباشرة.</p>
+                <div>
+                    <div><i></i> تحرير بسيط وسريع، إزالة الحشو تلقائياً</div>
+                    <div><i></i> محدود في المونتاج المعقد</div>
+                </div>
+                <a href="https://descript.com/" target="_blank" rel="noopener noreferrer">زيارة الموقع</a>
+            </div>
+
+            <div>
+                <div>
+                    <h3>🎬 OpusClip</h3>
+                </div>
+                <p>أداة ذكية لتحويل الفيديوهات الطويلة (بودكاست، يوتيوب) إلى مقاطع قصيرة (Viral) للسوشال ميديا.</p>
+                <div>
+                    <div><i></i> استخراج أفضل اللحظات ذكياً، إضافة ترجمة</div>
+                    <div><i></i> تحكم محدود في القص اليدوي</div>
+                </div>
+                <a href="https://opus.pro/ai-video-editor" target="_blank" rel="noopener noreferrer">زيارة الموقع</a>
+            </div>
+
+            <div>
+                <div>
+                    <h3>🎧 ElevenLabs</h3>
+                </div>
+                <p>الرائدة في توليد أصوات واقعية جداً (Text-to-Speech) للتعليق الصوتي أو الدبلجة.</p>
+                <div>
+                    <div><i></i> أصوات بشرية طبيعية، دعم لغات متعددة</div>
+                    <div><i></i> الاستخدام المكثف مدفوع</div>
+                </div>
+                <a href="https://elevenlabs.io/" target="_blank" rel="noopener noreferrer">زيارة الموقع</a>
+            </div>
+
+            <div>
+                <div>
+                    <h3>✍️ Submagic</h3>
+                </div>
+                <p>إنشاء ترجمة تلقائية احترافية وتأثيرات نصية جذابة للفيديوهات القصيرة (Reels/Shorts).</p>
+                <div>
+                    <div><i></i> ترجمة دقيقة، تأثيرات بصرية جاهزة</div>
+                    <div><i></i> تخصيص محدود للخطوط</div>
+                </div>
+                <a href="https://submagic.co/" target="_blank" rel="noopener noreferrer">زيارة الموقع</a>
+            </div>
+
+            <div>
+                <div>
+                    <h3>🎞️ Veed.io</h3>
+                </div>
+                <p>محرر فيديو متكامل أونلاين يوفر أدوات ذكاء اصطناعي للترجمة القص، وإضافة التأثيرات بسهولة.</p>
+                <div>
+                    <div><i></i> واجهة سهلة جداً، أدوات ترجمة سريعة</div>
+                    <div><i></i> الخطة المجانية محدودة</div>
+                </div>
+                <a href="https://veed.io/" target="_blank" rel="noopener noreferrer">زيارة الموقع</a>
+            </div>
+
+        </div>
+    </section>
+
+    <div>
+        <p>
+            مع هذه الأدوات الثورية، أصبح إنتاج الفيديو الاحترافي أسهل وأسرع بكثير مما مضى. يمكن لأي صانع محتوى الآن تحويل فكرة بسيطة إلى فيديو عالي الجودة بفضل قوة الذكاء الاصطناعي. ابدأ بتجربة الأداة التي تناسب احتياجاتك اليوم!
+        </p>
+    </div>
+
+</div>]]></content:encoded>
+    <media:content url="https://kinantouch.com/assets/images/1774010382298_20260320_033907.webp" type="image/webp" medium="image" />
+    <enclosure url="https://kinantouch.com/assets/images/1774010382298_20260320_033907.webp" type="image/webp" />
+  </item>
+</channel>
+</rss>
