@@ -6,7 +6,7 @@ import react from '@vitejs/plugin-react';
 export default defineConfig({
   plugins: [react()],
   // Root domain configuration (Crucial for kinantouch.com)
-  base: '/', 
+  base: '/techtouch.com-v2/',
   build: {
     outDir: 'dist',
     assetsDir: 'assets',
