@@ -1,0 +1,56 @@
+name: Deploy Vite Site to GitHub Pages
+
+on:
+  # التشغيل التلقائي عند الدفع (Push) إلى الفرع الرئيسي
+  push:
+    branches: ["main"]
+  # السماح بتشغيل المسار يدوياً من واجهة GitHub
+  workflow_dispatch:
+
+# إعداد الصلاحيات المطلوبة لنشر الصفحات
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# منع تشغيل عمليات نشر متوازية لتجنب التعارض
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  build-and-deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20' # استخدام إصدار مستقر وحديث من Node.js
+          cache: 'npm'
+
+      - name: Install dependencies
+        # استخدام npm ci بدلاً من npm install لضمان تطابق الاعتمادات الصارم في بيئات CI/CD
+        run: npm ci
+
+      - name: Build project
+        # بناء المشروع، المخرجات الافتراضية لـ Vite ستكون في مجلد 'dist'
+        run: npm run build
+
+      - name: Setup GitHub Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # تحديد مسار المخرجات الذي يولده Vite
+          path: './dist'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
