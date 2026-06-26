@@ -19,7 +19,7 @@ function getHtmlEntries() {
 export default defineConfig({
   plugins: [react()],
   // Root domain configuration (Crucial for kinantouch.com)
-  base: '/techtouch.com-v2/',
+  base: './',
   build: {
     outDir: 'dist',
     assetsDir: 'assets',

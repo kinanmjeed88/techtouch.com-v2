@@ -223,7 +223,7 @@ export const createCardHTML = (post, aboutData, categoriesData = [], isFirst = f
     });
 
     return `
-    <a href="/article-${post.slug}.html" class="group block w-full h-full animate-fade-in post-card-wrapper">
+    <a href="article-${post.slug}.html" class="group block w-full h-full animate-fade-in post-card-wrapper">
         <div class="post-card bg-white dark:bg-gray-800 rounded-2xl overflow-hidden shadow-sm border border-gray-100 dark:border-gray-700 h-full flex flex-col relative w-full">
             <div class="h-40 sm:h-48 w-full overflow-hidden relative bg-gray-100 dark:bg-gray-700">
                 <img src="${cleanPath(post.image)}" width="400" height="300" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700" alt="${escapeHtml(stripHtml(post.title))}" ${loadingAttr} decoding="async" onerror="this.onerror=null;this.src='assets/images/me.jpg';" />

@@ -282,7 +282,7 @@ export async function generateIndividualArticles({ allPosts, postsByCategory, ab
                 const rDate = r.effectiveDate.toISOString().split('T')[0];
                 // Clean Link (No .html)
                 relatedHTML += `
-                <a href="/article-${r.slug}.html" class="flex flex-col bg-white dark:bg-gray-800 rounded-xl overflow-hidden shadow-sm border border-gray-100 dark:border-gray-700 hover:shadow-md transition-all group h-full">
+                <a href="article-${r.slug}.html" class="flex flex-col bg-white dark:bg-gray-800 rounded-xl overflow-hidden shadow-sm border border-gray-100 dark:border-gray-700 hover:shadow-md transition-all group h-full">
                     <div class="h-28 overflow-hidden bg-gray-200 dark:bg-gray-700 shrink-0">
                         <img src="${cleanPath(r.image)}" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" loading="lazy" onerror="this.onerror=null;this.src='assets/images/me.jpg';" />
                     </div>
@@ -315,7 +315,7 @@ export async function generateIndividualArticles({ allPosts, postsByCategory, ab
                     const rDate = r.effectiveDate.toISOString().split('T')[0];
                     // Clean Link (No .html)
                     relatedHTML += `
-                    <a href="/article-${r.slug}.html" class="flex items-start gap-3 bg-white dark:bg-gray-800 p-2 rounded-xl shadow-sm border border-gray-100 dark:border-gray-700 hover:bg-gray-50 dark:hover:bg-gray-700/50 transition-all group">
+                    <a href="article-${r.slug}.html" class="flex items-start gap-3 bg-white dark:bg-gray-800 p-2 rounded-xl shadow-sm border border-gray-100 dark:border-gray-700 hover:bg-gray-50 dark:hover:bg-gray-700/50 transition-all group">
                         <img src="${cleanPath(r.image)}" class="w-16 h-12 object-cover rounded-lg shrink-0 bg-gray-200 dark:bg-gray-700" loading="lazy" onerror="this.onerror=null;this.src='assets/images/me.jpg';" />
                         <div class="flex-1 min-w-0 self-center">
                             <h4 class="font-bold text-gray-900 dark:text-white leading-snug group-hover:text-blue-600 transition-colors" style="font-size: 14px; line-height: 1.5; overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;">${stripHtml(r.title || '')}</h4>
