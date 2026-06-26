@@ -70,7 +70,22 @@ window.addEventListener("load", function(){
     "@type": "WebPage",
     "@id": "/techtouch.com-v2/article-telegram-security"
   }
-}</script><script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7355327732066930" crossorigin="anonymous"></script><link rel="canonical" href="/techtouch.com-v2/article-telegram-security">
+}</script>
+<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer=""></script>
+<script>
+  window.OneSignalDeferred = window.OneSignalDeferred || [];
+  OneSignalDeferred.push(function(OneSignal) {
+    if (!OneSignal.initialized) {
+        OneSignal.init({
+          appId: "YOUR_ONESIGNAL_APP_ID",
+          safari_web_id: "web.onesignal.auto.xxxxx",
+          notifyButton: { enable: true },
+        });
+        OneSignal.initialized = true;
+    }
+  });
+</script>
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7355327732066930" crossorigin="anonymous"></script><link rel="canonical" href="/techtouch.com-v2/article-telegram-security">
     <style id="dynamic-theme-styles">
 /* =====================================
    STRUCTURAL PRESERVATION
@@ -298,7 +313,14 @@ article {
                         <span class="view-count-display font-bold font-mono tracking-tight" data-slug="telegram-security">12</span>
                     </div>
                 </div>
-            <div class="flex items-center gap-1 header-actions"></div></div>
+            <div class="flex items-center gap-1 header-actions">
+        <a href="index.html" id="home-btn-header" class="p-2 rounded-lg bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors mx-1 order-1" aria-label="الرئيسية">
+            <i data-lucide="home" class="w-5 h-5 text-gray-600 dark:text-gray-300"></i>
+        </a>
+        <button id="theme-toggle" class="p-2 rounded-lg bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors order-3">
+            <i data-lucide="moon" class="w-5 h-5 text-gray-600 dark:hidden"></i>
+            <i data-lucide="sun" class="w-5 h-5 text-yellow-500 hidden dark:block"></i>
+        </button></div></div>
             
             
         </header>
