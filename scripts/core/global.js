@@ -63,7 +63,7 @@ export const updateGlobalElements = (htmlContent, fileName = '', pageTitleOverri
     });
 
     // Conditional Script Loading - USING isArticle
-    if (!isArticle) {
+    if (true) {
         $('head').append(ONESIGNAL_SCRIPT(ONESIGNAL_APP_ID));
     }
 
@@ -162,7 +162,7 @@ export const updateGlobalElements = (htmlContent, fileName = '', pageTitleOverri
     }
     actionsContainer.empty();
 
-    if (!isArticle) {
+    if (true) {
         const homeBtn = `
         <a href="index.html" id="home-btn-header" class="p-2 rounded-lg bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors mx-1 order-1" aria-label="الرئيسية">
             <i data-lucide="home" class="w-5 h-5 text-gray-600 dark:text-gray-300"></i>
